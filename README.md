@@ -22,7 +22,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-02-24**|**FLSea: Underwater Visual-Inertial and Stereo-Vision Forward-Looking Datasets**|Yelena Randall et.al.|[2302.12772v1](http://arxiv.org/abs/2302.12772v1)|null|
-|**2023-02-23**|**CP+: Camera Poses Augmentation with Large-scale LiDAR Maps**|Jiadi Cui et.al.|[2302.12198v1](http://arxiv.org/abs/2302.12198v1)|null|
+|**2023-02-27**|**CP+: Camera Poses Augmentation with Large-scale LiDAR Maps**|Jiadi Cui et.al.|[2302.12198v2](http://arxiv.org/abs/2302.12198v2)|null|
 |**2023-02-19**|**EdgeVO: An Efficient and Accurate Edge-based Visual Odometry**|Hui Zhao et.al.|[2302.09493v1](http://arxiv.org/abs/2302.09493v1)|null|
 |**2023-02-12**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen et.al.|[2302.00523v2](http://arxiv.org/abs/2302.00523v2)|null|
 |**2023-01-31**|**Design and Implementation of A Soccer Ball Detection System with Multiple Cameras**|Lei Li et.al.|[2302.00123v1](http://arxiv.org/abs/2302.00123v1)|null|
@@ -406,6 +406,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-27**|**BaLi-RF: Bandlimited Radiance Fields for Dynamic Scene Modeling**|Sameera Ramasinghe et.al.|[2302.13543v1](http://arxiv.org/abs/2302.13543v1)|null|
 |**2023-02-21**|**EC-SfM: Efficient Covisibility-based Structure-from-Motion for Both Sequential and Unordered Images**|Zhichao Ye et.al.|[2302.10544v1](http://arxiv.org/abs/2302.10544v1)|**[link](https://github.com/openxrlab/xrsfm)**|
 |**2023-02-18**|**Bridge Damage Cause Estimation Using Multiple Images Based on Visual Question Answering**|Tatsuro Yamane et.al.|[2302.09208v1](http://arxiv.org/abs/2302.09208v1)|null|
 |**2023-02-12**|**Uncertainty-Driven Dense Two-View Structure from Motion**|Weirong Chen et.al.|[2302.00523v2](http://arxiv.org/abs/2302.00523v2)|null|
@@ -492,6 +493,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-27**|**Efficient Informed Proposals for Discrete Distributions via Newton's Series Approximation**|Yue Xiang et.al.|[2302.13929v1](http://arxiv.org/abs/2302.13929v1)|**[link](https://github.com/dongyaozhu/newton-proposal-for-discrete-sampling)**|
+|**2023-02-26**|**Data-Efficient Sequence-Based Visual Place Recognition with Highly Compressed JPEG Images**|Mihnea-Alexandru Tomita et.al.|[2302.13314v1](http://arxiv.org/abs/2302.13314v1)|null|
+|**2023-02-26**|**Learning cross space mapping via DNN using large scale click-through logs**|Wei Yu et.al.|[2302.13275v1](http://arxiv.org/abs/2302.13275v1)|null|
+|**2023-02-25**|**DeepBrainPrint: A Novel Contrastive Framework for Brain MRI Re-Identification**|Lemuel Puglisi et.al.|[2302.13057v1](http://arxiv.org/abs/2302.13057v1)|null|
 |**2023-02-23**|**Teaching CLIP to Count to Ten**|Roni Paiss et.al.|[2302.12066v1](http://arxiv.org/abs/2302.12066v1)|null|
 |**2023-02-22**|**Steerable Equivariant Representation Learning**|Sangnie Bhardwaj et.al.|[2302.11349v1](http://arxiv.org/abs/2302.11349v1)|null|
 |**2023-02-21**|**iQPP: A Benchmark for Image Query Performance Prediction**|Eduard Poesina et.al.|[2302.10126v2](http://arxiv.org/abs/2302.10126v2)|**[link](https://github.com/eduard6421/iqpp)**|
@@ -800,6 +805,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-26**|**PaRK-Detect: Towards Efficient Multi-Task Satellite Imagery Road Extraction via Patch-Wise Keypoints Detection**|Shenwei Xie et.al.|[2302.13263v1](http://arxiv.org/abs/2302.13263v1)|null|
 |**2023-02-24**|**Hybrid machine-learned homogenization: Bayesian data mining and convolutional neural networks**|Julian Lißner et.al.|[2302.12545v1](http://arxiv.org/abs/2302.12545v1)|null|
 |**2023-02-21**|**Deep Reinforcement Learning Based on Local GNN for Goal-conditioned Deformable Object Rearranging**|Yuhong Deng et.al.|[2302.10446v1](http://arxiv.org/abs/2302.10446v1)|null|
 |**2023-02-12**|**A Correct-and-Certify Approach to Self-Supervise Object Pose Estimators via Ensemble Self-Training**|Jingnan Shi et.al.|[2302.06019v1](http://arxiv.org/abs/2302.06019v1)|null|
@@ -924,6 +930,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-25**|**BrainCLIP: Bridging Brain and Visual-Linguistic Representation via CLIP for Generic Natural Visual Stimulus Decoding from fMRI**|Yulong Liu et.al.|[2302.12971v1](http://arxiv.org/abs/2302.12971v1)|null|
 |**2023-02-24**|**Classification of structural building damage grades from multi-temporal photogrammetric point clouds using a machine learning model trained on virtual laser scanning data**|Vivien Zahs et.al.|[2302.12591v1](http://arxiv.org/abs/2302.12591v1)|null|
 |**2023-02-20**|**A Large Scale Homography Benchmark**|Daniel Barath et.al.|[2302.09997v1](http://arxiv.org/abs/2302.09997v1)|null|
 |**2023-02-10**|**General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox**|Kenji Koide et.al.|[2302.05094v1](http://arxiv.org/abs/2302.05094v1)|**[link](https://github.com/koide3/direct_visual_lidar_calibration)**|
@@ -1034,6 +1041,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-02-27**|**BaLi-RF: Bandlimited Radiance Fields for Dynamic Scene Modeling**|Sameera Ramasinghe et.al.|[2302.13543v1](http://arxiv.org/abs/2302.13543v1)|null|
+|**2023-02-26**|**Efficient physics-informed neural networks using hash encoding**|Xinquan Huang et.al.|[2302.13397v1](http://arxiv.org/abs/2302.13397v1)|null|
+|**2023-02-24**|**CATNIPS: Collision Avoidance Through Neural Implicit Probabilistic Scenes**|Timothy Chen et.al.|[2302.12931v1](http://arxiv.org/abs/2302.12931v1)|null|
 |**2023-02-24**|**Learning Neural Volumetric Representations of Dynamic Humans in Minutes**|Chen Geng et.al.|[2302.12237v2](http://arxiv.org/abs/2302.12237v2)|null|
 |**2023-02-23**|**DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models**|Jamie Wynn et.al.|[2302.12231v1](http://arxiv.org/abs/2302.12231v1)|null|
 |**2023-02-20**|**NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion**|Jiatao Gu et.al.|[2302.10109v1](http://arxiv.org/abs/2302.10109v1)|null|
