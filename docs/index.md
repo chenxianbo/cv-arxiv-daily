@@ -25,6 +25,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-02**|**A Small Form Factor Aerial Research Vehicle for Pick-and-Place Tasks with Onboard Real-Time Object Detection and Visual Odometry**|Cora A. Dimmig et.al.|[2308.01398v1](http://arxiv.org/abs/2308.01398v1)|null|
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
 |**2023-08-02**|**Preliminary Design of the Dragonfly Navigation Filter**|Ben Schilling et.al.|[2307.13513v2](http://arxiv.org/abs/2307.13513v2)|null|
 |**2023-07-19**|**Optimizing the extended Fourier Mellin Transformation Algorithm**|Wenqing Jiang et.al.|[2307.10015v1](http://arxiv.org/abs/2307.10015v1)|**[link](https://github.com/star-center/o-efmt)**|
@@ -578,6 +579,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-03**|**Similar image retrieval using Autoencoder. I. Automatic morphology classification of galaxies**|Eunsuk Seo et.al.|[2308.01871v1](http://arxiv.org/abs/2308.01871v1)|null|
 |**2023-08-01**|**AnyLoc: Towards Universal Visual Place Recognition**|Nikhil Keetha et.al.|[2308.00688v1](http://arxiv.org/abs/2308.00688v1)|**[link](https://github.com/AnyLoc/AnyLoc)**|
 |**2023-07-31**|**Guiding Image Captioning Models Toward More Specific Captions**|Simon Kornblith et.al.|[2307.16686v1](http://arxiv.org/abs/2307.16686v1)|null|
 |**2023-07-31**|**Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex Visual Reasoning Tasks**|Kousik Rajesh et.al.|[2307.16395v1](http://arxiv.org/abs/2307.16395v1)|null|
