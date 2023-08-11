@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**Mono-hydra: Real-time 3D scene graph construction from monocular camera input with IMU**|U. V. B. L. Udugama et.al.|[2308.05515v1](http://arxiv.org/abs/2308.05515v1)|null|
 |**2023-08-01**|**NR-SLAM: Non-Rigid Monocular SLAM**|Juan J. Gomez Rodriguez et.al.|[2308.04036v1](http://arxiv.org/abs/2308.04036v1)|null|
 |**2023-08-02**|**A Small Form Factor Aerial Research Vehicle for Pick-and-Place Tasks with Onboard Real-Time Object Detection and Visual Odometry**|Cora A. Dimmig et.al.|[2308.01398v1](http://arxiv.org/abs/2308.01398v1)|null|
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
@@ -577,6 +578,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**KS-APR: Keyframe Selection for Robust Absolute Pose Regression**|Changkun Liu et.al.|[2308.05459v1](http://arxiv.org/abs/2308.05459v1)|null|
 |**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992v1](http://arxiv.org/abs/2308.04992v1)|**[link](https://github.com/thezjd/aspectmmkg)**|
 |**2023-08-08**|**Unifying Two-Stream Encoders with Transformers for Cross-Modal Retrieval**|Yi Bin et.al.|[2308.04343v1](http://arxiv.org/abs/2308.04343v1)|**[link](https://github.com/luminosityx/hat)**|
 |**2023-08-08**|**Coarse-to-Fine: Learning Compact Discriminative Representation for Single-Stage Image Retrieval**|Yunquan Zhu et.al.|[2308.04008v1](http://arxiv.org/abs/2308.04008v1)|**[link](https://github.com/bassyess/cfcd)**|
@@ -1068,6 +1070,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667v1](http://arxiv.org/abs/2308.05667v1)|null|
 |**2023-08-02**|**Automated Hit-frame Detection for Badminton Match Analysis**|Yu-Hang Chien et.al.|[2307.16000v2](http://arxiv.org/abs/2307.16000v2)|**[link](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**|
 |**2023-07-25**|**Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**|Chuanyu Luo et.al.|[2307.13300v1](http://arxiv.org/abs/2307.13300v1)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698v2](http://arxiv.org/abs/2307.10698v2)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
