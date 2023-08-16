@@ -1076,6 +1076,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926v1](http://arxiv.org/abs/2308.07926v1)|**[link](https://github.com/qiuyu96/codef)**|
+|**2023-08-15**|**ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition**|Wenyuan Xue et.al.|[2308.07743v1](http://arxiv.org/abs/2308.07743v1)|null|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153v1](http://arxiv.org/abs/2308.07153v1)|null|
 |**2023-08-14**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667v2](http://arxiv.org/abs/2308.05667v2)|null|
 |**2023-08-02**|**Automated Hit-frame Detection for Badminton Match Analysis**|Yu-Hang Chien et.al.|[2307.16000v2](http://arxiv.org/abs/2307.16000v2)|**[link](https://github.com/arthur900530/Transformer-on-Shuttlecock-Flying-Direction-Prediction-for-Hit-frame-Detection)**|
@@ -1837,6 +1839,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification**|Raza Imam et.al.|[2308.07874v1](http://arxiv.org/abs/2308.07874v1)|**[link](https://github.com/razaimam45/seda)**|
+|**2023-08-15**|**Real-time Automatic M-mode Echocardiography Measurement with Panel Attention from Local-to-Global Pixels**|Ching-Hsun Tseng et.al.|[2308.07717v1](http://arxiv.org/abs/2308.07717v1)|**[link](https://github.com/hanktseng131415go/ramem)**|
+|**2023-08-15**|**Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening**|Jack Foster et.al.|[2308.07707v1](http://arxiv.org/abs/2308.07707v1)|**[link](https://github.com/if-loops/selective-synaptic-dampening)**|
+|**2023-08-15**|**Enhancing Network Initialization for Medical AI Models Using Large-Scale, Unlabeled Natural Images**|Soroosh Tayebi Arasteh et.al.|[2308.07688v1](http://arxiv.org/abs/2308.07688v1)|null|
+|**2023-08-15**|**Block-Wise Encryption for Reliable Vision Transformer models**|Hitoshi Kiya et.al.|[2308.07612v1](http://arxiv.org/abs/2308.07612v1)|null|
+|**2023-08-14**|**Wide-Area Geolocalization with a Limited Field of View Camera in Challenging Urban Environments**|Lena M. Downes et.al.|[2308.07432v1](http://arxiv.org/abs/2308.07432v1)|null|
 |**2023-08-14**|**A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis**|Esteve Valls Mascaro et.al.|[2308.07301v1](http://arxiv.org/abs/2308.07301v1)|null|
 |**2023-08-14**|**A Robust Approach Towards Distinguishing Natural and Computer Generated Images using Multi-Colorspace fused and Enriched Vision Transformer**|Manjary P Gangan et.al.|[2308.07279v1](http://arxiv.org/abs/2308.07279v1)|null|
 |**2023-08-14**|**Large-kernel Attention for Efficient and Robust Brain Lesion Segmentation**|Liam Chalcroft et.al.|[2308.07251v1](http://arxiv.org/abs/2308.07251v1)|**[link](https://github.com/liamchalcroft/mdunet)**|
