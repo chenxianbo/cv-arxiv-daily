@@ -27,7 +27,7 @@ keywords:
                   "Line Segment Detection", "Local Feature Matching"]
     "ViTs":
         filters: ["Vision Transformer", "Linear Attention", 
-                  "Efficient Transformer", "ViT"]
+                  "Efficient Transformer", "ViT", "Efficient Attention"]
     "Keypoint Detection":
         filters: ["Keypoint Detection", "Feature Descriptor"]
     "Visual Localization":
