@@ -26,6 +26,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-19**|**Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters**|Xiao Liu et.al.|[2308.09870v1](http://arxiv.org/abs/2308.09870v1)|null|
 |**2023-08-17**|**MIPS-Fusion: Multi-Implicit-Submaps for Scalable and Robust Online Neural RGB-D Reconstruction**|Yijie Tang et.al.|[2308.08741v1](http://arxiv.org/abs/2308.08741v1)|null|
 |**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573v1](http://arxiv.org/abs/2308.06573v1)|null|
 |**2023-08-10**|**Mono-hydra: Real-time 3D scene graph construction from monocular camera input with IMU**|U. V. B. L. Udugama et.al.|[2308.05515v1](http://arxiv.org/abs/2308.05515v1)|null|
@@ -463,6 +464,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902v1](http://arxiv.org/abs/2308.10902v1)|null|
+|**2023-08-18**|**Unsupervised 3D Pose Estimation with Non-Rigid Structure-from-Motion Modeling**|Haorui Ji et.al.|[2308.10705v1](http://arxiv.org/abs/2308.10705v1)|null|
 |**2023-08-14**|**Large-scale environment mapping and immersive human-robot interaction for agricultural mobile robot teleoperation**|Tao Liu et.al.|[2308.07231v1](http://arxiv.org/abs/2308.07231v1)|**[link](https://github.com/liutao1126/enhance-sfm)**|
 |**2023-08-11**|**Efficient Large-scale AUV-based Visual Seafloor Mapping**|Mengkun She et.al.|[2308.06147v1](http://arxiv.org/abs/2308.06147v1)|null|
 |**2023-08-04**|**EDI: ESKF-based Disjoint Initialization for Visual-Inertial SLAM Systems**|Weihan Wang et.al.|[2308.02670v1](http://arxiv.org/abs/2308.02670v1)|null|
@@ -587,6 +590,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**|Gabriele Berton et.al.|[2308.10832v1](http://arxiv.org/abs/2308.10832v1)|**[link](https://github.com/gmberton/eigenplaces)**|
+|**2023-08-20**|**FashionNTM: Multi-turn Fashion Image Retrieval via Cascaded Memory**|Anwesan Pal et.al.|[2308.10170v1](http://arxiv.org/abs/2308.10170v1)|null|
 |**2023-08-18**|**3D Model-free Visual localization System from Essential Matrix under Local Planar Motion**|Yanmei Jiao et.al.|[2308.09566v1](http://arxiv.org/abs/2308.09566v1)|null|
 |**2023-08-17**|**FashionLOGO: Prompting Multimodal Large Language Models for Fashion Logo Embeddings**|Yulin Su et.al.|[2308.09012v1](http://arxiv.org/abs/2308.09012v1)|**[link](https://github.com/valley-vl/fashionlogo)**|
 |**2023-08-16**|**Integrating Visual and Semantic Similarity Using Hierarchies for Image Retrieval**|Aishwarya Venkataramanan et.al.|[2308.08431v1](http://arxiv.org/abs/2308.08431v1)|**[link](https://github.com/vaishwarya96/hierarchy-image-retrieval)**|
@@ -1085,6 +1090,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174v1](http://arxiv.org/abs/2308.10174v1)|null|
+|**2023-08-19**|**ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**|Bingyang Zhou et.al.|[2308.09987v1](http://arxiv.org/abs/2308.09987v1)|null|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479v1](http://arxiv.org/abs/2308.08479v1)|**[link](https://github.com/parskatt/dedode)**|
 |**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926v1](http://arxiv.org/abs/2308.07926v1)|**[link](https://github.com/qiuyu96/codef)**|
 |**2023-08-15**|**ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition**|Wenyuan Xue et.al.|[2308.07743v1](http://arxiv.org/abs/2308.07743v1)|null|
@@ -1246,7 +1253,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-19**|**Scene-Aware Feature Matching**|Xiaoyong Lu et.al.|[2308.09949v1](http://arxiv.org/abs/2308.09949v1)|null|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479v1](http://arxiv.org/abs/2308.08479v1)|**[link](https://github.com/parskatt/dedode)**|
+|**2023-08-19**|**Global Features are All You Need for Image Retrieval and Reranking**|Shihao Shao et.al.|[2308.06954v2](http://arxiv.org/abs/2308.06954v2)|**[link](https://github.com/shihaoshao-gh/superglobal)**|
 |**2023-08-02**|**ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**|Bo Zhang et.al.|[2308.00400v2](http://arxiv.org/abs/2308.00400v2)|**[link](https://github.com/zhangbo-nlp/zrigf)**|
 |**2023-07-28**|**Cross-Modal Concept Learning and Inference for Vision-Language Models**|Yi Zhang et.al.|[2307.15460v1](http://arxiv.org/abs/2307.15460v1)|null|
 |**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010v1](http://arxiv.org/abs/2307.12010v1)|null|
@@ -1405,6 +1414,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**CamP: Camera Preconditioning for Neural Radiance Fields**|Keunhong Park et.al.|[2308.10902v1](http://arxiv.org/abs/2308.10902v1)|null|
+|**2023-08-20**|**Strata-NeRF : Neural Radiance Fields for Stratified Scenes**|Ankit Dhiman et.al.|[2308.10337v1](http://arxiv.org/abs/2308.10337v1)|null|
+|**2023-08-19**|**HollowNeRF: Pruning Hashgrid-Based NeRFs with Trainable Collision Mitigation**|Xiufeng Xie et.al.|[2308.10122v1](http://arxiv.org/abs/2308.10122v1)|null|
+|**2023-08-19**|**AltNeRF: Learning Robust Neural Radiance Field via Alternating Depth-Pose Optimization**|Kun Wang et.al.|[2308.10001v1](http://arxiv.org/abs/2308.10001v1)|null|
+|**2023-08-19**|**Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing**|Jie Zhang et.al.|[2308.09894v1](http://arxiv.org/abs/2308.09894v1)|null|
 |**2023-08-18**|**MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection**|Junkai Xu et.al.|[2308.09421v1](http://arxiv.org/abs/2308.09421v1)|**[link](https://github.com/cskkxjk/mononerd)**|
 |**2023-08-18**|**DReg-NeRF: Deep Registration for Neural Radiance Fields**|Yu Chen et.al.|[2308.09386v1](http://arxiv.org/abs/2308.09386v1)|**[link](https://github.com/aibluefisher/dreg-nerf)**|
 |**2023-08-17**|**Watch Your Steps: Local Image and Scene Editing by Text Instructions**|Ashkan Mirzaei et.al.|[2308.08947v1](http://arxiv.org/abs/2308.08947v1)|null|
@@ -1855,6 +1869,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**Vision Transformer Pruning Via Matrix Decomposition**|Tianyi Sun et.al.|[2308.10839v1](http://arxiv.org/abs/2308.10839v1)|null|
+|**2023-08-21**|**Jumping through Local Minima: Quantization in the Loss Landscape of Vision Transformers**|Natalia Frumkin et.al.|[2308.10814v1](http://arxiv.org/abs/2308.10814v1)|null|
+|**2023-08-21**|**Patch Is Not All You Need**|Changzhen Li et.al.|[2308.10729v1](http://arxiv.org/abs/2308.10729v1)|null|
+|**2023-08-21**|**Spatial Transform Decoupling for Oriented Object Detection**|Hongtian Yu et.al.|[2308.10561v1](http://arxiv.org/abs/2308.10561v1)|**[link](https://github.com/yuhongtian17/spatial-transform-decoupling)**|
+|**2023-08-21**|**Joint learning of images and videos with a single Vision Transformer**|Shuki Shimizu et.al.|[2308.10533v1](http://arxiv.org/abs/2308.10533v1)|null|
+|**2023-08-20**|**Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting**|Qidong Huang et.al.|[2308.10315v1](http://arxiv.org/abs/2308.10315v1)|**[link](https://github.com/shikiw/robustmae)**|
+|**2023-08-20**|**FedSIS: Federated Split Learning with Intermediate Representation Sampling for Privacy-preserving Generalized Face Presentation Attack Detection**|Naif Alkhunaizi et.al.|[2308.10236v1](http://arxiv.org/abs/2308.10236v1)|**[link](https://github.com/naiftt/fedsis)**|
+|**2023-08-20**|**TransFace: Calibrating Transformer Training for Face Recognition from a Data-Centric Perspective**|Jun Dan et.al.|[2308.10133v1](http://arxiv.org/abs/2308.10133v1)|**[link](https://github.com/danjun6737/transface)**|
+|**2023-08-19**|**Towards a High-Performance Object Detector: Insights from Drone Detection Using ViT and CNN-based Deep Learning Models**|Junyang Zhang et.al.|[2308.09899v1](http://arxiv.org/abs/2308.09899v1)|null|
 |**2023-08-18**|**A Lightweight Transformer for Faster and Robust EBSD Data Collection**|Harry Dong et.al.|[2308.09693v1](http://arxiv.org/abs/2308.09693v1)|**[link](https://github.com/hdong920/ebsd_slice_recovery)**|
 |**2023-08-18**|**On the Effectiveness of LayerNorm Tuning for Continual Learning in Vision Transformers**|Thomas De Min et.al.|[2308.09610v1](http://arxiv.org/abs/2308.09610v1)|**[link](https://github.com/tdemin16/continual-layernorm-tuning)**|
 |**2023-08-18**|**Which Transformer to Favor: A Comparative Analysis of Efficiency in Vision Transformers**|Tobias Christian Nauen et.al.|[2308.09372v1](http://arxiv.org/abs/2308.09372v1)|**[link](https://github.com/tobna/whattransformertofavor)**|
