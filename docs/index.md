@@ -26,6 +26,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Joint Intrinsic and Extrinsic LiDAR-Camera Calibration in Targetless Environments Using Plane-Constrained Bundle Adjustment**|Liang Li et.al.|[2308.12629v1](http://arxiv.org/abs/2308.12629v1)|null|
 |**2023-08-19**|**Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters**|Xiao Liu et.al.|[2308.09870v1](http://arxiv.org/abs/2308.09870v1)|**[link](https://github.com/ir-lab/denkf)**|
 |**2023-08-24**|**MIPS-Fusion: Multi-Implicit-Submaps for Scalable and Robust Online Neural RGB-D Reconstruction**|Yijie Tang et.al.|[2308.08741v2](http://arxiv.org/abs/2308.08741v2)|null|
 |**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573v1](http://arxiv.org/abs/2308.06573v1)|null|
@@ -590,6 +591,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966v1](http://arxiv.org/abs/2308.12966v1)|**[link](https://github.com/qwenlm/qwen-vl)**|
 |**2023-08-23**|**Progressive Feature Mining and External Knowledge-Assisted Text-Pedestrian Image Retrieval**|Huafeng Li et.al.|[2308.11994v1](http://arxiv.org/abs/2308.11994v1)|null|
 |**2023-08-23**|**OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**|Tao Xie et.al.|[2308.11928v1](http://arxiv.org/abs/2308.11928v1)|**[link](https://github.com/mooncake199809/ufvl-net)**|
 |**2023-08-22**|**Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features**|Alberto Baldrati et.al.|[2308.11485v1](http://arxiv.org/abs/2308.11485v1)|**[link](https://github.com/ABaldrati/CLIP4Cir)**|
@@ -1095,6 +1097,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870v1](http://arxiv.org/abs/2308.12870v1)|null|
 |**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223v1](http://arxiv.org/abs/2308.11223v1)|null|
 |**2023-08-20**|**Neural Interactive Keypoint Detection**|Jie Yang et.al.|[2308.10174v1](http://arxiv.org/abs/2308.10174v1)|**[link](https://github.com/idea-research/click-pose)**|
 |**2023-08-19**|**ClothesNet: An Information-Rich 3D Garment Model Repository with Simulated Clothes Environment**|Bingyang Zhou et.al.|[2308.09987v1](http://arxiv.org/abs/2308.09987v1)|null|
@@ -1420,6 +1423,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**NOVA: NOvel View Augmentation for Neural Composition of Dynamic Objects**|Dakshit Agrawal et.al.|[2308.12560v1](http://arxiv.org/abs/2308.12560v1)|**[link](https://github.com/dakshitagrawal/nova)**|
 |**2023-08-23**|**Blending-NeRF: Text-Driven Localized Editing in Neural Radiance Fields**|Hyeonseop Song et.al.|[2308.11974v1](http://arxiv.org/abs/2308.11974v1)|null|
 |**2023-08-23**|**Pose Modulated Avatars from Video**|Chunjin Song et.al.|[2308.11951v1](http://arxiv.org/abs/2308.11951v1)|null|
 |**2023-08-22**|**Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts**|Wenyan Cong et.al.|[2308.11793v1](http://arxiv.org/abs/2308.11793v1)|null|
@@ -1881,6 +1885,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-24**|**Towards Hierarchical Regional Transformer-based Multiple Instance Learning**|Josef Cersovsky et.al.|[2308.12634v1](http://arxiv.org/abs/2308.12634v1)|null|
+|**2023-08-24**|**SieveNet: Selecting Point-Based Features for Mesh Networks**|Shengchao Yuan et.al.|[2308.12530v1](http://arxiv.org/abs/2308.12530v1)|null|
+|**2023-08-23**|**MOFO: MOtion FOcused Self-Supervision for Video Understanding**|Mona Ahmadian et.al.|[2308.12447v1](http://arxiv.org/abs/2308.12447v1)|null|
+|**2023-08-23**|**BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection**|Tinghao Xie et.al.|[2308.12439v1](http://arxiv.org/abs/2308.12439v1)|null|
+|**2023-08-23**|**Vision Transformer Adapters for Generalizable Multitask Learning**|Deblina Bhattacharjee et.al.|[2308.12372v1](http://arxiv.org/abs/2308.12372v1)|null|
 |**2023-08-23**|**SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation**|Qing Xu et.al.|[2308.12231v1](http://arxiv.org/abs/2308.12231v1)|**[link](https://github.com/xq141839/sppnet)**|
 |**2023-08-23**|**SG-Former: Self-guided Transformer with Evolving Token Reallocation**|Sucheng Ren et.al.|[2308.12216v1](http://arxiv.org/abs/2308.12216v1)|null|
 |**2023-08-23**|**Masking Strategies for Background Bias Removal in Computer Vision Models**|Ananthu Aniraj et.al.|[2308.12127v1](http://arxiv.org/abs/2308.12127v1)|**[link](https://github.com/ananthu-aniraj/masking_strategies_bias_removal)**|
