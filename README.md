@@ -59,7 +59,7 @@
 |**2023-04-11**|**Pointless Global Bundle Adjustment With Relative Motions Hessians**|Ewelina Rupnik et.al.|[2304.05118v1](http://arxiv.org/abs/2304.05118v1)|**[link](https://github.com/erupnik/pointlessgba)**|
 |**2023-04-11**|**ClusterFusion: Real-time Relative Positioning and Dense Reconstruction for UAV Cluster**|Yifei Dong et.al.|[2304.04943v1](http://arxiv.org/abs/2304.04943v1)|null|
 |**2023-04-04**|**Distributed Block Coordinate Moving Horizon Estimation for 2D Visual-Inertial-Odometry SLAM**|Emilien Flayac et.al.|[2304.01613v1](http://arxiv.org/abs/2304.01613v1)|null|
-|**2023-03-31**|**LivePose: Online 3D Reconstruction from Monocular Video with Dynamic Camera Poses**|Noah Stier et.al.|[2304.00054v1](http://arxiv.org/abs/2304.00054v1)|null|
+|**2023-03-31**|**LivePose: Online 3D Reconstruction from Monocular Video with Dynamic Camera Poses**|Noah Stier et.al.|[2304.00054v1](http://arxiv.org/abs/2304.00054v1)|**[link](https://github.com/apple/ml-live-pose)**|
 |**2023-03-30**|**3D Line Mapping Revisited**|Shaohui Liu et.al.|[2303.17504v1](http://arxiv.org/abs/2303.17504v1)|**[link](https://github.com/cvg/limap)**|
 |**2023-03-29**|**Photometric LiDAR and RGB-D Bundle Adjustment**|Luca Di Giammarino et.al.|[2303.16878v1](http://arxiv.org/abs/2303.16878v1)|**[link](https://github.com/digiamm/ba_md_slam)**|
 |**2023-03-27**|**3D Video Object Detection with Learnable Object-Centric Global Optimization**|Jiawei He et.al.|[2303.15416v1](http://arxiv.org/abs/2303.15416v1)|**[link](https://github.com/jiaweihe1996/ba-det)**|
@@ -1437,7 +1437,7 @@
 |**2023-08-21**|**Ref-DVGO: Reflection-Aware Direct Voxel Grid Optimization for an Improved Quality-Efficiency Trade-Off in Reflective Scene Reconstruction**|Georgios Kouros et.al.|[2308.08530v3](http://arxiv.org/abs/2308.08530v3)|**[link](https://github.com/gkouros/ref-dvgo)**|
 |**2023-08-16**|**SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes**|Edith Tretschk et.al.|[2308.08258v1](http://arxiv.org/abs/2308.08258v1)|null|
 |**2023-08-16**|**Neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases**|Eugen Šlapak et.al.|[2308.07118v2](http://arxiv.org/abs/2308.07118v2)|**[link](https://github.com/maftej/iisnerf)**|
-|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032v1](http://arxiv.org/abs/2308.07032v1)|null|
+|**2023-08-14**|**S3IM: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields**|Zeke Xie et.al.|[2308.07032v1](http://arxiv.org/abs/2308.07032v1)|**[link](https://github.com/madaoer/s3im_nerf)**|
 |**2023-08-11**|**Focused Specific Objects NeRF**|Yuesong Li et.al.|[2308.05970v1](http://arxiv.org/abs/2308.05970v1)|null|
 |**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939v1](http://arxiv.org/abs/2308.05939v1)|null|
 |**2023-08-09**|**WaveNeRF: Wavelet-based Generalizable Neural Radiance Fields**|Muyu Xu et.al.|[2308.04826v1](http://arxiv.org/abs/2308.04826v1)|null|
@@ -1566,7 +1566,7 @@
 |**2023-04-20**|**Learning Neural Duplex Radiance Fields for Real-Time View Synthesis**|Ziyu Wan et.al.|[2304.10537v1](http://arxiv.org/abs/2304.10537v1)|null|
 |**2023-04-21**|**Nerfbusters: Removing Ghostly Artifacts from Casually Captured NeRFs**|Frederik Warburg et.al.|[2304.10532v2](http://arxiv.org/abs/2304.10532v2)|**[link](https://github.com/ethanweber/nerfbusters)**|
 |**2023-04-20**|**ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects**|Marco Toschi et.al.|[2304.10448v1](http://arxiv.org/abs/2304.10448v1)|null|
-|**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406v1](http://arxiv.org/abs/2304.10406v1)|null|
+|**2023-04-20**|**LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields**|Tang Tao et.al.|[2304.10406v1](http://arxiv.org/abs/2304.10406v1)|**[link](https://github.com/tangtaogo/lidar-nerf)**|
 |**2023-04-20**|**Revisiting Implicit Neural Representations in Low-Level Vision**|Wentian Xu et.al.|[2304.10250v1](http://arxiv.org/abs/2304.10250v1)|**[link](https://github.com/wentxul/linr)**|
 |**2023-04-20**|**Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering**|Dongting Hu et.al.|[2304.10075v1](http://arxiv.org/abs/2304.10075v1)|null|
 |**2023-04-20**|**Neural Radiance Fields: Past, Present, and Future**|Ansh Mittal et.al.|[2304.10050v1](http://arxiv.org/abs/2304.10050v1)|null|
@@ -1750,7 +1750,7 @@
 |**2022-12-06**|**D-TensoRF: Tensorial Radiance Fields for Dynamic Scenes**|Hankyu Jang et.al.|[2212.02375v2](http://arxiv.org/abs/2212.02375v2)|null|
 |**2022-12-07**|**GARF:Geometry-Aware Generalized Neural Radiance Field**|Yue Shi et.al.|[2212.02280v2](http://arxiv.org/abs/2212.02280v2)|null|
 |**2022-12-05**|**INGeo: Accelerating Instant Neural Scene Reconstruction with Noisy Geometry Priors**|Chaojian Li et.al.|[2212.01959v1](http://arxiv.org/abs/2212.01959v1)|null|
-|**2022-12-03**|**MaRF: Representing Mars as Neural Radiance Fields**|Lorenzo Giusti et.al.|[2212.01672v1](http://arxiv.org/abs/2212.01672v1)|null|
+|**2022-12-03**|**MaRF: Representing Mars as Neural Radiance Fields**|Lorenzo Giusti et.al.|[2212.01672v1](http://arxiv.org/abs/2212.01672v1)|**[link](https://github.com/lrnzgiusti/marf)**|
 |**2022-12-03**|**StegaNeRF: Embedding Invisible Information within Neural Radiance Fields**|Chenxin Li et.al.|[2212.01602v1](http://arxiv.org/abs/2212.01602v1)|null|
 |**2022-12-02**|**RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering**|Chaojian Li et.al.|[2212.01120v1](http://arxiv.org/abs/2212.01120v1)|null|
 |**2022-12-02**|**3D-TOGO: Towards Text-Guided Cross-Category 3D Object Generation**|Zutao Jiang et.al.|[2212.01103v1](http://arxiv.org/abs/2212.01103v1)|null|
