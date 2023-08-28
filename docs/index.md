@@ -26,6 +26,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**A Game of Bundle Adjustment -- Learning Efficient Convergence**|Amir Belder et.al.|[2308.13270v1](http://arxiv.org/abs/2308.13270v1)|null|
 |**2023-08-24**|**Joint Intrinsic and Extrinsic LiDAR-Camera Calibration in Targetless Environments Using Plane-Constrained Bundle Adjustment**|Liang Li et.al.|[2308.12629v1](http://arxiv.org/abs/2308.12629v1)|**[link](https://github.com/hku-mars/joint-lidar-camera-calib)**|
 |**2023-08-19**|**Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters**|Xiao Liu et.al.|[2308.09870v1](http://arxiv.org/abs/2308.09870v1)|**[link](https://github.com/ir-lab/denkf)**|
 |**2023-08-24**|**MIPS-Fusion: Multi-Implicit-Submaps for Scalable and Robust Online Neural RGB-D Reconstruction**|Yijie Tang et.al.|[2308.08741v2](http://arxiv.org/abs/2308.08741v2)|null|
@@ -1885,6 +1886,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**Eventful Transformers: Leveraging Temporal Redundancy in Vision Transformers**|Matthew Dutson et.al.|[2308.13494v1](http://arxiv.org/abs/2308.13494v1)|null|
+|**2023-08-25**|**Unlocking Fine-Grained Details with Wavelet-based High-Frequency Enhancement in Transformers**|Reza Azad et.al.|[2308.13442v1](http://arxiv.org/abs/2308.13442v1)|**[link](https://github.com/mindflow-institue/waveformer)**|
+|**2023-08-25**|**An investigation into the impact of deep learning model choice on sex and race bias in cardiac MR segmentation**|Tiarna Lee et.al.|[2308.13415v1](http://arxiv.org/abs/2308.13415v1)|null|
+|**2023-08-25**|**CS-Mixer: A Cross-Scale Vision MLP Model with Spatial-Channel Mixing**|Jonathan Cui et.al.|[2308.13363v1](http://arxiv.org/abs/2308.13363v1)|null|
+|**2023-08-25**|**A Re-Parameterized Vision Transformer (ReVT) for Domain-Generalized Semantic Segmentation**|Jan-Aike Termöhlen et.al.|[2308.13331v1](http://arxiv.org/abs/2308.13331v1)|null|
+|**2023-08-24**|**Full-dose PET Synthesis from Low-dose PET Using High-efficiency Diffusion Denoising Probabilistic Model**|Shaoyan Pan et.al.|[2308.13072v1](http://arxiv.org/abs/2308.13072v1)|null|
+|**2023-08-24**|**Spherical Vision Transformer for 360-degree Video Saliency Prediction**|Mert Cokelek et.al.|[2308.13004v1](http://arxiv.org/abs/2308.13004v1)|null|
 |**2023-08-24**|**Towards Hierarchical Regional Transformer-based Multiple Instance Learning**|Josef Cersovsky et.al.|[2308.12634v1](http://arxiv.org/abs/2308.12634v1)|null|
 |**2023-08-24**|**SieveNet: Selecting Point-Based Features for Mesh Networks**|Shengchao Yuan et.al.|[2308.12530v1](http://arxiv.org/abs/2308.12530v1)|null|
 |**2023-08-23**|**MOFO: MOtion FOcused Self-Supervision for Video Understanding**|Mona Ahmadian et.al.|[2308.12447v1](http://arxiv.org/abs/2308.12447v1)|null|
