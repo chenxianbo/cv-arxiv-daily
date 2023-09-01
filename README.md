@@ -593,6 +593,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval**|Prateksha Udhayanan et.al.|[2308.16649v1](http://arxiv.org/abs/2308.16649v1)|null|
 |**2023-08-28**|**Extending Cross-Modal Retrieval with Interactive Learning to Improve Image Retrieval Performance in Forensics**|Nils Böhne et.al.|[2308.14786v1](http://arxiv.org/abs/2308.14786v1)|null|
 |**2023-08-28**|**CoVR: Learning Composed Video Retrieval from Web Video Captions**|Lucas Ventura et.al.|[2308.14746v1](http://arxiv.org/abs/2308.14746v1)|**[link](https://github.com/lucas-ventura/CoVR)**|
 |**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039v1](http://arxiv.org/abs/2308.14039v1)|null|
@@ -1104,6 +1105,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**|Jiaben Chen et.al.|[2308.16876v1](http://arxiv.org/abs/2308.16876v1)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984v1](http://arxiv.org/abs/2308.15984v1)|null|
 |**2023-08-29**|**A lightweight 3D dense facial landmark estimation model from position map data**|Shubhajit Basak et.al.|[2308.15170v1](http://arxiv.org/abs/2308.15170v1)|null|
 |**2023-08-27**|**Automatic coarse co-registration of point clouds from diverse scan geometries: a test of detectors and descriptors**|Francesco Pirotti et.al.|[2308.14047v1](http://arxiv.org/abs/2308.14047v1)|null|
@@ -1436,6 +1438,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**GHuNeRF: Generalizable Human NeRF from a Monocular Video**|Chen Li et.al.|[2308.16576v1](http://arxiv.org/abs/2308.16576v1)|null|
 |**2023-08-30**|**From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**|Shreyank N Gowda et.al.|[2308.16041v1](http://arxiv.org/abs/2308.16041v1)|null|
 |**2023-08-30**|**Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey**|Zhihao Jia et.al.|[2308.15733v1](http://arxiv.org/abs/2308.15733v1)|null|
 |**2023-08-29**|**Efficient Ray Sampling for Radiance Fields Reconstruction**|Shilei Sun et.al.|[2308.15547v1](http://arxiv.org/abs/2308.15547v1)|null|
@@ -1904,6 +1907,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-31**|**Towards Optimal Patch Size in Vision Transformers for Tumor Segmentation**|Ramtin Mojtahedi et.al.|[2308.16598v1](http://arxiv.org/abs/2308.16598v1)|**[link](https://github.com/ramtin-mojtahedi/ovtps)**|
+|**2023-08-30**|**Learning Diverse Features in Vision Transformers for Improved Generalization**|Armand Mihai Nicolicioiu et.al.|[2308.16274v1](http://arxiv.org/abs/2308.16274v1)|**[link](https://github.com/armandnm/diverse-vit)**|
+|**2023-08-30**|**Emergence of Segmentation with Minimalistic White-Box Transformers**|Yaodong Yu et.al.|[2308.16271v1](http://arxiv.org/abs/2308.16271v1)|**[link](https://github.com/ma-lab-berkeley/crate)**|
 |**2023-08-29**|**Efficient Model Personalization in Federated Learning via Client-Specific Prompt Generation**|Fu-En Yang et.al.|[2308.15367v1](http://arxiv.org/abs/2308.15367v1)|null|
 |**2023-08-29**|**Imperceptible Adversarial Attack on Deep Neural Networks from Image Boundary**|Fahad Alrasheedi et.al.|[2308.15344v1](http://arxiv.org/abs/2308.15344v1)|null|
 |**2023-08-29**|**TKwinFormer: Top k Window Attention in Vision Transformers for Feature Matching**|Yun Liao et.al.|[2308.15144v1](http://arxiv.org/abs/2308.15144v1)|null|
