@@ -1690,7 +1690,7 @@
 |**2023-03-15**|**Harnessing Low-Frequency Neural Fields for Few-Shot View Synthesis**|Liangchen Song et.al.|[2303.08370v1](http://arxiv.org/abs/2303.08370v1)|**[link](https://github.com/lsongx/halo)**|
 |**2023-03-14**|**MELON: NeRF with Unposed Images Using Equivalence Class Estimation**|Axel Levy et.al.|[2303.08096v1](http://arxiv.org/abs/2303.08096v1)|null|
 |**2023-03-16**|**Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation**|Junyoung Seo et.al.|[2303.07937v3](http://arxiv.org/abs/2303.07937v3)|**[link](https://github.com/KU-CVLAB/3DFuse)**|
-|**2023-03-16**|**NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images**|Yunfan Ye et.al.|[2303.07653v2](http://arxiv.org/abs/2303.07653v2)|null|
+|**2023-03-16**|**NEF: Neural Edge Fields for 3D Parametric Curve Reconstruction from Multi-view Images**|Yunfan Ye et.al.|[2303.07653v2](http://arxiv.org/abs/2303.07653v2)|**[link](https://github.com/yunfan1202/NEF_code)**|
 |**2023-03-14**|**Frequency-Modulated Point Cloud Rendering with Easy Editing**|Yi Zhang et.al.|[2303.07596v1](http://arxiv.org/abs/2303.07596v1)|**[link](https://github.com/yizhangphd/freqpcr)**|
 |**2023-03-13**|**FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization**|Jiawei Yang et.al.|[2303.07418v1](http://arxiv.org/abs/2303.07418v1)|**[link](https://github.com/jiawei-yang/freenerf)**|
 |**2023-03-13**|**NeRFLiX: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-viewpoint MiXer**|Kun Zhou et.al.|[2303.06919v1](http://arxiv.org/abs/2303.06919v1)|**[link](https://github.com/redrock303/NeRFLiX_CPVR2023)**|
@@ -1722,7 +1722,7 @@
 |**2023-02-19**|**LC-NeRF: Local Controllable Face Generation in Neural Randiance Field**|Wenyang Zhou et.al.|[2302.09486v1](http://arxiv.org/abs/2302.09486v1)|null|
 |**2023-02-17**|**MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs**|Seunghyeon Seo et.al.|[2302.08788v1](http://arxiv.org/abs/2302.08788v1)|**[link](https://github.com/shawn615/MixNeRF)**|
 |**2023-02-14**|**VQ3D: Learning a 3D-Aware Generative Model on ImageNet**|Kyle Sargent et.al.|[2302.06833v1](http://arxiv.org/abs/2302.06833v1)|null|
-|**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|null|
+|**2023-02-13**|**3D-aware Blending with Generative NeRFs**|Hyunsu Kim et.al.|[2302.06608v1](http://arxiv.org/abs/2302.06608v1)|**[link](https://github.com/naver-ai/BlendNeRF)**|
 |**2023-02-11**|**3D Colored Shape Reconstruction from a Single RGB Image through Diffusion**|Bo Li et.al.|[2302.05573v1](http://arxiv.org/abs/2302.05573v1)|null|
 |**2023-02-08**|**Nerfstudio: A Modular Framework for Neural Radiance Field Development**|Matthew Tancik et.al.|[2302.04264v1](http://arxiv.org/abs/2302.04264v1)|null|
 |**2023-02-07**|**AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis**|Susan Liang et.al.|[2302.02088v2](http://arxiv.org/abs/2302.02088v2)|null|
@@ -1932,16 +1932,16 @@
 |**2023-08-24**|**Spherical Vision Transformer for 360-degree Video Saliency Prediction**|Mert Cokelek et.al.|[2308.13004v1](http://arxiv.org/abs/2308.13004v1)|null|
 |**2023-08-24**|**Towards Hierarchical Regional Transformer-based Multiple Instance Learning**|Josef Cersovsky et.al.|[2308.12634v1](http://arxiv.org/abs/2308.12634v1)|null|
 |**2023-08-24**|**SieveNet: Selecting Point-Based Features for Mesh Networks**|Shengchao Yuan et.al.|[2308.12530v1](http://arxiv.org/abs/2308.12530v1)|null|
-|**2023-08-23**|**MOFO: MOtion FOcused Self-Supervision for Video Understanding**|Mona Ahmadian et.al.|[2308.12447v1](http://arxiv.org/abs/2308.12447v1)|null|
+|**2023-08-23**|**MOFO: MOtion FOcused Self-Supervision for Video Understanding**|Mona Ahmadian et.al.|[2308.12447v1](http://arxiv.org/abs/2308.12447v1)|**[link](https://github.com/moohnai/mofo)**|
 |**2023-08-23**|**BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection**|Tinghao Xie et.al.|[2308.12439v1](http://arxiv.org/abs/2308.12439v1)|null|
 |**2023-08-23**|**Vision Transformer Adapters for Generalizable Multitask Learning**|Deblina Bhattacharjee et.al.|[2308.12372v1](http://arxiv.org/abs/2308.12372v1)|null|
 |**2023-08-23**|**SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation**|Qing Xu et.al.|[2308.12231v1](http://arxiv.org/abs/2308.12231v1)|**[link](https://github.com/xq141839/sppnet)**|
-|**2023-08-23**|**SG-Former: Self-guided Transformer with Evolving Token Reallocation**|Sucheng Ren et.al.|[2308.12216v1](http://arxiv.org/abs/2308.12216v1)|null|
+|**2023-08-23**|**SG-Former: Self-guided Transformer with Evolving Token Reallocation**|Sucheng Ren et.al.|[2308.12216v1](http://arxiv.org/abs/2308.12216v1)|**[link](https://github.com/oliverrensu/sg-former)**|
 |**2023-08-23**|**Masking Strategies for Background Bias Removal in Computer Vision Models**|Ananthu Aniraj et.al.|[2308.12127v1](http://arxiv.org/abs/2308.12127v1)|**[link](https://github.com/ananthu-aniraj/masking_strategies_bias_removal)**|
 |**2023-08-23**|**Local Distortion Aware Efficient Transformer Adaptation for Image Quality Assessment**|Kangmin Xu et.al.|[2308.12001v1](http://arxiv.org/abs/2308.12001v1)|null|
 |**2023-08-22**|**SwinFace: A Multi-task Transformer for Face Recognition, Expression Recognition, Age Estimation and Attribute Estimation**|Lixiong Qin et.al.|[2308.11509v1](http://arxiv.org/abs/2308.11509v1)|**[link](https://github.com/lxq1000/swinface)**|
 |**2023-08-22**|**Masked Momentum Contrastive Learning for Zero-shot Semantic Understanding**|Jiantao Wu et.al.|[2308.11448v1](http://arxiv.org/abs/2308.11448v1)|null|
-|**2023-08-22**|**SAIPy: A Python Package for single station Earthquake Monitoring using Deep Learning**|Wei Li et.al.|[2308.11428v1](http://arxiv.org/abs/2308.11428v1)|null|
+|**2023-08-22**|**SAIPy: A Python Package for single station Earthquake Monitoring using Deep Learning**|Wei Li et.al.|[2308.11428v1](http://arxiv.org/abs/2308.11428v1)|**[link](https://github.com/srivastavaresearchgroup/saipy)**|
 |**2023-08-22**|**TurboViT: Generating Fast Vision Transformers via Generative Architecture Search**|Alexander Wong et.al.|[2308.11421v1](http://arxiv.org/abs/2308.11421v1)|null|
 |**2023-08-22**|**Exemplar-Free Continual Transformer with Convolutions**|Anurag Roy et.al.|[2308.11357v1](http://arxiv.org/abs/2308.11357v1)|null|
 |**2023-08-21**|**Vision Transformer Pruning Via Matrix Decomposition**|Tianyi Sun et.al.|[2308.10839v1](http://arxiv.org/abs/2308.10839v1)|null|
@@ -1962,7 +1962,7 @@
 |**2023-08-15**|**SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification**|Raza Imam et.al.|[2308.07874v1](http://arxiv.org/abs/2308.07874v1)|**[link](https://github.com/razaimam45/seda)**|
 |**2023-08-15**|**Real-time Automatic M-mode Echocardiography Measurement with Panel Attention from Local-to-Global Pixels**|Ching-Hsun Tseng et.al.|[2308.07717v1](http://arxiv.org/abs/2308.07717v1)|**[link](https://github.com/hanktseng131415go/ramem)**|
 |**2023-08-15**|**Fast Machine Unlearning Without Retraining Through Selective Synaptic Dampening**|Jack Foster et.al.|[2308.07707v1](http://arxiv.org/abs/2308.07707v1)|**[link](https://github.com/if-loops/selective-synaptic-dampening)**|
-|**2023-08-15**|**Enhancing Network Initialization for Medical AI Models Using Large-Scale, Unlabeled Natural Images**|Soroosh Tayebi Arasteh et.al.|[2308.07688v1](http://arxiv.org/abs/2308.07688v1)|null|
+|**2023-08-15**|**Enhancing Network Initialization for Medical AI Models Using Large-Scale, Unlabeled Natural Images**|Soroosh Tayebi Arasteh et.al.|[2308.07688v1](http://arxiv.org/abs/2308.07688v1)|**[link](https://github.com/tayebiarasteh/vit-med)**|
 |**2023-08-15**|**Block-Wise Encryption for Reliable Vision Transformer models**|Hitoshi Kiya et.al.|[2308.07612v1](http://arxiv.org/abs/2308.07612v1)|null|
 |**2023-08-14**|**Wide-Area Geolocalization with a Limited Field of View Camera in Challenging Urban Environments**|Lena M. Downes et.al.|[2308.07432v1](http://arxiv.org/abs/2308.07432v1)|null|
 |**2023-08-14**|**A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis**|Esteve Valls Mascaro et.al.|[2308.07301v1](http://arxiv.org/abs/2308.07301v1)|null|
