@@ -26,6 +26,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Evaluating Visual Odometry Methods for Autonomous Driving in Rain**|Yu Xiang Tan et.al.|[2309.05249v1](http://arxiv.org/abs/2309.05249v1)|null|
+|**2023-09-11**|**SIM-Sync: From Certifiably Optimal Synchronization over the 3D Similarity Group to Scene Reconstruction with Learned Depth**|Xihang Yu et.al.|[2309.05184v1](http://arxiv.org/abs/2309.05184v1)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
 |**2023-09-08**|**Depth Completion with Multiple Balanced Bases and Confidence for Dense Monocular SLAM**|Weijian Xie et.al.|[2309.04145v1](http://arxiv.org/abs/2309.04145v1)|null|
 |**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436v1](http://arxiv.org/abs/2309.02436v1)|**[link](https://github.com/youmi-zym/go-slam)**|
@@ -604,6 +606,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**|Guoyuan An et.al.|[2309.05438v1](http://arxiv.org/abs/2309.05438v1)|**[link](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**|
 |**2023-09-08**|**Representation Synthesis by Probabilistic Many-Valued Logic Operation in Self-Supervised Learning**|Hiroki Nakamura et.al.|[2309.04148v1](http://arxiv.org/abs/2309.04148v1)|null|
 |**2023-09-05**|**Magnetic Navigation using Attitude-Invariant Magnetic Field Information for Loop Closure Detection**|Natalia Pavlasek et.al.|[2309.02394v1](http://arxiv.org/abs/2309.02394v1)|null|
 |**2023-09-05**|**Dual Relation Alignment for Composed Image Retrieval**|Xintong Jiang et.al.|[2309.02169v1](http://arxiv.org/abs/2309.02169v1)|null|
@@ -1122,9 +1125,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750v1](http://arxiv.org/abs/2309.04750v1)|null|
 |**2023-09-07**|**InstructDiffusion: A Generalist Modeling Interface for Vision Tasks**|Zigang Geng et.al.|[2309.03895v1](http://arxiv.org/abs/2309.03895v1)|null|
 |**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324v1](http://arxiv.org/abs/2309.01324v1)|null|
-|**2023-09-01**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434v1](http://arxiv.org/abs/2309.00434v1)|null|
+|**2023-09-01**|**Improving the matching of deformable objects by learning to detect keypoints**|Felipe Cadar et.al.|[2309.00434v1](http://arxiv.org/abs/2309.00434v1)|**[link](https://github.com/verlab/learningtodetect_prl_2023)**|
 |**2023-08-31**|**SportsSloMo: A New Benchmark and Baselines for Human-centric Video Frame Interpolation**|Jiaben Chen et.al.|[2308.16876v1](http://arxiv.org/abs/2308.16876v1)|null|
 |**2023-08-30**|**Learning Structure-from-Motion with Graph Attention Networks**|Lucas Brynte et.al.|[2308.15984v1](http://arxiv.org/abs/2308.15984v1)|null|
 |**2023-08-29**|**A lightweight 3D dense facial landmark estimation model from position map data**|Shubhajit Basak et.al.|[2308.15170v1](http://arxiv.org/abs/2308.15170v1)|null|
@@ -1294,6 +1298,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**|Guoyuan An et.al.|[2309.05438v1](http://arxiv.org/abs/2309.05438v1)|**[link](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**|
+|**2023-09-09**|**Neural Semantic Surface Maps**|Luca Morreale et.al.|[2309.04836v1](http://arxiv.org/abs/2309.04836v1)|null|
 |**2023-09-05**|**Doppelgangers: Learning to Disambiguate Images of Similar Structures**|Ruojin Cai et.al.|[2309.02420v1](http://arxiv.org/abs/2309.02420v1)|**[link](https://github.com/RuojinCai/Doppelgangers)**|
 |**2023-08-14**|**Occ $^2$ Net: Robust Image Matching Based on 3D Occupancy Estimation for Occluded Regions**|Miao Fan et.al.|[2308.16160v1](http://arxiv.org/abs/2308.16160v1)|null|
 |**2023-08-29**|**TKwinFormer: Top k Window Attention in Vision Transformers for Feature Matching**|Yun Liao et.al.|[2308.15144v1](http://arxiv.org/abs/2308.15144v1)|null|
@@ -1459,6 +1465,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**PAg-NeRF: Towards fast and efficient end-to-end panoptic 3D representations for agricultural robotics**|Claus Smitt et.al.|[2309.05339v1](http://arxiv.org/abs/2309.05339v1)|null|
+|**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917v1](http://arxiv.org/abs/2309.04917v1)|null|
+|**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750v1](http://arxiv.org/abs/2309.04750v1)|null|
+|**2023-09-08**|**Dynamic Mesh-Aware Radiance Fields**|Yi-Ling Qiao et.al.|[2309.04581v1](http://arxiv.org/abs/2309.04581v1)|null|
 |**2023-09-08**|**DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**|Junzhe Zhang et.al.|[2309.04410v1](http://arxiv.org/abs/2309.04410v1)|null|
 |**2023-09-07**|**SimpleNeRF: Regularizing Sparse Input Neural Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2309.03955v1](http://arxiv.org/abs/2309.03955v1)|null|
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933v1](http://arxiv.org/abs/2309.03933v1)|null|
@@ -1938,9 +1948,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**CNN or ViT? Revisiting Vision Transformers Through the Lens of Convolution**|Chenghao Li et.al.|[2309.05375v1](http://arxiv.org/abs/2309.05375v1)|null|
+|**2023-09-10**|**DeViT: Decomposing Vision Transformers for Collaborative Inference in Edge Devices**|Guanyu Xu et.al.|[2309.05015v1](http://arxiv.org/abs/2309.05015v1)|null|
+|**2023-09-09**|**How to Evaluate Semantic Communications for Images with ViTScore Metric?**|Tingting Zhu et.al.|[2309.04891v1](http://arxiv.org/abs/2309.04891v1)|null|
+|**2023-09-09**|**Unified Language-Vision Pretraining with Dynamic Discrete Visual Tokenization**|Yang Jin et.al.|[2309.04669v1](http://arxiv.org/abs/2309.04669v1)|null|
+|**2023-09-09**|**Video and Synthetic MRI Pre-training of 3D Vision Architectures for Neuroimage Analysis**|Nikhil J. Dhinagar et.al.|[2309.04651v1](http://arxiv.org/abs/2309.04651v1)|null|
 |**2023-09-08**|**Mobile V-MoEs: Scaling Down Vision Transformers via Sparse Mixture-of-Experts**|Erik Daxberger et.al.|[2309.04354v1](http://arxiv.org/abs/2309.04354v1)|null|
 |**2023-09-07**|**S-Adapter: Generalizing Vision Transformer for Face Anti-Spoofing with Statistical Tokens**|Rizhao Cai et.al.|[2309.04038v1](http://arxiv.org/abs/2309.04038v1)|null|
-|**2023-09-07**|**ProPainter: Improving Propagation and Transformer for Video Inpainting**|Shangchen Zhou et.al.|[2309.03897v1](http://arxiv.org/abs/2309.03897v1)|null|
+|**2023-09-07**|**ProPainter: Improving Propagation and Transformer for Video Inpainting**|Shangchen Zhou et.al.|[2309.03897v1](http://arxiv.org/abs/2309.03897v1)|**[link](https://github.com/sczhou/propainter)**|
 |**2023-09-07**|**DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions**|Haochen Wang et.al.|[2309.03576v1](http://arxiv.org/abs/2309.03576v1)|null|
 |**2023-09-06**|**Combining pre-trained Vision Transformers and CIDER for Out Of Domain Detection**|Grégor Jouet et.al.|[2309.03047v1](http://arxiv.org/abs/2309.03047v1)|null|
 |**2023-09-06**|**Improving diagnosis and prognosis of lung cancer using vision transformers: A scoping review**|Hazrat Ali et.al.|[2309.02783v1](http://arxiv.org/abs/2309.02783v1)|null|
