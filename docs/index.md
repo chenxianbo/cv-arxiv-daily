@@ -1465,6 +1465,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Federated Learning for Large-Scale Scene Modeling with Neural Radiance Fields**|Teppei Suzuki et.al.|[2309.06030v1](http://arxiv.org/abs/2309.06030v1)|null|
 |**2023-09-11**|**PAg-NeRF: Towards fast and efficient end-to-end panoptic 3D representations for agricultural robotics**|Claus Smitt et.al.|[2309.05339v1](http://arxiv.org/abs/2309.05339v1)|null|
 |**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917v1](http://arxiv.org/abs/2309.04917v1)|null|
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750v1](http://arxiv.org/abs/2309.04750v1)|null|
@@ -1948,6 +1949,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Exploring Non-additive Randomness on ViT against Query-Based Black-Box Attacks**|Jindong Gu et.al.|[2309.06438v1](http://arxiv.org/abs/2309.06438v1)|null|
+|**2023-09-12**|**Jersey Number Recognition using Keyframe Identification from Low-Resolution Broadcast Videos**|Bavesh Balaji et.al.|[2309.06285v1](http://arxiv.org/abs/2309.06285v1)|null|
+|**2023-09-12**|**A 3M-Hybrid Model for the Restoration of Unique Giant Murals: A Case Study on the Murals of Yongle Palace**|Jing Yang et.al.|[2309.06194v1](http://arxiv.org/abs/2309.06194v1)|null|
+|**2023-09-12**|**Feature Aggregation Network for Building Extraction from High-resolution Remote Sensing Images**|Xuan Zhou et.al.|[2309.06017v1](http://arxiv.org/abs/2309.06017v1)|null|
+|**2023-09-11**|**Mobile Vision Transformer-based Visual Object Tracking**|Goutam Yelluru Gopal et.al.|[2309.05829v1](http://arxiv.org/abs/2309.05829v1)|**[link](https://github.com/goutamyg/mvt)**|
+|**2023-09-11**|**Divergences in Color Perception between Deep Neural Networks and Humans**|Ethan O. Nadler et.al.|[2309.05809v1](http://arxiv.org/abs/2309.05809v1)|null|
 |**2023-09-11**|**CNN or ViT? Revisiting Vision Transformers Through the Lens of Convolution**|Chenghao Li et.al.|[2309.05375v1](http://arxiv.org/abs/2309.05375v1)|null|
 |**2023-09-10**|**DeViT: Decomposing Vision Transformers for Collaborative Inference in Edge Devices**|Guanyu Xu et.al.|[2309.05015v1](http://arxiv.org/abs/2309.05015v1)|null|
 |**2023-09-09**|**How to Evaluate Semantic Communications for Images with ViTScore Metric?**|Tingting Zhu et.al.|[2309.04891v1](http://arxiv.org/abs/2309.04891v1)|null|
