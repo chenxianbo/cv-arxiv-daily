@@ -604,6 +604,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Optimization of Rank Losses for Image Retrieval**|Elias Ramzi et.al.|[2309.08250v1](http://arxiv.org/abs/2309.08250v1)|**[link](https://github.com/cvdfoundation/google-landmark)**|
+|**2023-09-13**|**Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer**|Yaoting Wang et.al.|[2309.07929v1](http://arxiv.org/abs/2309.07929v1)|null|
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471v1](http://arxiv.org/abs/2309.07471v1)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094v1](http://arxiv.org/abs/2309.07094v1)|null|
 |**2023-09-11**|**Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**|Guoyuan An et.al.|[2309.05438v1](http://arxiv.org/abs/2309.05438v1)|**[link](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**|
@@ -1466,6 +1468,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596v1](http://arxiv.org/abs/2309.08596v1)|**[link](https://github.com/wengflow/robust-e-nerf)**|
+|**2023-09-14**|**Gradient based Grasp Pose Optimization on a NeRF that Approximates Grasp Success**|Gergely Sóti et.al.|[2309.08040v1](http://arxiv.org/abs/2309.08040v1)|null|
 |**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846v1](http://arxiv.org/abs/2309.07846v1)|null|
 |**2023-09-14**|**DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**|Yaoyu Su et.al.|[2309.07752v1](http://arxiv.org/abs/2309.07752v1)|null|
 |**2023-09-14**|**CoRF : Colorizing Radiance Fields using Knowledge Distillation**|Ankit Dhiman et.al.|[2309.07668v1](http://arxiv.org/abs/2309.07668v1)|null|
@@ -1955,6 +1959,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Replacing softmax with ReLU in Vision Transformers**|Mitchell Wortsman et.al.|[2309.08586v1](http://arxiv.org/abs/2309.08586v1)|null|
+|**2023-09-15**|**SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels**|Henry Hengyuan Zhao et.al.|[2309.08513v1](http://arxiv.org/abs/2309.08513v1)|**[link](https://github.com/zhaohengyuan1/sct)**|
+|**2023-09-15**|**Cross-Modal Synthesis of Structural MRI and Functional Connectivity Networks via Conditional ViT-GANs**|Yuda Bi et.al.|[2309.08160v1](http://arxiv.org/abs/2309.08160v1)|null|
+|**2023-09-15**|**AnyOKP: One-Shot and Instance-Aware Object Keypoint Extraction with Pretrained ViT**|Fangbo Qin et.al.|[2309.08134v1](http://arxiv.org/abs/2309.08134v1)|null|
+|**2023-09-14**|**Interpretability-Aware Vision Transformer**|Yao Qiang et.al.|[2309.08035v1](http://arxiv.org/abs/2309.08035v1)|**[link](https://github.com/qiangyao1988/ia-vit)**|
 |**2023-09-13**|**Keep It SimPool: Who Said Supervised Transformers Suffer from Attention Deficit?**|Bill Psomas et.al.|[2309.06891v1](http://arxiv.org/abs/2309.06891v1)|null|
 |**2023-09-12**|**Exploring Non-additive Randomness on ViT against Query-Based Black-Box Attacks**|Jindong Gu et.al.|[2309.06438v1](http://arxiv.org/abs/2309.06438v1)|null|
 |**2023-09-12**|**Jersey Number Recognition using Keyframe Identification from Low-Resolution Broadcast Videos**|Bavesh Balaji et.al.|[2309.06285v1](http://arxiv.org/abs/2309.06285v1)|null|
