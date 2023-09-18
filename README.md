@@ -1480,7 +1480,7 @@
 |**2023-09-14**|**SimpleNeRF: Regularizing Sparse Input Neural Radiance Fields with Simpler Solutions**|Nagabhushan Somraj et.al.|[2309.03955v2](http://arxiv.org/abs/2309.03955v2)|null|
 |**2023-09-07**|**BluNF: Blueprint Neural Field**|Robin Courant et.al.|[2309.03933v1](http://arxiv.org/abs/2309.03933v1)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550v1](http://arxiv.org/abs/2309.03550v1)|null|
-|**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185v1](http://arxiv.org/abs/2309.03185v1)|null|
+|**2023-09-06**|**Bayes' Rays: Uncertainty Quantification for Neural Radiance Fields**|Lily Goli et.al.|[2309.03185v1](http://arxiv.org/abs/2309.03185v1)|**[link](https://github.com/BayesRays/BayesRays)**|
 |**2023-09-06**|**ResFields: Residual Neural Fields for Spatiotemporal Signals**|Marko Mihajlovic et.al.|[2309.03160v1](http://arxiv.org/abs/2309.03160v1)|**[link](https://github.com/markomih/ResFields)**|
 |**2023-09-06**|**Instant Continual Learning of Neural Radiance Fields**|Ryan Po et.al.|[2309.01811v2](http://arxiv.org/abs/2309.01811v2)|null|
 |**2023-09-04**|**Adv3D: Generating 3D Adversarial Examples in Driving Scenarios with NeRF**|Leheng Li et.al.|[2309.01351v1](http://arxiv.org/abs/2309.01351v1)|null|
@@ -1551,7 +1551,7 @@
 |**2023-07-03**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624v2](http://arxiv.org/abs/2306.17624v2)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541v1](http://arxiv.org/abs/2306.16541v1)|null|
 |**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203v1](http://arxiv.org/abs/2306.15203v1)|null|
-|**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760v1](http://arxiv.org/abs/2306.12760v1)|null|
+|**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760v1](http://arxiv.org/abs/2306.12760v1)|**[link](https://github.com/orig333/Blended-NeRF)**|
 |**2023-06-21**|**Local 3D Editing via 3D Distillation of CLIP Knowledge**|Junha Hyung et.al.|[2306.12570v1](http://arxiv.org/abs/2306.12570v1)|null|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|**[link](https://github.com/qiuyu96/carver)**|
 |**2023-06-21**|**DreamTime: An Improved Optimization Strategy for Text-to-3D Content Creation**|Yukun Huang et.al.|[2306.12422v1](http://arxiv.org/abs/2306.12422v1)|null|
@@ -1680,7 +1680,7 @@
 |**2023-04-01**|**JacobiNeRF: NeRF Shaping with Mutual Information Gradients**|Xiaomeng Xu et.al.|[2304.00341v1](http://arxiv.org/abs/2304.00341v1)|**[link](https://github.com/xxm19/jacobinerf)**|
 |**2023-03-31**|**VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization**|Bingfan Zhu et.al.|[2303.17968v1](http://arxiv.org/abs/2303.17968v1)|**[link](https://github.com/boifz/vdn-nerf)**|
 |**2023-03-30**|**NeRF-Supervised Deep Stereo**|Fabio Tosi et.al.|[2303.17603v1](http://arxiv.org/abs/2303.17603v1)|**[link](https://github.com/fabiotosi92/nerf-supervised-deep-stereo)**|
-|**2023-03-30**|**SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling**|Zhitao Yang et.al.|[2303.17368v1](http://arxiv.org/abs/2303.17368v1)|null|
+|**2023-03-30**|**SynBody: Synthetic Dataset with Layered Human Models for 3D Human Perception and Modeling**|Zhitao Yang et.al.|[2303.17368v1](http://arxiv.org/abs/2303.17368v1)|**[link](https://github.com/openxrlab/xrfeitoria)**|
 |**2023-03-30**|**NeILF++: Inter-Reflectable Light Fields for Geometry and Material Estimation**|Jingyang Zhang et.al.|[2303.17147v1](http://arxiv.org/abs/2303.17147v1)|null|
 |**2023-03-30**|**Enhanced Stable View Synthesis**|Nishant Jain et.al.|[2303.17094v1](http://arxiv.org/abs/2303.17094v1)|null|
 |**2023-03-29**|**TriVol: Point Cloud Rendering via Triple Volumes**|Tao Hu et.al.|[2303.16485v1](http://arxiv.org/abs/2303.16485v1)|**[link](https://github.com/dvlab-research/trivol)**|
@@ -1757,7 +1757,7 @@
 |**2023-03-07**|**Multiscale Tensor Decomposition and Rendering Equation Encoding for View Synthesis**|Kang Han et.al.|[2303.03808v1](http://arxiv.org/abs/2303.03808v1)|**[link](https://github.com/imkanghan/nrff)**|
 |**2023-03-10**|**Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision**|Xiaoshuai Zhang et.al.|[2303.03361v2](http://arxiv.org/abs/2303.03361v2)|null|
 |**2023-03-07**|**Efficient Large-scale Scene Representation with a Hybrid of High-resolution Grid and Plane Features**|Yuqi Zhang et.al.|[2303.03003v2](http://arxiv.org/abs/2303.03003v2)|**[link](https://github.com/zyqz97/gp-nerf)**|
-|**2023-03-03**|**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**|Jiaxiang Tang et.al.|[2303.02091v1](http://arxiv.org/abs/2303.02091v1)|null|
+|**2023-03-03**|**Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement**|Jiaxiang Tang et.al.|[2303.02091v1](http://arxiv.org/abs/2303.02091v1)|**[link](https://github.com/ashawkey/nerf2mesh)**|
 |**2023-03-03**|**Multi-Plane Neural Radiance Fields for Novel View Synthesis**|Youssef Abdelkareem et.al.|[2303.01736v1](http://arxiv.org/abs/2303.01736v1)|null|
 |**2023-03-01**|**S-NeRF: Neural Radiance Fields for Street Views**|Ziyang Xie et.al.|[2303.00749v1](http://arxiv.org/abs/2303.00749v1)|null|
 |**2023-02-28**|**IntrinsicNGP: Intrinsic Coordinate based Hash Encoding for Human NeRF**|Bo Peng et.al.|[2302.14683v1](http://arxiv.org/abs/2302.14683v1)|null|
@@ -1970,10 +1970,10 @@
 |**2023-09-08**|**Mobile V-MoEs: Scaling Down Vision Transformers via Sparse Mixture-of-Experts**|Erik Daxberger et.al.|[2309.04354v1](http://arxiv.org/abs/2309.04354v1)|null|
 |**2023-09-07**|**S-Adapter: Generalizing Vision Transformer for Face Anti-Spoofing with Statistical Tokens**|Rizhao Cai et.al.|[2309.04038v1](http://arxiv.org/abs/2309.04038v1)|null|
 |**2023-09-07**|**ProPainter: Improving Propagation and Transformer for Video Inpainting**|Shangchen Zhou et.al.|[2309.03897v1](http://arxiv.org/abs/2309.03897v1)|**[link](https://github.com/sczhou/propainter)**|
-|**2023-09-07**|**DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions**|Haochen Wang et.al.|[2309.03576v1](http://arxiv.org/abs/2309.03576v1)|null|
+|**2023-09-07**|**DropPos: Pre-Training Vision Transformers by Reconstructing Dropped Positions**|Haochen Wang et.al.|[2309.03576v1](http://arxiv.org/abs/2309.03576v1)|**[link](https://github.com/haochen-wang409/droppos)**|
 |**2023-09-06**|**Combining pre-trained Vision Transformers and CIDER for Out Of Domain Detection**|Grégor Jouet et.al.|[2309.03047v1](http://arxiv.org/abs/2309.03047v1)|null|
 |**2023-09-06**|**Improving diagnosis and prognosis of lung cancer using vision transformers: A scoping review**|Hazrat Ali et.al.|[2309.02783v1](http://arxiv.org/abs/2309.02783v1)|null|
-|**2023-09-05**|**Compressing Vision Transformers for Low-Resource Visual Learning**|Eric Youn et.al.|[2309.02617v1](http://arxiv.org/abs/2309.02617v1)|null|
+|**2023-09-05**|**Compressing Vision Transformers for Low-Resource Visual Learning**|Eric Youn et.al.|[2309.02617v1](http://arxiv.org/abs/2309.02617v1)|**[link](https://github.com/chensy7/efficient-vit)**|
 |**2023-09-07**|**Domain Adaptation for Efficiently Fine-tuning Vision Transformer with Encrypted Images**|Teru Nagamori et.al.|[2309.02556v2](http://arxiv.org/abs/2309.02556v2)|null|
 |**2023-09-05**|**A survey on efficient vision transformers: algorithms, techniques, and performance benchmarking**|Lorenzo Papa et.al.|[2309.02031v1](http://arxiv.org/abs/2309.02031v1)|null|
 |**2023-09-04**|**Locality-Aware Hyperspectral Classification**|Fangqin Zhou et.al.|[2309.01561v1](http://arxiv.org/abs/2309.01561v1)|**[link](https://github.com/zhoufangqin/hylite)**|
