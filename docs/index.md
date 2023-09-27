@@ -623,6 +623,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Object-Centric Open-Vocabulary Image-Retrieval with Aggregated Features**|Hila Levi et.al.|[2309.14999v1](http://arxiv.org/abs/2309.14999v1)|null|
 |**2023-09-23**|**Resolving References in Visually-Grounded Dialogue via Text Generation**|Bram Willemsen et.al.|[2309.13430v1](http://arxiv.org/abs/2309.13430v1)|**[link](https://github.com/willemsenbram/reference-resolution-via-text-generation)**|
 |**2023-09-21**|**Face Identity-Aware Disentanglement in StyleGAN**|Adrian Suwała et.al.|[2309.12033v1](http://arxiv.org/abs/2309.12033v1)|null|
 |**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan et.al.|[2309.11883v1](http://arxiv.org/abs/2309.11883v1)|null|
@@ -1502,6 +1503,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**3D Density-Gradient based Edge Detection on Neural Radiance Fields (NeRFs) for Geometric Reconstruction**|Miriam Jäger et.al.|[2309.14800v1](http://arxiv.org/abs/2309.14800v1)|null|
 |**2023-09-25**|**NAS-NeRF: Generative Neural Architecture Search for Neural Radiance Fields**|Saeejith Nair et.al.|[2309.14293v1](http://arxiv.org/abs/2309.14293v1)|null|
 |**2023-09-25**|**Variational Inference for Scalable 3D Object-centric Learning**|Tianyu Wang et.al.|[2309.14010v1](http://arxiv.org/abs/2309.14010v1)|null|
 |**2023-09-24**|**MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**|Zijiang Yang et.al.|[2309.13607v1](http://arxiv.org/abs/2309.13607v1)|null|
@@ -2013,11 +2015,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Exploring RWKV for Memory Efficient and Low Latency Streaming ASR**|Keyu An et.al.|[2309.14758v1](http://arxiv.org/abs/2309.14758v1)|null|
+|**2023-09-25**|**Assessment of IBM and NASA's geospatial foundation model in flood inundation mapping**|Wenwen Li et.al.|[2309.14500v1](http://arxiv.org/abs/2309.14500v1)|null|
 |**2023-09-25**|**Masked Image Residual Learning for Scaling Deeper Vision Transformers**|Guoxi Huang et.al.|[2309.14136v1](http://arxiv.org/abs/2309.14136v1)|null|
 |**2023-09-25**|**PARTICLE: Part Discovery and Contrastive Learning for Fine-grained Recognition**|Oindrila Saha et.al.|[2309.13822v1](http://arxiv.org/abs/2309.13822v1)|null|
 |**2023-09-24**|**MOSAIC: Multi-Object Segmented Arbitrary Stylization Using CLIP**|Prajwal Ganugula et.al.|[2309.13716v1](http://arxiv.org/abs/2309.13716v1)|null|
 |**2023-09-24**|**Multi-Dimensional Hyena for Spatial Inductive Bias**|Itamar Zimerman et.al.|[2309.13600v1](http://arxiv.org/abs/2309.13600v1)|null|
-|**2023-09-26**|**Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction**|Zechuan Zhang et.al.|[2309.13524v2](http://arxiv.org/abs/2309.13524v2)|null|
+|**2023-09-26**|**Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction**|Zechuan Zhang et.al.|[2309.13524v2](http://arxiv.org/abs/2309.13524v2)|**[link](https://github.com/river-zhang/gta)**|
 |**2023-09-23**|**Beyond Grids: Exploring Elastic Input Sampling for Vision Transformers**|Adam Pardyl et.al.|[2309.13353v1](http://arxiv.org/abs/2309.13353v1)|null|
 |**2023-09-23**|**RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias**|Hao Cheng et.al.|[2309.13245v1](http://arxiv.org/abs/2309.13245v1)|null|
 |**2023-09-22**|**BayesDLL: Bayesian Deep Learning Library**|Minyoung Kim et.al.|[2309.12928v1](http://arxiv.org/abs/2309.12928v1)|**[link](https://github.com/samsunglabs/bayesdll)**|
