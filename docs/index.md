@@ -627,7 +627,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-29**|**PlaceNav: Topological Navigation through Place Recognition**|Lauri Suomela et.al.|[2309.17260v1](http://arxiv.org/abs/2309.17260v1)|null|
+|**2023-10-02**|**PlaceNav: Topological Navigation through Place Recognition**|Lauri Suomela et.al.|[2309.17260v2](http://arxiv.org/abs/2309.17260v2)|null|
 |**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992v1](http://arxiv.org/abs/2309.16992v1)|**[link](https://github.com/vignywang/samfeat)**|
 |**2023-09-28**|**Dark Side Augmentation: Generating Diverse Night Examples for Metric Learning**|Albert Mohwald et.al.|[2309.16351v1](http://arxiv.org/abs/2309.16351v1)|**[link](https://github.com/mohwald/gandtr)**|
 |**2023-09-28**|**FORB: A Flat Object Retrieval Benchmark for Universal Image Embedding**|Pengxiang Wu et.al.|[2309.16249v1](http://arxiv.org/abs/2309.16249v1)|**[link](https://github.com/pxiangwu/forb)**|
@@ -2047,7 +2047,7 @@ layout: default
 |**2023-09-28**|**Channel Vision Transformers: An Image Is Worth C x 16 x 16 Words**|Yujia Bao et.al.|[2309.16108v1](http://arxiv.org/abs/2309.16108v1)|null|
 |**2023-09-26**|**GasMono: Geometry-Aided Self-Supervised Monocular Depth Estimation for Indoor Scenes**|Chaoqiang Zhao et.al.|[2309.16019v1](http://arxiv.org/abs/2309.16019v1)|null|
 |**2023-09-27**|**CAIT: Triple-Win Compression towards High Accuracy, Fast Inference, and Favorable Transferability For ViTs**|Ao Wang et.al.|[2309.15755v1](http://arxiv.org/abs/2309.15755v1)|null|
-|**2023-09-28**|**Improving Facade Parsing with Vision Transformers and Line Integration**|Bowen Wang et.al.|[2309.15523v2](http://arxiv.org/abs/2309.15523v2)|**[link](https://github.com/wbw520/rtfp)**|
+|**2023-10-02**|**Improving Facade Parsing with Vision Transformers and Line Integration**|Bowen Wang et.al.|[2309.15523v3](http://arxiv.org/abs/2309.15523v3)|**[link](https://github.com/wbw520/rtfp)**|
 |**2023-09-26**|**Efficient Low-rank Backpropagation for Vision Transformer Adaptation**|Yuedong Yang et.al.|[2309.15275v1](http://arxiv.org/abs/2309.15275v1)|null|
 |**2023-09-26**|**Exploring RWKV for Memory Efficient and Low Latency Streaming ASR**|Keyu An et.al.|[2309.14758v1](http://arxiv.org/abs/2309.14758v1)|null|
 |**2023-09-25**|**Assessment of IBM and NASA's geospatial foundation model in flood inundation mapping**|Wenwen Li et.al.|[2309.14500v1](http://arxiv.org/abs/2309.14500v1)|null|
