@@ -688,7 +688,7 @@
 |**2023-08-01**|**AnyLoc: Towards Universal Visual Place Recognition**|Nikhil Keetha et.al.|[2308.00688v1](http://arxiv.org/abs/2308.00688v1)|**[link](https://github.com/AnyLoc/AnyLoc)**|
 |**2023-07-31**|**Guiding Image Captioning Models Toward More Specific Captions**|Simon Kornblith et.al.|[2307.16686v1](http://arxiv.org/abs/2307.16686v1)|null|
 |**2023-07-31**|**Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex Visual Reasoning Tasks**|Kousik Rajesh et.al.|[2307.16395v1](http://arxiv.org/abs/2307.16395v1)|null|
-|**2023-07-28**|**D2S: Representing local descriptors and global scene coordinates for camera relocalization**|Bach-Thuan Bui et.al.|[2307.15250v1](http://arxiv.org/abs/2307.15250v1)|null|
+|**2023-07-28**|**D2S: Representing local descriptors and global scene coordinates for camera relocalization**|Bach-Thuan Bui et.al.|[2307.15250v1](http://arxiv.org/abs/2307.15250v1)|**[link](https://github.com/ais-lab/feat2map)**|
 |**2023-07-26**|**Neural-based Cross-modal Search and Retrieval of Artwork**|Yan Gong et.al.|[2307.14244v1](http://arxiv.org/abs/2307.14244v1)|null|
 |**2023-07-26**|**Boon: A Neural Search Engine for Cross-Modal Information Retrieval**|Yan Gong et.al.|[2307.14240v1](http://arxiv.org/abs/2307.14240v1)|null|
 |**2023-07-25**|**Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network**|Chull Hwan Song et.al.|[2307.13254v1](http://arxiv.org/abs/2307.13254v1)|null|
@@ -735,7 +735,7 @@
 |**2023-06-11**|**Self-Enhancement Improves Text-Image Retrieval in Foundation Visual-Language Models**|Yuguang Yang et.al.|[2306.06691v1](http://arxiv.org/abs/2306.06691v1)|null|
 |**2023-06-03**|**Relieving Triplet Ambiguity: Consensus Network for Language-Guided Image Retrieval**|Xu Zhang et.al.|[2306.02092v1](http://arxiv.org/abs/2306.02092v1)|null|
 |**2023-06-03**|**Class Anchor Margin Loss for Content-Based Image Retrieval**|Alexandru Ghita et.al.|[2306.00630v2](http://arxiv.org/abs/2306.00630v2)|null|
-|**2023-05-31**|**Chatting Makes Perfect -- Chat-based Image Retrieval**|Matan Levy et.al.|[2305.20062v1](http://arxiv.org/abs/2305.20062v1)|null|
+|**2023-05-31**|**Chatting Makes Perfect -- Chat-based Image Retrieval**|Matan Levy et.al.|[2305.20062v1](http://arxiv.org/abs/2305.20062v1)|**[link](https://github.com/levymsn/ChatIR)**|
 |**2023-05-31**|**Probabilistic Uncertainty Quantification of Prediction Models with Application to Visual Localization**|Junan Chen et.al.|[2305.20044v1](http://arxiv.org/abs/2305.20044v1)|null|
 |**2023-05-30**|**A Recipe for Efficient SBIR Models: Combining Relative Triplet Loss with Batch Normalization and Knowledge Distillation**|Omar Seddati et.al.|[2305.18988v1](http://arxiv.org/abs/2305.18988v1)|null|
 |**2023-05-29**|**Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**|Daniel Coelho et.al.|[2305.18260v1](http://arxiv.org/abs/2305.18260v1)|**[link](https://github.com/danielcoelho112/synfeal)**|
@@ -1246,7 +1246,7 @@
 |**2023-02-01**|**DDM-NET: End-to-end learning of keypoint feature Detection, Description and Matching for 3D localization**|Xiangyu Xu et.al.|[2212.04575v2](http://arxiv.org/abs/2212.04575v2)|null|
 |**2022-12-07**|**ViTPose+: Vision Transformer Foundation Model for Generic Body Pose Estimation**|Yufei Xu et.al.|[2212.04246v1](http://arxiv.org/abs/2212.04246v1)|**[link](https://github.com/vitae-transformer/vitpose)**|
 |**2022-12-15**|**Designing Feature Vector Representations: A case study from Chemistry**|Signe Sidwall Thygesen et.al.|[2212.03731v2](http://arxiv.org/abs/2212.03731v2)|null|
-|**2022-12-09**|**DiffuPose: Monocular 3D Human Pose Estimation via Denoising Diffusion Probabilistic Model**|Jeongjun Choi et.al.|[2212.02796v2](http://arxiv.org/abs/2212.02796v2)|null|
+|**2022-12-09**|**DiffuPose: Monocular 3D Human Pose Estimation via Denoising Diffusion Probabilistic Model**|Jeongjun Choi et.al.|[2212.02796v2](http://arxiv.org/abs/2212.02796v2)|**[link](https://github.com/lojol2327/DiffuPose)**|
 |**2022-12-05**|**Images Speak in Images: A Generalist Painter for In-Context Visual Learning**|Xinlong Wang et.al.|[2212.02499v1](http://arxiv.org/abs/2212.02499v1)|**[link](https://github.com/baaivision/painter)**|
 |**2022-12-06**|**R2FD2: Fast and Robust Matching of Multimodal Remote Sensing Image via Repeatable Feature Detector and Rotation-invariant Feature Descriptor**|Bai Zhu et.al.|[2212.02277v2](http://arxiv.org/abs/2212.02277v2)|null|
 |**2022-11-28**|**FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network**|Xinjiang Wang et.al.|[2211.15069v1](http://arxiv.org/abs/2211.15069v1)|**[link](https://github.com/sjtu-visys/featurebooster)**|
@@ -1420,7 +1420,7 @@
 |**2023-01-24**|**Feature-based Image Matching for Identifying Individual Kākā**|Fintan O'Sullivan et.al.|[2301.06678v2](http://arxiv.org/abs/2301.06678v2)|null|
 |**2023-01-18**|**Instance Segmentation Based Graph Extraction for Handwritten Circuit Diagram Images**|Johannes Bayer et.al.|[2301.03155v2](http://arxiv.org/abs/2301.03155v2)|null|
 |**2023-01-07**|**Deep Learning-Based UAV Aerial Triangulation without Image Control Points**|Jiageng Zhong et.al.|[2301.02869v1](http://arxiv.org/abs/2301.02869v1)|null|
-|**2023-01-06**|**The UNCOVER Survey: A first-look HST+JWST catalog of 50,000 galaxies near Abell 2744 and beyond**|John R. Weaver et.al.|[2301.02671v1](http://arxiv.org/abs/2301.02671v1)|null|
+|**2023-01-06**|**The UNCOVER Survey: A first-look HST+JWST catalog of 50,000 galaxies near Abell 2744 and beyond**|John R. Weaver et.al.|[2301.02671v1](http://arxiv.org/abs/2301.02671v1)|**[link](https://github.com/astrowhit/aperpy)**|
 |**2023-02-13**|**Translating Text Synopses to Video Storyboards**|Xu Gu et.al.|[2301.00135v2](http://arxiv.org/abs/2301.00135v2)|null|
 |**2022-12-23**|**SuperGF: Unifying Local and Global Features for Visual Localization**|Wenzheng Song et.al.|[2212.13105v1](http://arxiv.org/abs/2212.13105v1)|null|
 |**2022-12-26**|**Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images**|Weizhi Du et.al.|[2212.13068v1](http://arxiv.org/abs/2212.13068v1)|null|
@@ -1533,7 +1533,7 @@
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881v1](http://arxiv.org/abs/2310.01881v1)|null|
 |**2023-10-03**|**MIMO-NeRF: Fast Neural Rendering with Multi-input Multi-output Neural Radiance Fields**|Takuhiro Kaneko et.al.|[2310.01821v1](http://arxiv.org/abs/2310.01821v1)|null|
 |**2023-10-02**|**PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2310.00874v1](http://arxiv.org/abs/2310.00874v1)|**[link](https://github.com/biter0088/pc-nerf)**|
-|**2023-10-01**|**How Many Views Are Needed to Reconstruct an Unknown Object Using NeRF?**|Sicong Pan et.al.|[2310.00684v1](http://arxiv.org/abs/2310.00684v1)|null|
+|**2023-10-01**|**How Many Views Are Needed to Reconstruct an Unknown Object Using NeRF?**|Sicong Pan et.al.|[2310.00684v1](http://arxiv.org/abs/2310.00684v1)|**[link](https://github.com/psc0628/nerf-prv)**|
 |**2023-10-01**|**Enabling Neural Radiance Fields (NeRF) for Large-scale Aerial Images -- A Multi-tiling Approaching and the Geometry Assessment of NeRF**|Ningli Xu et.al.|[2310.00530v1](http://arxiv.org/abs/2310.00530v1)|null|
 |**2023-09-30**|**MMPI: a Flexible Radiance Field Representation by Multiple Multi-plane Images Blending**|Yuze He et.al.|[2310.00249v1](http://arxiv.org/abs/2310.00249v1)|null|
 |**2023-09-29**|**Multi-task View Synthesis with Neural Radiance Fields**|Shuhong Zheng et.al.|[2309.17450v1](http://arxiv.org/abs/2309.17450v1)|**[link](https://github.com/zsh2000/muvienerf)**|
@@ -1652,7 +1652,7 @@
 |**2023-07-16**|**FlipNeRF: Flipped Reflection Rays for Few-shot Novel View Synthesis**|Seunghyeon Seo et.al.|[2306.17723v2](http://arxiv.org/abs/2306.17723v2)|**[link](https://github.com/shawn615/FlipNeRF)**|
 |**2023-07-03**|**Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions**|Gengchen Mai et.al.|[2306.17624v2](http://arxiv.org/abs/2306.17624v2)|null|
 |**2023-06-28**|**Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering**|Chuanyue Shen et.al.|[2306.16541v1](http://arxiv.org/abs/2306.16541v1)|null|
-|**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203v1](http://arxiv.org/abs/2306.15203v1)|null|
+|**2023-06-27**|**Unsupervised Polychromatic Neural Representation for CT Metal Artifact Reduction**|Qing Wu et.al.|[2306.15203v1](http://arxiv.org/abs/2306.15203v1)|**[link](https://github.com/iwuqing/polyner)**|
 |**2023-06-22**|**Blended-NeRF: Zero-Shot Object Generation and Blending in Existing Neural Radiance Fields**|Ori Gordon et.al.|[2306.12760v1](http://arxiv.org/abs/2306.12760v1)|**[link](https://github.com/orig333/Blended-NeRF)**|
 |**2023-06-21**|**Local 3D Editing via 3D Distillation of CLIP Knowledge**|Junha Hyung et.al.|[2306.12570v1](http://arxiv.org/abs/2306.12570v1)|null|
 |**2023-06-21**|**Benchmarking and Analyzing 3D-aware Image Synthesis with a Modularized Codebase**|Qiuyu Wang et.al.|[2306.12423v1](http://arxiv.org/abs/2306.12423v1)|**[link](https://github.com/qiuyu96/carver)**|
@@ -2067,7 +2067,7 @@
 |**2023-10-04**|**GET: Group Event Transformer for Event-Based Vision**|Yansong Peng et.al.|[2310.02642v1](http://arxiv.org/abs/2310.02642v1)|**[link](https://github.com/peterande/get-group-event-transformer)**|
 |**2023-10-04**|**ViT-ReciproCAM: Gradient and Attention-Free Visual Explanations for Vision Transformer**|Seok-Yong Byun et.al.|[2310.02588v1](http://arxiv.org/abs/2310.02588v1)|null|
 |**2023-10-04**|**Improving Drumming Robot Via Attention Transformer Network**|Yang Yi et.al.|[2310.02565v1](http://arxiv.org/abs/2310.02565v1)|null|
-|**2023-10-04**|**SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers**|KL Navaneet et.al.|[2310.02544v1](http://arxiv.org/abs/2310.02544v1)|null|
+|**2023-10-04**|**SlowFormer: Universal Adversarial Patch for Attack on Compute and Energy Efficiency of Inference Efficient Vision Transformers**|KL Navaneet et.al.|[2310.02544v1](http://arxiv.org/abs/2310.02544v1)|**[link](https://github.com/UCDvision/SlowFormer)**|
 |**2023-10-03**|**TransRadar: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation**|Yahia Dalbah et.al.|[2310.02260v1](http://arxiv.org/abs/2310.02260v1)|**[link](https://github.com/yahidar/transradar)**|
 |**2023-10-03**|**The Inhibitor: ReLU and Addition-Based Attention for Efficient Transformers**|Rickard Brännvall et.al.|[2310.02041v1](http://arxiv.org/abs/2310.02041v1)|null|
 |**2023-10-05**|**Ring Attention with Blockwise Transformers for Near-Infinite Context**|Hao Liu et.al.|[2310.01889v2](http://arxiv.org/abs/2310.01889v2)|null|
@@ -2180,7 +2180,7 @@
 |**2023-08-25**|**Unlocking Fine-Grained Details with Wavelet-based High-Frequency Enhancement in Transformers**|Reza Azad et.al.|[2308.13442v1](http://arxiv.org/abs/2308.13442v1)|**[link](https://github.com/mindflow-institue/waveformer)**|
 |**2023-08-25**|**An investigation into the impact of deep learning model choice on sex and race bias in cardiac MR segmentation**|Tiarna Lee et.al.|[2308.13415v1](http://arxiv.org/abs/2308.13415v1)|null|
 |**2023-08-25**|**CS-Mixer: A Cross-Scale Vision MLP Model with Spatial-Channel Mixing**|Jonathan Cui et.al.|[2308.13363v1](http://arxiv.org/abs/2308.13363v1)|null|
-|**2023-08-25**|**A Re-Parameterized Vision Transformer (ReVT) for Domain-Generalized Semantic Segmentation**|Jan-Aike Termöhlen et.al.|[2308.13331v1](http://arxiv.org/abs/2308.13331v1)|null|
+|**2023-08-25**|**A Re-Parameterized Vision Transformer (ReVT) for Domain-Generalized Semantic Segmentation**|Jan-Aike Termöhlen et.al.|[2308.13331v1](http://arxiv.org/abs/2308.13331v1)|**[link](https://github.com/ifnspaml/revt)**|
 |**2023-08-24**|**Full-dose PET Synthesis from Low-dose PET Using High-efficiency Diffusion Denoising Probabilistic Model**|Shaoyan Pan et.al.|[2308.13072v1](http://arxiv.org/abs/2308.13072v1)|null|
 |**2023-08-24**|**Spherical Vision Transformer for 360-degree Video Saliency Prediction**|Mert Cokelek et.al.|[2308.13004v1](http://arxiv.org/abs/2308.13004v1)|null|
 |**2023-08-24**|**Towards Hierarchical Regional Transformer-based Multiple Instance Learning**|Josef Cersovsky et.al.|[2308.12634v1](http://arxiv.org/abs/2308.12634v1)|null|
