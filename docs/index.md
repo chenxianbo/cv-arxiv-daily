@@ -26,6 +26,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**Open-Structure: a Structural Benchmark Dataset for SLAM Algorithms**|Yanyan Li et.al.|[2310.10931v1](http://arxiv.org/abs/2310.10931v1)|null|
 |**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776v1](http://arxiv.org/abs/2310.09776v1)|null|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082v1](http://arxiv.org/abs/2310.08082v1)|null|
 |**2023-10-10**|**l-dyno: framework to learn consistent visual features using robot's motion**|Kartikeya Singh et.al.|[2310.06249v1](http://arxiv.org/abs/2310.06249v1)|null|
@@ -636,6 +637,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-17**|**Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification**|Shuanglin Yan et.al.|[2310.11210v1](http://arxiv.org/abs/2310.11210v1)|null|
 |**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290v1](http://arxiv.org/abs/2310.10290v1)|null|
 |**2023-10-16**|**EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge**|Tom Bryan et.al.|[2310.10050v1](http://arxiv.org/abs/2310.10050v1)|null|
 |**2023-10-15**|**CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes**|Yulei Qin et.al.|[2310.09761v1](http://arxiv.org/abs/2310.09761v1)|**[link](https://github.com/yuleiqin/capro)**|
@@ -2105,6 +2107,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**Approximating Two-Layer Feedforward Networks for Efficient Transformers**|Róbert Csordás et.al.|[2310.10837v1](http://arxiv.org/abs/2310.10837v1)|**[link](https://github.com/robertcsordas/moe)**|
 |**2023-10-16**|**Interpreting and Controlling Vision Foundation Models via Text Explanations**|Haozhe Chen et.al.|[2310.10591v1](http://arxiv.org/abs/2310.10591v1)|**[link](https://github.com/tonychenxyz/vit-interpret)**|
 |**2023-10-16**|**Adaptive Robot Assistance: Expertise and Influence in Multi-User Task Planning**|Abhinav Dahiya et.al.|[2310.10502v1](http://arxiv.org/abs/2310.10502v1)|null|
 |**2023-10-15**|**Top-K Pooling with Patch Contrastive Learning for Weakly-Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2310.09828v1](http://arxiv.org/abs/2310.09828v1)|null|
