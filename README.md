@@ -633,6 +633,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**Representation Learning via Consistent Assignment of Views over Random Partitions**|Thalles Silva et.al.|[2310.12692v1](http://arxiv.org/abs/2310.12692v1)|**[link](https://github.com/sthalles/carp)**|
 |**2023-10-18**|**Evaluating the Fairness of Discriminative Foundation Models in Computer Vision**|Junaid Ali et.al.|[2310.11867v1](http://arxiv.org/abs/2310.11867v1)|null|
 |**2023-10-17**|**Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification**|Shuanglin Yan et.al.|[2310.11210v1](http://arxiv.org/abs/2310.11210v1)|null|
 |**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290v1](http://arxiv.org/abs/2310.10290v1)|null|
@@ -2107,6 +2108,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**Predicting Ovarian Cancer Treatment Response in Histopathology using Hierarchical Vision Transformers and Multiple Instance Learning**|Jack Breen et.al.|[2310.12866v1](http://arxiv.org/abs/2310.12866v1)|**[link](https://github.com/scjjb/hipt_abmil_atec23)**|
+|**2023-10-19**|**Model Merging by Uncertainty-Based Gradient Matching**|Nico Daheim et.al.|[2310.12808v1](http://arxiv.org/abs/2310.12808v1)|null|
+|**2023-10-19**|**Mixing Histopathology Prototypes into Robust Slide-Level Representations for Cancer Subtyping**|Joshua Butke et.al.|[2310.12769v1](http://arxiv.org/abs/2310.12769v1)|**[link](https://github.com/butkej/protomixer)**|
+|**2023-10-19**|**Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers**|Yuanduo Hong et.al.|[2310.12755v1](http://arxiv.org/abs/2310.12755v1)|null|
+|**2023-10-19**|**Heart Disease Detection using Vision-Based Transformer Models from ECG Images**|Zeynep Hilal Kilimci et.al.|[2310.12630v1](http://arxiv.org/abs/2310.12630v1)|null|
+|**2023-10-19**|**Cross-attention Spatio-temporal Context Transformer for Semantic Segmentation of Historical Maps**|Sidi Wu et.al.|[2310.12616v1](http://arxiv.org/abs/2310.12616v1)|null|
 |**2023-10-18**|**SHARCS: Efficient Transformers through Routing with Dynamic Width Sub-networks**|Mohammadreza Salehi et.al.|[2310.12126v1](http://arxiv.org/abs/2310.12126v1)|null|
 |**2023-10-18**|**Fast Multipole Attention: A Divide-and-Conquer Attention Mechanism for Long Sequences**|Yanming Kang et.al.|[2310.11960v1](http://arxiv.org/abs/2310.11960v1)|null|
 |**2023-10-18**|**Superiority of Softmax: Unveiling the Performance Edge Over Linear Attention**|Yichuan Deng et.al.|[2310.11685v1](http://arxiv.org/abs/2310.11685v1)|null|
