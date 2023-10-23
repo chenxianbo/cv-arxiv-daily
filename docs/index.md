@@ -665,7 +665,7 @@ layout: default
 |**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992v1](http://arxiv.org/abs/2309.16992v1)|**[link](https://github.com/vignywang/samfeat)**|
 |**2023-09-28**|**Dark Side Augmentation: Generating Diverse Night Examples for Metric Learning**|Albert Mohwald et.al.|[2309.16351v1](http://arxiv.org/abs/2309.16351v1)|**[link](https://github.com/mohwald/gandtr)**|
 |**2023-09-28**|**FORB: A Flat Object Retrieval Benchmark for Universal Image Embedding**|Pengxiang Wu et.al.|[2309.16249v1](http://arxiv.org/abs/2309.16249v1)|**[link](https://github.com/pxiangwu/forb)**|
-|**2023-09-28**|**Context-I2W: Mapping Images to Context-dependent Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2309.16137v1](http://arxiv.org/abs/2309.16137v1)|null|
+|**2023-09-28**|**Context-I2W: Mapping Images to Context-dependent Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2309.16137v1](http://arxiv.org/abs/2309.16137v1)|**[link](https://github.com/pter61/context_i2w)**|
 |**2023-09-27**|**GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization**|Vicente Vivanco Cepeda et.al.|[2309.16020v1](http://arxiv.org/abs/2309.16020v1)|null|
 |**2023-09-27**|**Learning Dense Flow Field for Highly-accurate Cross-view Camera Localization**|Zhenbo Song et.al.|[2309.15556v1](http://arxiv.org/abs/2309.15556v1)|null|
 |**2023-09-26**|**Object-Centric Open-Vocabulary Image-Retrieval with Aggregated Features**|Hila Levi et.al.|[2309.14999v1](http://arxiv.org/abs/2309.14999v1)|null|
@@ -1630,7 +1630,7 @@ layout: default
 |**2023-09-13**|**Dynamic NeRFs for Soccer Scenes**|Sacha Lewin et.al.|[2309.06802v1](http://arxiv.org/abs/2309.06802v1)|null|
 |**2023-09-12**|**Federated Learning for Large-Scale Scene Modeling with Neural Radiance Fields**|Teppei Suzuki et.al.|[2309.06030v1](http://arxiv.org/abs/2309.06030v1)|null|
 |**2023-09-11**|**PAg-NeRF: Towards fast and efficient end-to-end panoptic 3D representations for agricultural robotics**|Claus Smitt et.al.|[2309.05339v1](http://arxiv.org/abs/2309.05339v1)|null|
-|**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917v1](http://arxiv.org/abs/2309.04917v1)|null|
+|**2023-09-10**|**Text-driven Editing of 3D Scenes without Retraining**|Shuangkang Fang et.al.|[2309.04917v1](http://arxiv.org/abs/2309.04917v1)|**[link](https://github.com/Fangkang515/DN2N)**|
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750v1](http://arxiv.org/abs/2309.04750v1)|null|
 |**2023-09-08**|**Dynamic Mesh-Aware Radiance Fields**|Yi-Ling Qiao et.al.|[2309.04581v1](http://arxiv.org/abs/2309.04581v1)|null|
 |**2023-09-08**|**DeformToon3D: Deformable 3D Toonification from Neural Radiance Fields**|Junzhe Zhang et.al.|[2309.04410v1](http://arxiv.org/abs/2309.04410v1)|**[link](https://github.com/junzhezhang/deformtoon3d)**|
@@ -2185,7 +2185,7 @@ layout: default
 |**2023-09-28**|**Vision Transformers Need Registers**|Timothée Darcet et.al.|[2309.16588v1](http://arxiv.org/abs/2309.16588v1)|null|
 |**2023-09-28**|**HTC-DC Net: Monocular Height Estimation from Single Remote Sensing Images**|Sining Chen et.al.|[2309.16486v1](http://arxiv.org/abs/2309.16486v1)|**[link](https://github.com/zhu-xlab/htc-dc-net)**|
 |**2023-09-28**|**Transformer-VQ: Linear-Time Transformers via Vector Quantization**|Lucas D. Lingle et.al.|[2309.16354v1](http://arxiv.org/abs/2309.16354v1)|**[link](https://github.com/transformer-vq/transformer_vq)**|
-|**2023-09-28**|**Channel Vision Transformers: An Image Is Worth C x 16 x 16 Words**|Yujia Bao et.al.|[2309.16108v1](http://arxiv.org/abs/2309.16108v1)|null|
+|**2023-09-28**|**Channel Vision Transformers: An Image Is Worth C x 16 x 16 Words**|Yujia Bao et.al.|[2309.16108v1](http://arxiv.org/abs/2309.16108v1)|**[link](https://github.com/insitro/channelvit)**|
 |**2023-09-26**|**GasMono: Geometry-Aided Self-Supervised Monocular Depth Estimation for Indoor Scenes**|Chaoqiang Zhao et.al.|[2309.16019v1](http://arxiv.org/abs/2309.16019v1)|null|
 |**2023-09-27**|**CAIT: Triple-Win Compression towards High Accuracy, Fast Inference, and Favorable Transferability For ViTs**|Ao Wang et.al.|[2309.15755v1](http://arxiv.org/abs/2309.15755v1)|null|
 |**2023-10-02**|**Improving Facade Parsing with Vision Transformers and Line Integration**|Bowen Wang et.al.|[2309.15523v3](http://arxiv.org/abs/2309.15523v3)|**[link](https://github.com/wbw520/rtfp)**|
@@ -2250,7 +2250,7 @@ layout: default
 |**2023-09-07**|**Domain Adaptation for Efficiently Fine-tuning Vision Transformer with Encrypted Images**|Teru Nagamori et.al.|[2309.02556v2](http://arxiv.org/abs/2309.02556v2)|null|
 |**2023-09-05**|**A survey on efficient vision transformers: algorithms, techniques, and performance benchmarking**|Lorenzo Papa et.al.|[2309.02031v1](http://arxiv.org/abs/2309.02031v1)|null|
 |**2023-09-04**|**Locality-Aware Hyperspectral Classification**|Fangqin Zhou et.al.|[2309.01561v1](http://arxiv.org/abs/2309.01561v1)|**[link](https://github.com/zhoufangqin/hylite)**|
-|**2023-09-06**|**Large Separable Kernel Attention: Rethinking the Large Kernel Attention Design in CNN**|Kin Wai Lau et.al.|[2309.01439v2](http://arxiv.org/abs/2309.01439v2)|null|
+|**2023-09-06**|**Large Separable Kernel Attention: Rethinking the Large Kernel Attention Design in CNN**|Kin Wai Lau et.al.|[2309.01439v2](http://arxiv.org/abs/2309.01439v2)|**[link](https://github.com/stevenlauhkhk/large-separable-kernel-attention)**|
 |**2023-09-04**|**DAT++: Spatially Dynamic Vision Transformer with Deformable Attention**|Zhuofan Xia et.al.|[2309.01430v1](http://arxiv.org/abs/2309.01430v1)|**[link](https://github.com/leaplabthu/dat)**|
 |**2023-09-04**|**Leveraging Self-Supervised Vision Transformers for Neural Transfer Function Design**|Dominik Engel et.al.|[2309.01408v1](http://arxiv.org/abs/2309.01408v1)|null|
 |**2023-09-04**|**Semantic-Constraint Matching Transformer for Weakly Supervised Object Localization**|Yiwen Cao et.al.|[2309.01331v1](http://arxiv.org/abs/2309.01331v1)|null|
@@ -2259,8 +2259,8 @@ layout: default
 |**2023-09-02**|**Contrastive Feature Masking Open-Vocabulary Vision Transformer**|Dahun Kim et.al.|[2309.00775v1](http://arxiv.org/abs/2309.00775v1)|null|
 |**2023-09-01**|**Deep Joint Source-Channel Coding for Adaptive Image Transmission over MIMO Channels**|Haotian Wu et.al.|[2309.00470v1](http://arxiv.org/abs/2309.00470v1)|null|
 |**2023-09-01**|**Interpretable Medical Imagery Diagnosis with Self-Attentive Transformers: A Review of Explainable AI for Health Care**|Tin Lai et.al.|[2309.00252v1](http://arxiv.org/abs/2309.00252v1)|null|
-|**2023-08-31**|**Beyond Self-Attention: Deformable Large Kernel Attention for Medical Image Segmentation**|Reza Azad et.al.|[2309.00121v1](http://arxiv.org/abs/2309.00121v1)|null|
-|**2023-08-31**|**Laplacian-Former: Overcoming the Limitations of Vision Transformers in Local Texture Detection**|Reza Azad et.al.|[2309.00108v1](http://arxiv.org/abs/2309.00108v1)|null|
+|**2023-08-31**|**Beyond Self-Attention: Deformable Large Kernel Attention for Medical Image Segmentation**|Reza Azad et.al.|[2309.00121v1](http://arxiv.org/abs/2309.00121v1)|**[link](https://github.com/xmindflow/deformableLKA)**|
+|**2023-08-31**|**Laplacian-Former: Overcoming the Limitations of Vision Transformers in Local Texture Detection**|Reza Azad et.al.|[2309.00108v1](http://arxiv.org/abs/2309.00108v1)|**[link](https://github.com/xmindflow/Laplacian-Former)**|
 |**2023-08-31**|**Towards Optimal Patch Size in Vision Transformers for Tumor Segmentation**|Ramtin Mojtahedi et.al.|[2308.16598v1](http://arxiv.org/abs/2308.16598v1)|**[link](https://github.com/ramtin-mojtahedi/ovtps)**|
 |**2023-08-30**|**Learning Diverse Features in Vision Transformers for Improved Generalization**|Armand Mihai Nicolicioiu et.al.|[2308.16274v1](http://arxiv.org/abs/2308.16274v1)|**[link](https://github.com/armandnm/diverse-vit)**|
 |**2023-08-30**|**Emergence of Segmentation with Minimalistic White-Box Transformers**|Yaodong Yu et.al.|[2308.16271v1](http://arxiv.org/abs/2308.16271v1)|**[link](https://github.com/ma-lab-berkeley/crate)**|
