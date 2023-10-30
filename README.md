@@ -519,7 +519,7 @@
 |**2023-08-04**|**EDI: ESKF-based Disjoint Initialization for Visual-Inertial SLAM Systems**|Weihan Wang et.al.|[2308.02670v1](http://arxiv.org/abs/2308.02670v1)|null|
 |**2023-08-15**|**Tirtha -- An Automated Platform to Crowdsource Images and Create 3D Models of Heritage Sites**|Jyotirmaya Shivottam et.al.|[2308.01246v2](http://arxiv.org/abs/2308.01246v2)|**[link](https://github.com/smlab-niser/tirtha-public)**|
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125v1](http://arxiv.org/abs/2308.01125v1)|null|
-|**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055v1](http://arxiv.org/abs/2307.15055v1)|null|
+|**2023-07-27**|**PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**|Yang Zheng et.al.|[2307.15055v1](http://arxiv.org/abs/2307.15055v1)|**[link](https://github.com/y-zheng18/point_odyssey)**|
 |**2023-07-28**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702v2](http://arxiv.org/abs/2307.11702v2)|null|
 |**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981v1](http://arxiv.org/abs/2307.09981v1)|null|
 |**2023-07-10**|**Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**|San Jiang et.al.|[2307.04520v1](http://arxiv.org/abs/2307.04520v1)|null|
@@ -1237,7 +1237,7 @@
 |**2023-08-15**|**CoDeF: Content Deformation Fields for Temporally Consistent Video Processing**|Hao Ouyang et.al.|[2308.07926v1](http://arxiv.org/abs/2308.07926v1)|**[link](https://github.com/qiuyu96/codef)**|
 |**2023-08-15**|**ChartDETR: A Multi-shape Detection Network for Visual Chart Recognition**|Wenyuan Xue et.al.|[2308.07743v1](http://arxiv.org/abs/2308.07743v1)|null|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153v1](http://arxiv.org/abs/2308.07153v1)|null|
-|**2023-08-14**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667v2](http://arxiv.org/abs/2308.05667v2)|null|
+|**2023-08-14**|**2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds**|Minhao Li et.al.|[2308.05667v2](http://arxiv.org/abs/2308.05667v2)|**[link](https://github.com/minhaolee/2d3dmatr)**|
 |**2023-08-02**|**Automated Hit-frame Detection for Badminton Match Analysis**|Yu-Hang Chien et.al.|[2307.16000v2](http://arxiv.org/abs/2307.16000v2)|**[link](https://github.com/arthur900530/Automated-Hit-frame-Detection-for-Badminton-Match-Analysis)**|
 |**2023-07-25**|**Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**|Chuanyu Luo et.al.|[2307.13300v1](http://arxiv.org/abs/2307.13300v1)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698v2](http://arxiv.org/abs/2307.10698v2)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
@@ -1588,7 +1588,7 @@
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624v1](http://arxiv.org/abs/2310.10624v1)|null|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209v1](http://arxiv.org/abs/2310.10209v1)|null|
 |**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965v1](http://arxiv.org/abs/2310.09965v1)|null|
-|**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892v1](http://arxiv.org/abs/2310.09892v1)|null|
+|**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892v1](http://arxiv.org/abs/2310.09892v1)|**[link](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)**|
 |**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776v1](http://arxiv.org/abs/2310.09776v1)|null|
 |**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916v1](http://arxiv.org/abs/2310.07916v1)|null|
 |**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449v2](http://arxiv.org/abs/2310.07449v2)|null|
@@ -2178,7 +2178,7 @@
 |**2023-10-11**|**ViT-A*: Legged Robot Path Planning using Vision Transformer A***|Jianwei Liu et.al.|[2310.07525v1](http://arxiv.org/abs/2310.07525v1)|null|
 |**2023-10-11**|**PtychoDV: Vision Transformer-Based Deep Unrolling Network for Ptychographic Image Reconstruction**|Weijie Gan et.al.|[2310.07504v1](http://arxiv.org/abs/2310.07504v1)|null|
 |**2023-10-11**|**Distilling Efficient Vision Transformers from CNNs for Semantic Segmentation**|Xu Zheng et.al.|[2310.07265v1](http://arxiv.org/abs/2310.07265v1)|null|
-|**2023-10-10**|**EViT: An Eagle Vision Transformer with Bi-Fovea Self-Attention**|Yulong Shi et.al.|[2310.06629v1](http://arxiv.org/abs/2310.06629v1)|null|
+|**2023-10-10**|**EViT: An Eagle Vision Transformer with Bi-Fovea Self-Attention**|Yulong Shi et.al.|[2310.06629v1](http://arxiv.org/abs/2310.06629v1)|**[link](https://github.com/nkusyl/evit)**|
 |**2023-10-10**|**Machine Eye for Defects: Machine Learning-Based Solution to Identify and Characterize Topological Defects in Textured Images of Nematic Materials**|Haijie Ren et.al.|[2310.06406v1](http://arxiv.org/abs/2310.06406v1)|null|
 |**2023-10-10**|**Learning Stackable and Skippable LEGO Bricks for Efficient, Reconfigurable, and Variable-Resolution Diffusion Modeling**|Huangjie Zheng et.al.|[2310.06389v1](http://arxiv.org/abs/2310.06389v1)|null|
 |**2023-10-10**|**Efficient Adaptation of Large Vision Transformer via Adapter Re-Composing**|Wei Dong et.al.|[2310.06234v1](http://arxiv.org/abs/2310.06234v1)|**[link](https://github.com/davidyanande/arc)**|
@@ -2222,11 +2222,11 @@
 |**2023-09-29**|**SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation**|Zhongang Cai et.al.|[2309.17448v1](http://arxiv.org/abs/2309.17448v1)|null|
 |**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649v1](http://arxiv.org/abs/2309.16649v1)|**[link](https://github.com/koushiksrivats/flip)**|
 |**2023-09-28**|**Depthwise Hyperparameter Transfer in Residual Networks: Dynamics and Scaling Limit**|Blake Bordelon et.al.|[2309.16620v1](http://arxiv.org/abs/2309.16620v1)|null|
-|**2023-09-28**|**Vision Transformers Need Registers**|Timothée Darcet et.al.|[2309.16588v1](http://arxiv.org/abs/2309.16588v1)|null|
+|**2023-09-28**|**Vision Transformers Need Registers**|Timothée Darcet et.al.|[2309.16588v1](http://arxiv.org/abs/2309.16588v1)|**[link](https://github.com/facebookresearch/dinov2)**|
 |**2023-09-28**|**HTC-DC Net: Monocular Height Estimation from Single Remote Sensing Images**|Sining Chen et.al.|[2309.16486v1](http://arxiv.org/abs/2309.16486v1)|**[link](https://github.com/zhu-xlab/htc-dc-net)**|
 |**2023-09-28**|**Transformer-VQ: Linear-Time Transformers via Vector Quantization**|Lucas D. Lingle et.al.|[2309.16354v1](http://arxiv.org/abs/2309.16354v1)|**[link](https://github.com/transformer-vq/transformer_vq)**|
 |**2023-09-28**|**Channel Vision Transformers: An Image Is Worth C x 16 x 16 Words**|Yujia Bao et.al.|[2309.16108v1](http://arxiv.org/abs/2309.16108v1)|**[link](https://github.com/insitro/channelvit)**|
-|**2023-09-26**|**GasMono: Geometry-Aided Self-Supervised Monocular Depth Estimation for Indoor Scenes**|Chaoqiang Zhao et.al.|[2309.16019v1](http://arxiv.org/abs/2309.16019v1)|null|
+|**2023-09-26**|**GasMono: Geometry-Aided Self-Supervised Monocular Depth Estimation for Indoor Scenes**|Chaoqiang Zhao et.al.|[2309.16019v1](http://arxiv.org/abs/2309.16019v1)|**[link](https://github.com/zxcqlf/gasmono)**|
 |**2023-09-27**|**CAIT: Triple-Win Compression towards High Accuracy, Fast Inference, and Favorable Transferability For ViTs**|Ao Wang et.al.|[2309.15755v1](http://arxiv.org/abs/2309.15755v1)|null|
 |**2023-10-02**|**Improving Facade Parsing with Vision Transformers and Line Integration**|Bowen Wang et.al.|[2309.15523v3](http://arxiv.org/abs/2309.15523v3)|**[link](https://github.com/wbw520/rtfp)**|
 |**2023-09-26**|**Efficient Low-rank Backpropagation for Vision Transformer Adaptation**|Yuedong Yang et.al.|[2309.15275v1](http://arxiv.org/abs/2309.15275v1)|null|
@@ -2247,7 +2247,7 @@
 |**2023-09-21**|**Adaptive Input-image Normalization for Solving Mode Collapse Problem in GAN-based X-ray Images**|Muhammad Muneeb Saad et.al.|[2309.12245v1](http://arxiv.org/abs/2309.12245v1)|null|
 |**2023-09-21**|**Bayesian sparsification for deep neural networks with Bayesian model reduction**|Dimitrije Marković et.al.|[2309.12095v1](http://arxiv.org/abs/2309.12095v1)|**[link](https://github.com/dimarkov/bmr4pml)**|
 |**2023-09-21**|**ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers**|Philipp Ausserlechner et.al.|[2309.11986v1](http://arxiv.org/abs/2309.11986v1)|null|
-|**2023-09-20**|**RMT: Retentive Networks Meet Vision Transformers**|Qihang Fan et.al.|[2309.11523v1](http://arxiv.org/abs/2309.11523v1)|null|
+|**2023-09-20**|**RMT: Retentive Networks Meet Vision Transformers**|Qihang Fan et.al.|[2309.11523v1](http://arxiv.org/abs/2309.11523v1)|**[link](https://github.com/qhfan/RMT)**|
 |**2023-09-20**|**Forgery-aware Adaptive Vision Transformer for Face Forgery Detection**|Anwei Luo et.al.|[2309.11092v1](http://arxiv.org/abs/2309.11092v1)|null|
 |**2023-09-19**|**Interpret Vision Transformers as ConvNets with Dynamic Convolutions**|Chong Zhou et.al.|[2309.10713v1](http://arxiv.org/abs/2309.10713v1)|null|
 |**2023-09-19**|**Latent Space Energy-based Model for Fine-grained Open Set Recognition**|Wentao Bao et.al.|[2309.10711v1](http://arxiv.org/abs/2309.10711v1)|null|
