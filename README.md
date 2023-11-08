@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722v1](http://arxiv.org/abs/2311.03722v1)|null|
 |**2023-11-02**|**Joint 3D Shape and Motion Estimation from Rolling Shutter Light-Field Images**|Hermes McGriff et.al.|[2311.01292v1](http://arxiv.org/abs/2311.01292v1)|null|
 |**2023-10-29**|**3DMiner: Discovering Shapes from Large-Scale Unannotated Image Datasets**|Ta-Ying Cheng et.al.|[2310.19188v1](http://arxiv.org/abs/2310.19188v1)|null|
 |**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072v1](http://arxiv.org/abs/2310.15072v1)|null|
@@ -640,6 +641,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**|Kehinde Ajayi et.al.|[2311.04098v1](http://arxiv.org/abs/2311.04098v1)|null|
 |**2023-11-06**|**Long-Term Invariant Local Features via Implicit Cross-Domain Correspondences**|Zador Pataki et.al.|[2311.03345v1](http://arxiv.org/abs/2311.03345v1)|null|
 |**2023-11-06**|**FocusTune: Tuning Visual Localization through Focus-Guided Sampling**|Son Tung Nguyen et.al.|[2311.02872v1](http://arxiv.org/abs/2311.02872v1)|**[link](https://github.com/sontung/focus-tune)**|
 |**2023-11-01**|**DINO-Mix: Enhancing Visual Place Recognition with Foundational Vision Model and Feature Mixing**|Gaoshuang Huang et.al.|[2311.00230v1](http://arxiv.org/abs/2311.00230v1)|null|
@@ -1581,6 +1583,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154v1](http://arxiv.org/abs/2311.04154v1)|null|
+|**2023-11-07**|**Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**|Yeonjin Chang et.al.|[2311.03965v1](http://arxiv.org/abs/2311.03965v1)|null|
+|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v1](http://arxiv.org/abs/2311.03784v1)|null|
+|**2023-11-06**|**Osprey: Multi-Session Autonomous Aerial Mapping with LiDAR-based SLAM and Next Best View Planning**|Rowan Border et.al.|[2311.03484v1](http://arxiv.org/abs/2311.03484v1)|null|
 |**2023-11-06**|**Animating NeRFs from Texture Space: A Framework for Pose-Dependent Rendering of Human Performances**|Paul Knoll et.al.|[2311.03140v1](http://arxiv.org/abs/2311.03140v1)|null|
 |**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826v1](http://arxiv.org/abs/2311.02826v1)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|
 |**2023-11-03**|**Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**|Jianxiong Shen et.al.|[2311.01815v1](http://arxiv.org/abs/2311.01815v1)|null|
@@ -2159,10 +2165,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-07**|**FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer**|Chi-Chih Chang et.al.|[2311.03912v1](http://arxiv.org/abs/2311.03912v1)|**[link](https://github.com/shadowpa0327/flora)**|
+|**2023-11-07**|**Mini but Mighty: Finetuning ViTs with Mini Adapters**|Imad Eddine Marouf et.al.|[2311.03873v1](http://arxiv.org/abs/2311.03873v1)|**[link](https://github.com/iemprog/mimi)**|
+|**2023-11-07**|**Lightweight Portrait Matting via Regional Attention and Refinement**|Yatao Zhong et.al.|[2311.03770v1](http://arxiv.org/abs/2311.03770v1)|null|
+|**2023-11-07**|**Sampling via Föllmer Flow**|Zhao Ding et.al.|[2311.03660v1](http://arxiv.org/abs/2311.03660v1)|**[link](https://github.com/burning489/SamplingFollmerFlow)**|
+|**2023-11-07**|**FusionViT: Hierarchical 3D Object Detection via LiDAR-Camera Vision Transformer Fusion**|Xinhao Xiang et.al.|[2311.03620v1](http://arxiv.org/abs/2311.03620v1)|null|
 |**2023-11-06**|**Machine Learning-Based Tea Leaf Disease Detection: A Comprehensive Review**|Faruk Ahmed et.al.|[2311.03240v1](http://arxiv.org/abs/2311.03240v1)|null|
 |**2023-11-06**|**Navigating Scaling Laws: Accelerating Vision Transformer's Training via Adaptive Strategies**|Sotiris Anagnostidis et.al.|[2311.03233v1](http://arxiv.org/abs/2311.03233v1)|null|
 |**2023-11-06**|**Asymmetric Masked Distillation for Pre-Training Small Foundation Models**|Zhiyu Zhao et.al.|[2311.03149v1](http://arxiv.org/abs/2311.03149v1)|null|
-|**2023-11-06**|**SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet**|Maurice Günder et.al.|[2311.03076v1](http://arxiv.org/abs/2311.03076v1)|null|
+|**2023-11-07**|**SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet**|Maurice Günder et.al.|[2311.03076v2](http://arxiv.org/abs/2311.03076v2)|null|
 |**2023-11-06**|**GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation**|Xuwei Xu et.al.|[2311.03035v1](http://arxiv.org/abs/2311.03035v1)|**[link](https://github.com/ackesnal/gtp-vit)**|
 |**2023-11-06**|**Fast and Interpretable Face Identification for Out-Of-Distribution Data Using Vision Transformers**|Hai Phan et.al.|[2311.02803v1](http://arxiv.org/abs/2311.02803v1)|null|
 |**2023-11-05**|**Rotation Invariant Transformer for Recognizing Object in UAVs**|Shuoyi Chen et.al.|[2311.02559v1](http://arxiv.org/abs/2311.02559v1)|null|
