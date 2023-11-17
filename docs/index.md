@@ -650,7 +650,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076v1](http://arxiv.org/abs/2311.09076v1)|null|
-|**2023-11-13**|**Pretrain like You Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622v1](http://arxiv.org/abs/2311.07622v1)|null|
+|**2023-11-15**|**Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622v2](http://arxiv.org/abs/2311.07622v2)|null|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514v1](http://arxiv.org/abs/2311.07514v1)|null|
 |**2023-11-10**|**Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**|Xin Lu et.al.|[2311.06067v1](http://arxiv.org/abs/2311.06067v1)|null|
 |**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788v1](http://arxiv.org/abs/2311.04788v1)|null|
@@ -1601,6 +1601,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806v1](http://arxiv.org/abs/2311.09806v1)|null|
+|**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646v1](http://arxiv.org/abs/2311.09646v1)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221v1](http://arxiv.org/abs/2311.09221v1)|null|
 |**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217v1](http://arxiv.org/abs/2311.09217v1)|null|
 |**2023-11-15**|**Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**|Zhanfeng Liao et.al.|[2311.09077v1](http://arxiv.org/abs/2311.09077v1)|null|
@@ -2194,6 +2196,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Multi-View Spectrogram Transformer for Respiratory Sound Classification**|Wentao He et.al.|[2311.09655v1](http://arxiv.org/abs/2311.09655v1)|null|
+|**2023-11-16**|**Improved TokenPose with Sparsity**|Anning Li et.al.|[2311.09653v1](http://arxiv.org/abs/2311.09653v1)|null|
+|**2023-11-16**|**MARformer: An Efficient Metal Artifact Reduction Transformer for Dental CBCT Images**|Yuxuan Shi et.al.|[2311.09590v1](http://arxiv.org/abs/2311.09590v1)|null|
+|**2023-11-15**|**DISTA: Denoising Spiking Transformer with intrinsic plasticity and spatiotemporal attention**|Boxun Xu et.al.|[2311.09376v1](http://arxiv.org/abs/2311.09376v1)|null|
+|**2023-11-15**|**Generalizable Imitation Learning Through Pre-Trained Representations**|Wei-Di Chang et.al.|[2311.09350v1](http://arxiv.org/abs/2311.09350v1)|null|
 |**2023-11-15**|**ConvNet vs Transformer, Supervised vs CLIP: Beyond ImageNet Accuracy**|Kirill Vishniakov et.al.|[2311.09215v1](http://arxiv.org/abs/2311.09215v1)|**[link](https://github.com/kirill-vish/beyond-inet)**|
 |**2023-11-14**|**Efficient Rotation Invariance in Deep Neural Networks through Artificial Mental Rotation**|Lukas Tuggener et.al.|[2311.08525v1](http://arxiv.org/abs/2311.08525v1)|null|
 |**2023-11-14**|**Performance of Machine Learning Classification in Mammography Images using BI-RADS**|Malitha Gunawardhana et.al.|[2311.08493v1](http://arxiv.org/abs/2311.08493v1)|null|
