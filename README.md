@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-18**|**Implicit Event-RGBD Neural SLAM**|Delin Qu et.al.|[2311.11013v1](http://arxiv.org/abs/2311.11013v1)|null|
 |**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
 |**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149v1](http://arxiv.org/abs/2311.06149v1)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722v1](http://arxiv.org/abs/2311.03722v1)|null|
@@ -502,6 +503,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Robot Hand-Eye Calibration using Structure-from-Motion**|Nicolas Andreff et.al.|[2311.11808v1](http://arxiv.org/abs/2311.11808v1)|null|
+|**2023-11-18**|**LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**|Sébastien Henry et.al.|[2311.11171v1](http://arxiv.org/abs/2311.11171v1)|null|
 |**2023-11-10**|**MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty**|Rémi Marsal et.al.|[2311.06137v1](http://arxiv.org/abs/2311.06137v1)|**[link](https://github.com/cea-list/monoprob)**|
 |**2023-11-08**|**VET: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering**|Linus Franke et.al.|[2311.04634v1](http://arxiv.org/abs/2311.04634v1)|**[link](https://github.com/lfranke/vet)**|
 |**2023-10-22**|**A Quantitative Evaluation of Dense 3D Reconstruction of Sinus Anatomy from Monocular Endoscopic Video**|Jan Emily Mangulabnan et.al.|[2310.14364v1](http://arxiv.org/abs/2310.14364v1)|null|
@@ -645,6 +648,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-19**|**From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**|Ameya Prabhu et.al.|[2311.11293v1](http://arxiv.org/abs/2311.11293v1)|null|
+|**2023-11-18**|**Lesion Search with Self-supervised Learning**|Kristin Qi et.al.|[2311.11014v1](http://arxiv.org/abs/2311.11014v1)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076v1](http://arxiv.org/abs/2311.09076v1)|null|
 |**2023-11-15**|**Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622v2](http://arxiv.org/abs/2311.07622v2)|null|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514v1](http://arxiv.org/abs/2311.07514v1)|null|
@@ -1230,6 +1235,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**CurriculumLoc: Enhancing Cross-Domain Geolocalization through Multi-Stage Refinement**|Boni Hu et.al.|[2311.11604v1](http://arxiv.org/abs/2311.11604v1)|**[link](https://github.com/npupilab/curriculumloc)**|
 |**2023-11-17**|**Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration**|Paul J. Claasen et.al.|[2311.10361v1](http://arxiv.org/abs/2311.10361v1)|null|
 |**2023-11-13**|**Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning**|Tomáš Kunzo et.al.|[2311.07398v1](http://arxiv.org/abs/2311.07398v1)|null|
 |**2023-11-11**|**CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**|Haoyu Ma et.al.|[2311.06443v1](http://arxiv.org/abs/2311.06443v1)|null|
@@ -1598,8 +1604,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**|Hao Li et.al.|[2311.11863v1](http://arxiv.org/abs/2311.11863v1)|null|
+|**2023-11-20**|**Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**|Zhiyuan Min et.al.|[2311.11845v1](http://arxiv.org/abs/2311.11845v1)|**[link](https://github.com/tatakai1/evenerf)**|
+|**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221v1](http://arxiv.org/abs/2311.11221v1)|null|
+|**2023-11-18**|**SNI-SLAM: Semantic Neural Implicit SLAM**|Siting Zhu et.al.|[2311.11016v1](http://arxiv.org/abs/2311.11016v1)|null|
+|**2023-11-18**|**Structure-Aware Sparse-View X-ray 3D Reconstruction**|Yuanhao Cai et.al.|[2311.10959v1](http://arxiv.org/abs/2311.10959v1)|null|
 |**2023-11-17**|**Removing Adverse Volumetric Effects From Trained Neural Radiance Fields**|Andreas L. Teigen et.al.|[2311.10523v1](http://arxiv.org/abs/2311.10523v1)|null|
-|**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806v1](http://arxiv.org/abs/2311.09806v1)|null|
+|**2023-11-18**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806v2](http://arxiv.org/abs/2311.09806v2)|null|
 |**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646v1](http://arxiv.org/abs/2311.09646v1)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221v1](http://arxiv.org/abs/2311.09221v1)|null|
 |**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217v1](http://arxiv.org/abs/2311.09217v1)|null|
@@ -2194,9 +2205,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation**|Wenhao Li et.al.|[2311.12028v1](http://arxiv.org/abs/2311.12028v1)|null|
+|**2023-11-19**|**Shape-Sensitive Loss for Catheter and Guidewire Segmentation**|Chayun Kongtongvattana et.al.|[2311.11205v1](http://arxiv.org/abs/2311.11205v1)|null|
+|**2023-11-19**|**Attention-Based Real-Time Defenses for Physical Adversarial Attacks in Vision Applications**|Giulio Rossolini et.al.|[2311.11191v1](http://arxiv.org/abs/2311.11191v1)|null|
+|**2023-11-18**|**Contextualizing Internet Memes Across Social Media Platforms**|Saurav Joshi et.al.|[2311.11157v1](http://arxiv.org/abs/2311.11157v1)|null|
 |**2023-11-17**|**PEFT-MedAware: Large Language Model for Medical Awareness**|Keivalya Pandya et.al.|[2311.10697v1](http://arxiv.org/abs/2311.10697v1)|null|
 |**2023-11-17**|**Semi-supervised ViT knowledge distillation network with style transfer normalization for colorectal liver metastases survival prediction**|Mohamed El Amine Elforaici et.al.|[2311.10305v1](http://arxiv.org/abs/2311.10305v1)|null|
-|**2023-11-16**|**I&S-ViT: An Inclusive & Stable Method for Pushing the Limit of Post-Training ViTs Quantization**|Yunshan Zhong et.al.|[2311.10126v1](http://arxiv.org/abs/2311.10126v1)|null|
+|**2023-11-16**|**I&S-ViT: An Inclusive & Stable Method for Pushing the Limit of Post-Training ViTs Quantization**|Yunshan Zhong et.al.|[2311.10126v1](http://arxiv.org/abs/2311.10126v1)|**[link](https://github.com/zysxmu/ias-vit)**|
 |**2023-11-16**|**Multi-View Spectrogram Transformer for Respiratory Sound Classification**|Wentao He et.al.|[2311.09655v1](http://arxiv.org/abs/2311.09655v1)|null|
 |**2023-11-16**|**Improved TokenPose with Sparsity**|Anning Li et.al.|[2311.09653v1](http://arxiv.org/abs/2311.09653v1)|null|
 |**2023-11-16**|**MARformer: An Efficient Metal Artifact Reduction Transformer for Dental CBCT Images**|Yuxuan Shi et.al.|[2311.09590v1](http://arxiv.org/abs/2311.09590v1)|null|
