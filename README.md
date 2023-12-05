@@ -22,6 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**iMatching: Imperative Correspondence Learning**|Zitong Zhan et.al.|[2312.02141v1](http://arxiv.org/abs/2312.02141v1)|null|
+|**2023-12-04**|**Multi-View Person Matching and 3D Pose Estimation with Arbitrary Uncalibrated Camera Networks**|Yan Xu et.al.|[2312.01561v1](http://arxiv.org/abs/2312.01561v1)|null|
 |**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189v1](http://arxiv.org/abs/2311.18189v1)|null|
 |**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580v1](http://arxiv.org/abs/2311.12580v1)|null|
 |**2023-11-21**|**Implicit Event-RGBD Neural SLAM**|Delin Qu et.al.|[2311.11013v2](http://arxiv.org/abs/2311.11013v2)|null|
@@ -652,6 +654,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Implicit Learning of Scene Geometry from Poses for Global Localization**|Mohammad Altillawi et.al.|[2312.02029v1](http://arxiv.org/abs/2312.02029v1)|null|
+|**2023-12-04**|**Language-only Efficient Training of Zero-shot Composed Image Retrieval**|Geonmo Gu et.al.|[2312.01998v1](http://arxiv.org/abs/2312.01998v1)|**[link](https://github.com/navervision/lincir)**|
+|**2023-12-03**|**G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training**|Che Liu et.al.|[2312.01522v1](http://arxiv.org/abs/2312.01522v1)|null|
+|**2023-12-01**|**Improve Supervised Representation Learning with Masked Image Modeling**|Kaifeng Chen et.al.|[2312.00950v1](http://arxiv.org/abs/2312.00950v1)|null|
+|**2023-12-01**|**Grounding Everything: Emerging Localization Properties in Vision-Language Transformers**|Walid Bousselham et.al.|[2312.00878v1](http://arxiv.org/abs/2312.00878v1)|null|
 |**2023-12-01**|**Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras**|Mohammad Altillawi et.al.|[2312.00500v1](http://arxiv.org/abs/2312.00500v1)|null|
 |**2023-11-30**|**HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance**|Zhuohao Yin et.al.|[2311.18273v1](http://arxiv.org/abs/2311.18273v1)|**[link](https://github.com/thomas-yin/semeval-2023-task1)**|
 |**2023-11-30**|**Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models**|Raviteja Vemulapalli et.al.|[2311.18237v1](http://arxiv.org/abs/2311.18237v1)|null|
@@ -1451,6 +1458,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152v1](http://arxiv.org/abs/2312.02152v1)|**[link](https://github.com/georg-bn/rotation-steerers)**|
 |**2023-11-30**|**DSeg: Direct Line Segments Detection**|Berger Cyrille et.al.|[2311.18344v1](http://arxiv.org/abs/2311.18344v1)|null|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281v1](http://arxiv.org/abs/2311.18281v1)|null|
 |**2023-11-29**|**LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**|Wenhao Zhong et.al.|[2311.17571v1](http://arxiv.org/abs/2311.17571v1)|null|
@@ -1632,6 +1640,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**ColonNeRF: Neural Radiance Fields for High-Fidelity Long-Sequence Colonoscopy Reconstruction**|Yufei Shi et.al.|[2312.02015v1](http://arxiv.org/abs/2312.02015v1)|null|
+|**2023-12-04**|**Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training**|Runze He et.al.|[2312.01663v1](http://arxiv.org/abs/2312.01663v1)|null|
+|**2023-12-03**|**SANeRF-HQ: Segment Anything for NeRF in High Quality**|Yichen Liu et.al.|[2312.01531v1](http://arxiv.org/abs/2312.01531v1)|null|
+|**2023-12-03**|**VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams**|Liao Wang et.al.|[2312.01407v1](http://arxiv.org/abs/2312.01407v1)|null|
+|**2023-12-02**|**Self-Evolving Neural Radiance Fields**|Jaewoo Jung et.al.|[2312.01003v1](http://arxiv.org/abs/2312.01003v1)|null|
 |**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732v1](http://arxiv.org/abs/2312.00732v1)|**[link](https://github.com/lkeab/gaussian-grouping)**|
 |**2023-11-30**|**LucidDreaming: Controllable Object-Centric 3D Generation**|Zhaoning Wang et.al.|[2312.00588v1](http://arxiv.org/abs/2312.00588v1)|null|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451v1](http://arxiv.org/abs/2312.00451v1)|null|
@@ -2278,6 +2291,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-04**|**DiffiT: Diffusion Vision Transformers for Image Generation**|Ali Hatamizadeh et.al.|[2312.02139v1](http://arxiv.org/abs/2312.02139v1)|**[link](https://github.com/nvlabs/diffit)**|
+|**2023-12-04**|**SRTransGAN: Image Super-Resolution using Transformer based Generative Adversarial Network**|Neeraj Baghel et.al.|[2312.01999v1](http://arxiv.org/abs/2312.01999v1)|null|
+|**2023-12-04**|**SARA-RT: Scaling up Robotics Transformers with Self-Adaptive Robust Attention**|Isabel Leal et.al.|[2312.01990v1](http://arxiv.org/abs/2312.01990v1)|null|
+|**2023-12-04**|**Bootstrapping SparseFormers from Vision Foundation Models**|Ziteng Gao et.al.|[2312.01987v1](http://arxiv.org/abs/2312.01987v1)|**[link](https://github.com/showlab/sparseformer)**|
+|**2023-12-04**|**Adapting Short-Term Transformers for Action Detection in Untrimmed Videos**|Min Yang et.al.|[2312.01897v1](http://arxiv.org/abs/2312.01897v1)|null|
+|**2023-12-04**|**A Comprehensive Literature Review on Sweet Orange Leaf Diseases**|Yousuf Rayhan Emon et.al.|[2312.01756v1](http://arxiv.org/abs/2312.01756v1)|null|
+|**2023-12-04**|**MobileUtr: Revisiting the relationship between light-weight CNN and Transformer for efficient medical image segmentation**|Fenghe Tang et.al.|[2312.01740v1](http://arxiv.org/abs/2312.01740v1)|**[link](https://github.com/fenghetan9/mobileutr)**|
+|**2023-12-04**|**Rethinking Urban Mobility Prediction: A Super-Multivariate Time Series Forecasting Approach**|Jinguo Cheng et.al.|[2312.01699v1](http://arxiv.org/abs/2312.01699v1)|**[link](https://github.com/chengyui/sumformer)**|
+|**2023-12-04**|**Universal Deoxidation of Semiconductor Substrates Assisted by Machine-Learning and Real-Time-Feedback-Control**|Chao Shen et.al.|[2312.01662v1](http://arxiv.org/abs/2312.01662v1)|null|
+|**2023-12-03**|**Automatic Report Generation for Histopathology images using pre-trained Vision Transformers and BERT**|Saurav Sengupta et.al.|[2312.01435v1](http://arxiv.org/abs/2312.01435v1)|null|
 |**2023-12-01**|**Deep Unlearning: Fast and Efficient Training-free Approach to Controlled Forgetting**|Sangamesh Kodge et.al.|[2312.00761v1](http://arxiv.org/abs/2312.00761v1)|null|
 |**2023-12-01**|**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**|Albert Gu et.al.|[2312.00752v1](http://arxiv.org/abs/2312.00752v1)|null|
 |**2023-12-01**|**A Recent Survey of Vision Transformers for Medical Image Segmentation**|Asifullah Khan et.al.|[2312.00634v1](http://arxiv.org/abs/2312.00634v1)|null|
