@@ -2447,10 +2447,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**A novel method to enhance pneumonia detection via a model-level ensembling of CNN and vision transformer**|Sandeep Angara et.al.|[2401.02358v1](http://arxiv.org/abs/2401.02358v1)|null|
+|**2024-01-04**|**ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation**|Xinyang Pu et.al.|[2401.02326v1](http://arxiv.org/abs/2401.02326v1)|**[link](https://github.com/xypu98/cwsam)**|
+|**2024-01-04**|**GridFormer: Point-Grid Transformer for Surface Reconstruction**|Shengtao Li et.al.|[2401.02292v1](http://arxiv.org/abs/2401.02292v1)|**[link](https://github.com/list17/gridformer)**|
+|**2024-01-04**|**ACP-ESM: A novel framework for classification of anticancer peptides using protein-oriented transformer approach**|Zeynep Hilal Kilimci et.al.|[2401.02124v1](http://arxiv.org/abs/2401.02124v1)|null|
 |**2024-01-03**|**FullLoRA-AT: Efficiently Boosting the Robustness of Pretrained Vision Transformers**|Zheng Yuan et.al.|[2401.01752v1](http://arxiv.org/abs/2401.01752v1)|null|
 |**2024-01-03**|**Towards Robust Semantic Segmentation against Patch-based Attack via Attention Refinement**|Zheng Yuan et.al.|[2401.01750v1](http://arxiv.org/abs/2401.01750v1)|null|
 |**2024-01-03**|**Token Propagation Controller for Efficient Vision Transformer**|Wentao Zhu et.al.|[2401.01470v1](http://arxiv.org/abs/2401.01470v1)|null|
-|**2024-01-01**|**ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention**|Chenhang He et.al.|[2401.00912v1](http://arxiv.org/abs/2401.00912v1)|null|
+|**2024-01-01**|**ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention**|Chenhang He et.al.|[2401.00912v1](http://arxiv.org/abs/2401.00912v1)|**[link](https://github.com/skyhehe123/scatterformer)**|
 |**2023-12-31**|**Analyzing Local Representations of Self-supervised Vision Transformers**|Ani Vanyan et.al.|[2401.00463v1](http://arxiv.org/abs/2401.00463v1)|null|
 |**2023-12-30**|**Masked Image Modeling via Dynamic Token Morphing**|Taekyung Kim et.al.|[2401.00254v1](http://arxiv.org/abs/2401.00254v1)|null|
 |**2023-12-29**|**Accelerating Process Development for 3D Printing of New Metal Alloys**|David Guirguis et.al.|[2401.00065v1](http://arxiv.org/abs/2401.00065v1)|null|
