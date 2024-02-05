@@ -1744,6 +1744,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**HyperPlanes: Hypernetwork Approach to Rapid NeRF Adaptation**|Paweł Batorski et.al.|[2402.01524v1](http://arxiv.org/abs/2402.01524v1)|**[link](https://github.com/gmum/hyperplanes)**|
+|**2024-02-02**|**Di-NeRF: Distributed NeRF for Collaborative Learning with Unknown Relative Poses**|Mahboubeh Asadi et.al.|[2402.01485v1](http://arxiv.org/abs/2402.01485v1)|null|
+|**2024-02-02**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459v1](http://arxiv.org/abs/2402.01459v1)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
+|**2024-02-02**|**Efficient Dynamic-NeRF Based Volumetric Video Coding with Rate Distortion Optimization**|Zhiyu Zhang et.al.|[2402.01380v1](http://arxiv.org/abs/2402.01380v1)|null|
+|**2024-02-02**|**Taming Uncertainty in Sparse-view Generalizable NeRF via Indirect Diffusion Guidance**|Yaokun Li et.al.|[2402.01217v1](http://arxiv.org/abs/2402.01217v1)|null|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864v1](http://arxiv.org/abs/2402.00864v1)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827v1](http://arxiv.org/abs/2402.00827v1)|null|
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075v1](http://arxiv.org/abs/2401.18075v1)|null|
@@ -2525,6 +2530,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Deep Conditional Generative Learning: Model and Error Analysis**|Jinyuan Chang et.al.|[2402.01460v1](http://arxiv.org/abs/2402.01460v1)|**[link](https://github.com/burning489/conditionalfollmerflow)**|
+|**2024-02-02**|**ALERT-Transformer: Bridging Asynchronous and Synchronous Machine Learning for Real-Time Event-based Spatio-Temporal Data**|Carmen Martin-Turrero et.al.|[2402.01393v1](http://arxiv.org/abs/2402.01393v1)|null|
+|**2024-02-02**|**Training-time Neuron Alignment through Permutation Subspace for Improving Linear Mode Connectivity and Model Fusion**|Zexi Li et.al.|[2402.01342v1](http://arxiv.org/abs/2402.01342v1)|null|
+|**2024-02-02**|**Transformers Learn Nonlinear Features In Context: Nonconvex Mean-field Dynamics on the Attention Landscape**|Juno Kim et.al.|[2402.01258v1](http://arxiv.org/abs/2402.01258v1)|null|
+|**2024-02-02**|**Faster Inference of Integer SWIN Transformer by Removing the GELU Activation**|Mohammadreza Tayaranian et.al.|[2402.01169v1](http://arxiv.org/abs/2402.01169v1)|null|
 |**2024-02-01**|**Hybrid Quantum Vision Transformers for Event Classification in High Energy Physics**|Eyup B. Unlu et.al.|[2402.00776v1](http://arxiv.org/abs/2402.00776v1)|null|
 |**2024-02-01**|**A Manifold Representation of the Key in Vision Transformers**|Li Meng et.al.|[2402.00534v1](http://arxiv.org/abs/2402.00534v1)|null|
 |**2024-01-31**|**Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation**|Rozhan Ahmadi et.al.|[2401.17828v1](http://arxiv.org/abs/2401.17828v1)|null|
