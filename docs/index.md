@@ -1752,6 +1752,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829v1](http://arxiv.org/abs/2402.04829v1)|null|
+|**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648v1](http://arxiv.org/abs/2402.04648v1)|null|
+|**2024-02-07**|**BirdNeRF: Fast Neural Reconstruction of Large-Scale Scenes From Aerial Imagery**|Huiqing Zhang et.al.|[2402.04554v1](http://arxiv.org/abs/2402.04554v1)|null|
 |**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081v1](http://arxiv.org/abs/2402.04081v1)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906v1](http://arxiv.org/abs/2402.02906v1)|**[link](https://github.com/bronemos/view-fusion)**|
 |**2024-02-02**|**ConRF: Zero-shot Stylization of 3D Scenes with Conditioned Radiation Fields**|Xingyu Miao et.al.|[2402.01950v1](http://arxiv.org/abs/2402.01950v1)|**[link](https://github.com/xingy038/conrf)**|
@@ -2542,6 +2545,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation**|Ziyang Wang et.al.|[2402.05079v1](http://arxiv.org/abs/2402.05079v1)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
+|**2024-02-07**|**Cortical Surface Diffusion Generative Models**|Zhenshan Xie et.al.|[2402.04753v1](http://arxiv.org/abs/2402.04753v1)|null|
+|**2024-02-07**|**Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention**|Saebom Leem et.al.|[2402.04563v1](http://arxiv.org/abs/2402.04563v1)|**[link](https://github.com/leemsaebom/attention-guided-cam-visual-explanations-of-vision-transformer-guided-by-self-attention)**|
+|**2024-02-06**|**$\texttt{NeRCC}$ : Nested-Regression Coded Computing for Resilient Distributed Prediction Serving Systems**|Parsa Moradi et.al.|[2402.04377v1](http://arxiv.org/abs/2402.04377v1)|null|
+|**2024-02-06**|**The Hedgehog & the Porcupine: Expressive Linear Attentions with Softmax Mimicry**|Michael Zhang et.al.|[2402.04347v1](http://arxiv.org/abs/2402.04347v1)|null|
 |**2024-02-06**|**CAST: Clustering Self-Attention using Surrogate Tokens for Efficient Transformers**|Adjorn van Engelenhoven et.al.|[2402.04239v1](http://arxiv.org/abs/2402.04239v1)|null|
 |**2024-02-06**|**Pre-training of Lightweight Vision Transformers on Small Datasets with Minimally Scaled Images**|Jen Hong Tan et.al.|[2402.03752v1](http://arxiv.org/abs/2402.03752v1)|null|
 |**2024-02-05**|**Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining**|Jiarun Liu et.al.|[2402.03302v1](http://arxiv.org/abs/2402.03302v1)|**[link](https://github.com/jiarunliu/swin-umamba)**|
