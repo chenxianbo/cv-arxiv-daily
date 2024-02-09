@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Online and Certifiably Correct Visual Odometry and Mapping**|Devansh R Agrawal et.al.|[2402.05254v1](http://arxiv.org/abs/2402.05254v1)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|null|
 |**2024-01-21**|**BA-LINS: A Frame-to-Frame Bundle Adjustment for LiDAR-Inertial Navigation**|Hailiang Tang et.al.|[2401.11491v1](http://arxiv.org/abs/2401.11491v1)|null|
 |**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857v1](http://arxiv.org/abs/2401.10857v1)|null|
@@ -2541,6 +2542,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Memory Consolidation Enables Long-Context Video Understanding**|Ivana Balažević et.al.|[2402.05861v1](http://arxiv.org/abs/2402.05861v1)|null|
+|**2024-02-08**|**AttnLRP: Attention-Aware Layer-wise Relevance Propagation for Transformers**|Reduan Achtibat et.al.|[2402.05602v1](http://arxiv.org/abs/2402.05602v1)|null|
+|**2024-02-08**|**On Convolutional Vision Transformers for Yield Prediction**|Alvin Inderka et.al.|[2402.05557v1](http://arxiv.org/abs/2402.05557v1)|null|
+|**2024-02-08**|**Question Aware Vision Transformer for Multimodal Reasoning**|Roy Ganz et.al.|[2402.05472v1](http://arxiv.org/abs/2402.05472v1)|null|
+|**2024-02-08**|**Neural Circuit Diagrams: Robust Diagrams for the Communication, Implementation, and Analysis of Deep Learning Architectures**|Vincent Abbott et.al.|[2402.05424v1](http://arxiv.org/abs/2402.05424v1)|null|
 |**2024-02-07**|**Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation**|Ziyang Wang et.al.|[2402.05079v1](http://arxiv.org/abs/2402.05079v1)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
 |**2024-02-07**|**Cortical Surface Diffusion Generative Models**|Zhenshan Xie et.al.|[2402.04753v1](http://arxiv.org/abs/2402.04753v1)|null|
 |**2024-02-07**|**Attention Guided CAM: Visual Explanations of Vision Transformer Guided by Self-Attention**|Saebom Leem et.al.|[2402.04563v1](http://arxiv.org/abs/2402.04563v1)|**[link](https://github.com/leemsaebom/attention-guided-cam-visual-explanations-of-vision-transformer-guided-by-self-attention)**|
