@@ -26,6 +26,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Differentiable Biomechanics Unlocks Opportunities for Markerless Motion Capture**|R. James Cotton et.al.|[2402.17192v1](http://arxiv.org/abs/2402.17192v1)|null|
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961v1](http://arxiv.org/abs/2402.15961v1)|**[link](https://github.com/master-cai/voloc)**|
 |**2024-02-22**|**Secure Navigation using Landmark-based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2402.14280v1](http://arxiv.org/abs/2402.14280v1)|null|
 |**2024-02-26**|**VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks**|Yutong Wang et.al.|[2402.13609v2](http://arxiv.org/abs/2402.13609v2)|**[link](https://github.com/yutongwangbit/voom)**|
@@ -700,6 +701,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control**|Thong Nguyen et.al.|[2402.17535v1](http://arxiv.org/abs/2402.17535v1)|**[link](https://github.com/thongnt99/lsr-multimodal)**|
+|**2024-02-27**|**Active propulsion noise shaping for multi-rotor aircraft localization**|Serussi Gabriele et.al.|[2402.17289v1](http://arxiv.org/abs/2402.17289v1)|**[link](https://github.com/tamirshor7/ears_code)**|
+|**2024-02-27**|**NocPlace: Nocturnal Visual Place Recognition Using Generative and Inherited Knowledge Transfer**|Bingxi Liu et.al.|[2402.17159v1](http://arxiv.org/abs/2402.17159v1)|null|
 |**2024-02-25**|**Deep Homography Estimation for Visual Place Recognition**|Feng Lu et.al.|[2402.16086v1](http://arxiv.org/abs/2402.16086v1)|**[link](https://github.com/lu-feng/dhe-vpr)**|
 |**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961v1](http://arxiv.org/abs/2402.15961v1)|**[link](https://github.com/master-cai/voloc)**|
 |**2024-02-23**|**Text2Pic Swift: Enhancing Long-Text to Image Retrieval for Large-Scale Libraries**|Zijun Long et.al.|[2402.15276v1](http://arxiv.org/abs/2402.15276v1)|null|
@@ -1781,6 +1785,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768v1](http://arxiv.org/abs/2402.17768v1)|null|
+|**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427v1](http://arxiv.org/abs/2402.17427v1)|null|
+|**2024-02-27**|**Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**|Zicheng Zhang et.al.|[2402.17364v1](http://arxiv.org/abs/2402.17364v1)|**[link](https://github.com/zhangzc21/dyntet)**|
+|**2024-02-27**|**DivAvatar: Diverse 3D Avatar Generation with a Single Prompt**|Weijing Tao et.al.|[2402.17292v1](http://arxiv.org/abs/2402.17292v1)|null|
+|**2024-02-27**|**CharNeRF: 3D Character Generation from Concept Art**|Eddy Chu et.al.|[2402.17115v1](http://arxiv.org/abs/2402.17115v1)|null|
+|**2024-02-26**|**Disentangled 3D Scene Generation with Layout Learning**|Dave Epstein et.al.|[2402.16936v1](http://arxiv.org/abs/2402.16936v1)|null|
 |**2024-02-26**|**CMC: Few-shot Novel View Synthesis via Cross-view Multiplane Consistency**|Hanxin Zhu et.al.|[2402.16407v1](http://arxiv.org/abs/2402.16407v1)|null|
 |**2024-02-26**|**SPC-NeRF: Spatial Predictive Compression for Voxel Based Radiance Field**|Zetian Song et.al.|[2402.16366v1](http://arxiv.org/abs/2402.16366v1)|null|
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308v1](http://arxiv.org/abs/2402.16308v1)|null|
@@ -2600,6 +2610,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Massive Activations in Large Language Models**|Mingjie Sun et.al.|[2402.17762v1](http://arxiv.org/abs/2402.17762v1)|**[link](https://github.com/locuslab/massive-activations)**|
+|**2024-02-27**|**Understanding Neural Network Binarization with Forward and Backward Proximal Quantizers**|Yiwei Lu et.al.|[2402.17710v1](http://arxiv.org/abs/2402.17710v1)|null|
+|**2024-02-27**|**Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control**|Thong Nguyen et.al.|[2402.17535v1](http://arxiv.org/abs/2402.17535v1)|**[link](https://github.com/thongnt99/lsr-multimodal)**|
+|**2024-02-27**|**Interactive Multi-Head Self-Attention with Linear Complexity**|Hankyul Kang et.al.|[2402.17507v1](http://arxiv.org/abs/2402.17507v1)|null|
+|**2024-02-27**|**Why do Learning Rates Transfer? Reconciling Optimization and Scaling Limits for Deep Learning**|Lorenzo Noci et.al.|[2402.17457v1](http://arxiv.org/abs/2402.17457v1)|null|
+|**2024-02-27**|**ViTaL: An Advanced Framework for Automated Plant Disease Identification in Leaf Images Using Vision Transformers and Linear Projection For Feature Reduction**|Abhishek Sebastian et.al.|[2402.17424v1](http://arxiv.org/abs/2402.17424v1)|null|
+|**2024-02-27**|**LSPT: Long-term Spatial Prompt Tuning for Visual Representation Learning**|Shentong Mo et.al.|[2402.17406v1](http://arxiv.org/abs/2402.17406v1)|null|
+|**2024-02-27**|**Outdoor Environment Reconstruction with Deep Learning on Radio Propagation Paths**|Hrant Khachatrian et.al.|[2402.17336v1](http://arxiv.org/abs/2402.17336v1)|null|
+|**2024-02-26**|**Training Neural Networks from Scratch with Parallel Low-Rank Adapters**|Minyoung Huh et.al.|[2402.16828v1](http://arxiv.org/abs/2402.16828v1)|null|
+|**2024-02-26**|**Investigating the Robustness of Vision Transformers against Label Noise in Medical Image Classification**|Bidur Khanal et.al.|[2402.16734v1](http://arxiv.org/abs/2402.16734v1)|null|
 |**2024-02-26**|**A Comparison of Deep Learning Models for Proton Background Rejection with the AMS Electromagnetic Calorimeter**|Raheem Karim Hashmani et.al.|[2402.16285v1](http://arxiv.org/abs/2402.16285v1)|null|
 |**2024-02-25**|**One-stage Prompt-based Continual Learning**|Youngeun Kim et.al.|[2402.16189v1](http://arxiv.org/abs/2402.16189v1)|null|
 |**2024-02-25**|**Exploring the Power of Pure Attention Mechanisms in Blind Room Parameter Estimation**|Chunxi Wang et.al.|[2402.16003v1](http://arxiv.org/abs/2402.16003v1)|null|
