@@ -2616,7 +2616,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-29**|**PEM: Prototype-based Efficient MaskFormer for Image Segmentation**|Niccolò Cavagnero et.al.|[2402.19422v1](http://arxiv.org/abs/2402.19422v1)|**[link](https://github.com/niccolocavagnero/pem)**|
+|**2024-03-01**|**PEM: Prototype-based Efficient MaskFormer for Image Segmentation**|Niccolò Cavagnero et.al.|[2402.19422v2](http://arxiv.org/abs/2402.19422v2)|**[link](https://github.com/niccolocavagnero/pem)**|
 |**2024-02-29**|**Assessing Visually-Continuous Corruption Robustness of Neural Networks Relative to Human Performance**|Huakun Shen et.al.|[2402.19401v1](http://arxiv.org/abs/2402.19401v1)|null|
 |**2024-02-29**|**Stitching Gaps: Fusing Situated Perceptual Knowledge with Vision Transformers for High-Level Image Classification**|Delfina Sol Martinez Pandiani et.al.|[2402.19339v1](http://arxiv.org/abs/2402.19339v1)|null|
 |**2024-02-29**|**Loss-Free Machine Unlearning**|Jack Foster et.al.|[2402.19308v1](http://arxiv.org/abs/2402.19308v1)|null|
@@ -2624,7 +2624,7 @@ layout: default
 |**2024-02-29**|**VideoMAC: Video Masked Autoencoders Meet ConvNets**|Gensheng Pei et.al.|[2402.19082v1](http://arxiv.org/abs/2402.19082v1)|**[link](https://github.com/nust-machine-intelligence-laboratory/videomac)**|
 |**2024-02-29**|**Theoretical Foundations of Deep Selective State-Space Models**|Nicola Muca Cirone et.al.|[2402.19047v1](http://arxiv.org/abs/2402.19047v1)|null|
 |**2024-02-29**|**RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation**|Jie Zhang et.al.|[2402.19004v1](http://arxiv.org/abs/2402.19004v1)|null|
-|**2024-02-29**|**End-to-End Quantum Vision Transformer: Towards Practical Quantum Speedup in Large-Scale Models**|Cheng Xue et.al.|[2402.18940v1](http://arxiv.org/abs/2402.18940v1)|null|
+|**2024-03-01**|**End-to-End Quantum Vision Transformer: Towards Practical Quantum Speedup in Large-Scale Models**|Cheng Xue et.al.|[2402.18940v2](http://arxiv.org/abs/2402.18940v2)|null|
 |**2024-02-29**|**A Simple yet Effective Network based on Vision Transformer for Camouflaged Object and Salient Object Detection**|Chao Hao et.al.|[2402.18922v1](http://arxiv.org/abs/2402.18922v1)|null|
 |**2024-02-28**|**Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling**|Mahdi Karami et.al.|[2402.18508v1](http://arxiv.org/abs/2402.18508v1)|null|
 |**2024-02-28**|**Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model**|Sangjoon Park et.al.|[2402.18362v1](http://arxiv.org/abs/2402.18362v1)|null|
