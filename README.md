@@ -532,6 +532,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**|Cheng Peng et.al.|[2403.04926v1](http://arxiv.org/abs/2403.04926v1)|**[link](https://github.com/snldmt/bags)**|
 |**2024-02-22**|**GaussianPro: 3D Gaussian Splatting with Progressive Propagation**|Kai Cheng et.al.|[2402.14650v1](http://arxiv.org/abs/2402.14650v1)|null|
 |**2024-02-25**|**A Robust Error-Resistant View Selection Method for 3D Reconstruction**|Shaojie Zhang et.al.|[2402.11431v2](http://arxiv.org/abs/2402.11431v2)|null|
 |**2024-02-17**|**Dense Matchers for Dense Tracking**|Tomáš Jelínek et.al.|[2402.11287v1](http://arxiv.org/abs/2402.11287v1)|null|
@@ -699,6 +700,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**|Xinrui Wu et.al.|[2403.05002v1](http://arxiv.org/abs/2403.05002v1)|null|
 |**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765v1](http://arxiv.org/abs/2403.04765v1)|null|
 |**2024-03-07**|**mmPlace: Robust Place Recognition with Intermediate Frequency Signal of Low-cost Single-chip Millimeter Wave Radar**|Chengzhen Meng et.al.|[2403.04703v1](http://arxiv.org/abs/2403.04703v1)|null|
 |**2024-03-06**|**Self-supervised Photographic Image Layout Representation Learning**|Zhaoran Zhao et.al.|[2403.03740v1](http://arxiv.org/abs/2403.03740v1)|**[link](https://github.com/cv-xueba/image-layout-learning)**|
@@ -1797,6 +1799,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting**|Francesco Palandra et.al.|[2403.05154v1](http://arxiv.org/abs/2403.05154v1)|null|
 |**2024-03-08**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Spaces**|Evangelos Skartados et.al.|[2403.04508v2](http://arxiv.org/abs/2403.04508v2)|null|
 |**2024-03-07**|**Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**|Yuanhao Cai et.al.|[2403.04116v1](http://arxiv.org/abs/2403.04116v1)|**[link](https://github.com/caiyuanhao1998/x-gaussian)**|
 |**2024-03-08**|**DNAct: Diffusion Guided Multi-Task 3D Policy Learning**|Ge Yan et.al.|[2403.04115v2](http://arxiv.org/abs/2403.04115v2)|null|
@@ -2637,6 +2640,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance**|Liting Lin et.al.|[2403.05231v1](http://arxiv.org/abs/2403.05231v1)|null|
+|**2024-03-08**|**Trust Recognition in Human-Robot Cooperation Using EEG**|Caiyue Xu et.al.|[2403.05225v1](http://arxiv.org/abs/2403.05225v1)|null|
+|**2024-03-08**|**MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models**|Zijie Fang et.al.|[2403.05160v1](http://arxiv.org/abs/2403.05160v1)|null|
 |**2024-03-07**|**Masked Capsule Autoencoders**|Miles Everett et.al.|[2403.04724v1](http://arxiv.org/abs/2403.04724v1)|null|
 |**2024-03-07**|**AUFormer: Vision Transformers are Parameter-Efficient Facial Action Unit Detectors**|Kaishen Yuan et.al.|[2403.04697v1](http://arxiv.org/abs/2403.04697v1)|**[link](https://github.com/yuankaishen2001/auformer)**|
 |**2024-03-07**|**Yi: Open Foundation Models by 01.AI**|01. AI et.al.|[2403.04652v1](http://arxiv.org/abs/2403.04652v1)|**[link](https://github.com/01-ai/yi)**|
