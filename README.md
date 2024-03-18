@@ -755,7 +755,7 @@
 |**2024-02-01**|**BrainSLAM: SLAM on Neural Population Activity Data**|Kipp Freud et.al.|[2402.00588v1](http://arxiv.org/abs/2402.00588v1)|null|
 |**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330v1](http://arxiv.org/abs/2402.00330v1)|**[link](https://github.com/imrl/night-rider)**|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083v1](http://arxiv.org/abs/2401.18083v1)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
-|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592v1](http://arxiv.org/abs/2401.17592v1)|null|
+|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592v1](http://arxiv.org/abs/2401.17592v1)|**[link](https://github.com/vignywang/awesome-local-feature-matching)**|
 |**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459v1](http://arxiv.org/abs/2401.16459v1)|null|
 |**2024-01-29**|**Cross-Modal Coordination Across a Diverse Set of Input Modalities**|Jorge Sánchez et.al.|[2401.16347v1](http://arxiv.org/abs/2401.16347v1)|null|
 |**2024-01-29**|**Regressing Transformers for Data-efficient Visual Place Recognition**|María Leyva-Vallina et.al.|[2401.16304v1](http://arxiv.org/abs/2401.16304v1)|null|
@@ -1423,7 +1423,7 @@
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865v1](http://arxiv.org/abs/2312.06865v1)|null|
 |**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592v1](http://arxiv.org/abs/2312.00592v1)|null|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281v1](http://arxiv.org/abs/2311.18281v1)|null|
-|**2023-11-29**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113v1](http://arxiv.org/abs/2311.18113v1)|null|
+|**2023-11-29**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113v1](http://arxiv.org/abs/2311.18113v1)|**[link](https://github.com/wimmerth/back-to-3d-few-shot-keypoints)**|
 |**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024v1](http://arxiv.org/abs/2311.17024v1)|null|
 |**2023-11-28**|**Riemannian Self-Attention Mechanism for SPD Networks**|Rui Wang et.al.|[2311.16738v1](http://arxiv.org/abs/2311.16738v1)|null|
 |**2023-11-27**|**A manometric feature descriptor with linear-SVM to distinguish esophageal contraction vigor**|Jialin Liu et.al.|[2311.15609v1](http://arxiv.org/abs/2311.15609v1)|null|
@@ -2613,7 +2613,7 @@
 |**2022-10-15**|**IBL-NeRF: Image-Based Lighting Formulation of Neural Radiance Fields**|Changwoon Choi et.al.|[2210.08202v1](http://arxiv.org/abs/2210.08202v1)|**[link](https://github.com/changwoonchoi/IBL-NeRF)**|
 |**2022-10-17**|**3D GAN Inversion with Pose Optimization**|Jaehoon Ko et.al.|[2210.07301v2](http://arxiv.org/abs/2210.07301v2)|**[link](https://github.com/KU-CVLAB/3DGAN-Inversion)**|
 |**2022-10-13**|**Multiplane NeRF-Supervised Disentanglement of Depth and Camera Pose from Videos**|Yang Fu et.al.|[2210.07181v1](http://arxiv.org/abs/2210.07181v1)|null|
-|**2022-10-12**|**GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF**|Qiyu Dai et.al.|[2210.06575v1](http://arxiv.org/abs/2210.06575v1)|null|
+|**2022-10-12**|**GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF**|Qiyu Dai et.al.|[2210.06575v1](http://arxiv.org/abs/2210.06575v1)|**[link](https://github.com/PKU-EPIC/GraspNeRF)**|
 |**2022-10-12**|**Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video**|Xuan Gao et.al.|[2210.06108v1](http://arxiv.org/abs/2210.06108v1)|**[link](https://github.com/USTC3DV/NeRFBlendShape-code)**|
 |**2022-10-11**|**X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360 $^{\circ}$ Insufficient RGB-D Views**|Haoyi Zhu et.al.|[2210.05135v1](http://arxiv.org/abs/2210.05135v1)|**[link](https://github.com/haoyizhu/xnerf)**|
 |**2022-10-10**|**NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields**|Arunkumar Byravan et.al.|[2210.04932v1](http://arxiv.org/abs/2210.04932v1)|null|
@@ -2714,7 +2714,7 @@
 |**2024-03-05**|**How Well Can Transformers Emulate In-context Newton's Method?**|Angeliki Giannou et.al.|[2403.03183v1](http://arxiv.org/abs/2403.03183v1)|null|
 |**2024-03-04**|**NiNformer: A Network in Network Transformer with Token Mixing Generated Gating Function**|Abdullah Nazhat Abdullah et.al.|[2403.02411v1](http://arxiv.org/abs/2403.02411v1)|**[link](https://github.com/Abdullah-88/NiNformer)**|
 |**2024-03-04**|**Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures**|Yuchen Duan et.al.|[2403.02308v1](http://arxiv.org/abs/2403.02308v1)|**[link](https://github.com/OpenGVLab/Vision-RWKV)**|
-|**2024-03-04**|**xT: Nested Tokenization for Larger Context in Large Images**|Ritwik Gupta et.al.|[2403.01915v1](http://arxiv.org/abs/2403.01915v1)|null|
+|**2024-03-04**|**xT: Nested Tokenization for Larger Context in Large Images**|Ritwik Gupta et.al.|[2403.01915v1](http://arxiv.org/abs/2403.01915v1)|**[link](https://github.com/bair-climate-initiative/xT)**|
 |**2024-03-04**|**Lightweight Object Detection: A Study Based on YOLOv7 Integrated with ShuffleNetv2 and Vision Transformer**|Wenkai Gong et.al.|[2403.01736v1](http://arxiv.org/abs/2403.01736v1)|null|
 |**2024-03-03**|**You Need to Pay Better Attention**|Mehran Hosseini et.al.|[2403.01643v1](http://arxiv.org/abs/2403.01643v1)|null|
 |**2024-03-03**|**EAGLE: Eigen Aggregation Learning for Object-Centric Unsupervised Semantic Segmentation**|Chanyoung Kim et.al.|[2403.01482v1](http://arxiv.org/abs/2403.01482v1)|**[link](https://github.com/MICV-yonsei/EAGLE)**|
@@ -2884,7 +2884,7 @@
 |**2024-01-06**|**Realism in Action: Anomaly-Aware Diagnosis of Brain Tumors from Medical Images Using YOLOv8 and DeiT**|Seyed Mohammad Hossein Hashemi et.al.|[2401.03302v1](http://arxiv.org/abs/2401.03302v1)|null|
 |**2024-01-06**|**Vision Transformers and Bi-LSTM for Alzheimer's Disease Diagnosis from 3D MRI**|Taymaz Akan et.al.|[2401.03132v1](http://arxiv.org/abs/2401.03132v1)|null|
 |**2024-01-05**|**Prompt-driven Latent Domain Generalization for Medical Image Classification**|Siyuan Yan et.al.|[2401.03002v1](http://arxiv.org/abs/2401.03002v1)|**[link](https://github.com/siyuanyan1/pldg)**|
-|**2024-01-05**|**Denoising Vision Transformers**|Jiawei Yang et.al.|[2401.02957v1](http://arxiv.org/abs/2401.02957v1)|null|
+|**2024-01-05**|**Denoising Vision Transformers**|Jiawei Yang et.al.|[2401.02957v1](http://arxiv.org/abs/2401.02957v1)|**[link](https://github.com/Jiawei-Yang/Denoising-ViT)**|
 |**2024-01-05**|**SPFormer: Enhancing Vision Transformer with Superpixel Representation**|Jieru Mei et.al.|[2401.02931v1](http://arxiv.org/abs/2401.02931v1)|null|
 |**2024-01-05**|**CrisisViT: A Robust Vision Transformer for Crisis Image Classification**|Zijun Long et.al.|[2401.02838v1](http://arxiv.org/abs/2401.02838v1)|**[link](https://github.com/longkukuhi/crisisvit)**|
 |**2024-01-05**|**A Random Ensemble of Encrypted models for Enhancing Robustness against Adversarial Examples**|Ryota Iijima et.al.|[2401.02633v1](http://arxiv.org/abs/2401.02633v1)|null|
