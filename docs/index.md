@@ -26,7 +26,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-20**|**DBA-Fusion: Tightly Integrating Deep Dense Visual Bundle Adjustment with Multiple Sensors for Large-Scale Localization and Mapping**|Yuxuan Zhou et.al.|[2403.13714v1](http://arxiv.org/abs/2403.13714v1)|null|
+|**2024-03-20**|**DBA-Fusion: Tightly Integrating Deep Dense Visual Bundle Adjustment with Multiple Sensors for Large-Scale Localization and Mapping**|Yuxuan Zhou et.al.|[2403.13714v1](http://arxiv.org/abs/2403.13714v1)|**[link](https://github.com/great-whu/dba-fusion)**|
 |**2024-03-19**|**On Designing Consistent Covariance Recovery from a Deep Learning Visual Odometry Engine**|Jagatpreet Singh Nir et.al.|[2403.13170v1](http://arxiv.org/abs/2403.13170v1)|null|
 |**2024-03-18**|**The POLAR Traverse Dataset: A Dataset of Stereo Camera Images Simulating Traverses across Lunar Polar Terrain under Extreme Lighting Conditions**|Margaret Hansen et.al.|[2403.12194v1](http://arxiv.org/abs/2403.12194v1)|null|
 |**2024-03-19**|**BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting**|Lingzhe Zhao et.al.|[2403.11831v2](http://arxiv.org/abs/2403.11831v2)|**[link](https://github.com/WU-CVGL/BAD-Gaussians)**|
@@ -1646,7 +1646,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-20**|**Unifying Local and Global Multimodal Features for Place Recognition in Aliased and Low-Texture Environments**|Alberto García-Hernández et.al.|[2403.13395v1](http://arxiv.org/abs/2403.13395v1)|null|
+|**2024-03-20**|**Unifying Local and Global Multimodal Features for Place Recognition in Aliased and Low-Texture Environments**|Alberto García-Hernández et.al.|[2403.13395v1](http://arxiv.org/abs/2403.13395v1)|**[link](https://github.com/dlr-rm/umf)**|
 |**2024-03-19**|**HCPM: Hierarchical Candidates Pruning for Efficient Detector-Free Matching**|Ying Chen et.al.|[2403.12543v1](http://arxiv.org/abs/2403.12543v1)|null|
 |**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756v1](http://arxiv.org/abs/2403.10756v1)|null|
 |**2024-03-16**|**Vector search with small radiuses**|Gergely Szilvasy et.al.|[2403.10746v1](http://arxiv.org/abs/2403.10746v1)|null|
@@ -2748,14 +2748,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-21**|**Token Transformation Matters: Towards Faithful Post-hoc Explanation for Vision Transformer**|Junyi Wu et.al.|[2403.14552v1](http://arxiv.org/abs/2403.14552v1)|null|
-|**2024-03-21**|**SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks**|Xinyu Shi et.al.|[2403.14302v1](http://arxiv.org/abs/2403.14302v1)|null|
+|**2024-03-21**|**SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks**|Xinyu Shi et.al.|[2403.14302v1](http://arxiv.org/abs/2403.14302v1)|**[link](https://github.com/xyshi2000/spikingresformer)**|
 |**2024-03-21**|**Accelerating ViT Inference on FPGA through Static and Dynamic Pruning**|Dhruv Parikh et.al.|[2403.14047v1](http://arxiv.org/abs/2403.14047v1)|null|
 |**2024-03-19**|**Emotion Recognition Using Transformers with Masked Learning**|Seongjae Min et.al.|[2403.13731v1](http://arxiv.org/abs/2403.13731v1)|null|
 |**2024-03-20**|**Retina Vision Transformer (RetinaViT): Introducing Scaled Patches into Vision Transformers**|Yuyang Shu et.al.|[2403.13677v1](http://arxiv.org/abs/2403.13677v1)|**[link](https://github.com/yuyangshu/retinavit)**|
 |**2024-03-20**|**Encoding the Subsurface in 3D with Seismic**|Ben Lasscock et.al.|[2403.13593v1](http://arxiv.org/abs/2403.13593v1)|null|
 |**2024-03-20**|**Portrait4D-v2: Pseudo Multi-View Data Creates Better 4D Head Synthesizer**|Yu Deng et.al.|[2403.13570v1](http://arxiv.org/abs/2403.13570v1)|null|
 |**2024-03-20**|**MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining**|Di Wang et.al.|[2403.13430v1](http://arxiv.org/abs/2403.13430v1)|**[link](https://github.com/vitae-transformer/mtp)**|
-|**2024-03-20**|**Rotary Position Embedding for Vision Transformer**|Byeongho Heo et.al.|[2403.13298v1](http://arxiv.org/abs/2403.13298v1)|null|
+|**2024-03-20**|**Rotary Position Embedding for Vision Transformer**|Byeongho Heo et.al.|[2403.13298v1](http://arxiv.org/abs/2403.13298v1)|**[link](https://github.com/naver-ai/rope-vit)**|
 |**2024-03-19**|**ADAPT to Robustify Prompt Tuning Vision Transformers**|Masih Eskandar et.al.|[2403.13196v1](http://arxiv.org/abs/2403.13196v1)|null|
 |**2024-03-19**|**Improved EATFormer: A Vision Transformer for Medical Image Classification**|Yulong Shisu et.al.|[2403.13167v1](http://arxiv.org/abs/2403.13167v1)|null|
 |**2024-03-19**|**Encode Once and Decode in Parallel: Efficient Transformer Decoding**|Bo-Ru Lu et.al.|[2403.13112v1](http://arxiv.org/abs/2403.13112v1)|null|
