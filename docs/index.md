@@ -1890,6 +1890,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**GenN2N: Generative NeRF2NeRF Translation**|Xiangyue Liu et.al.|[2404.02788v1](http://arxiv.org/abs/2404.02788v1)|null|
+|**2024-04-03**|**LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis**|Zehan Zheng et.al.|[2404.02742v1](http://arxiv.org/abs/2404.02742v1)|**[link](https://github.com/ispc-lab/lidar4d)**|
+|**2024-04-03**|**Neural Radiance Fields with Torch Units**|Bingnan Ni et.al.|[2404.02617v1](http://arxiv.org/abs/2404.02617v1)|null|
+|**2024-04-03**|**Freditor: High-Fidelity and Transferable NeRF Editing by Frequency Decomposition**|Yisheng He et.al.|[2404.02514v1](http://arxiv.org/abs/2404.02514v1)|null|
+|**2024-04-02**|**NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-Efficient Scene Representation**|Sicheng Li et.al.|[2404.02185v1](http://arxiv.org/abs/2404.02185v1)|null|
 |**2024-04-02**|**Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in Neural Radiance Fields**|Joshua Ahn et.al.|[2404.02155v1](http://arxiv.org/abs/2404.02155v1)|null|
 |**2024-04-02**|**Uncertainty-aware Active Learning of NeRF-based Object Models for Robot Manipulators using Visual and Re-orientation Actions**|Saptarshi Dasgupta et.al.|[2404.01812v1](http://arxiv.org/abs/2404.01812v1)|null|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400v1](http://arxiv.org/abs/2404.01400v1)|null|
@@ -2824,6 +2829,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**DeiT-LT Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets**|Harsh Rangwani et.al.|[2404.02900v1](http://arxiv.org/abs/2404.02900v1)|**[link](https://github.com/val-iisc/DeiT-LT)**|
+|**2024-04-03**|**Linear Attention Sequence Parallelism**|Weigao Sun et.al.|[2404.02882v1](http://arxiv.org/abs/2404.02882v1)|**[link](https://github.com/opennlplab/lasp)**|
+|**2024-04-03**|**Cross-Architecture Transfer Learning for Linear-Cost Inference Transformers**|Sehyun Choi et.al.|[2404.02684v1](http://arxiv.org/abs/2404.02684v1)|null|
 |**2024-04-02**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jienneg Chen et.al.|[2404.02132v1](http://arxiv.org/abs/2404.02132v1)|**[link](https://github.com/beckschen/vitamin)**|
 |**2024-04-02**|**Minimize Quantization Output Error with Bias Compensation**|Cheng Gong et.al.|[2404.01892v1](http://arxiv.org/abs/2404.01892v1)|null|
 |**2024-04-02**|**Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model**|Qinfeng Zhu et.al.|[2404.01705v1](http://arxiv.org/abs/2404.01705v1)|null|
