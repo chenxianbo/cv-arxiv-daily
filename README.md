@@ -1128,7 +1128,7 @@
 |**2023-03-10**|**Robotic Applications of Pre-Trained Vision-Language Models to Various Recognition Behaviors**|Kento Kawaharazuka et.al.|[2303.05674v1](http://arxiv.org/abs/2303.05674v1)|null|
 |**2023-03-09**|**Dominating Set Database Selection for Visual Place Recognition**|Anastasiia Kornilova et.al.|[2303.05123v1](http://arxiv.org/abs/2303.05123v1)|null|
 |**2023-03-07**|**Graph Neural Networks in Vision-Language Image Understanding: A Survey**|Henry Senior et.al.|[2303.03761v1](http://arxiv.org/abs/2303.03761v1)|null|
-|**2023-03-07**|**Sketch-based Medical Image Retrieval**|Kazuma Kobayashi et.al.|[2303.03633v1](http://arxiv.org/abs/2303.03633v1)|null|
+|**2023-03-07**|**Sketch-based Medical Image Retrieval**|Kazuma Kobayashi et.al.|[2303.03633v1](http://arxiv.org/abs/2303.03633v1)|**[link](https://github.com/kaz-k/sketch-based-medical-image-retrieval)**|
 |**2023-03-06**|**Visual Place Recognition: A Tutorial**|Stefan Schubert et.al.|[2303.03281v1](http://arxiv.org/abs/2303.03281v1)|**[link](https://github.com/stschubert/vpr_tutorial)**|
 |**2023-03-06**|**MABNet: Master Assistant Buddy Network with Hybrid Learning for Image Retrieval**|Rohit Agarwal et.al.|[2303.03050v1](http://arxiv.org/abs/2303.03050v1)|**[link](https://github.com/rohit102497/mabnet)**|
 |**2023-03-06**|**Improving Transformer-based Image Matching by Cascaded Capturing Spatially Informative Keypoints**|Chenjie Cao et.al.|[2303.02885v1](http://arxiv.org/abs/2303.02885v1)|**[link](https://github.com/ewrfcas/casmtr)**|
@@ -1921,7 +1921,7 @@
 |**2024-03-29**|**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**|Qiuhong Shen et.al.|[2403.18795v2](http://arxiv.org/abs/2403.18795v2)|null|
 |**2024-03-27**|**SAT-NGP : Unleashing Neural Graphics Primitives for Fast Relightable Transient-Free 3D reconstruction from Satellite Imagery**|Camille Billouard et.al.|[2403.18711v1](http://arxiv.org/abs/2403.18711v1)|null|
 |**2024-03-27**|**Modeling uncertainty for Gaussian Splatting**|Luca Savant et.al.|[2403.18476v1](http://arxiv.org/abs/2403.18476v1)|null|
-|**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898v1](http://arxiv.org/abs/2403.17898v1)|null|
+|**2024-03-26**|**Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**|Kerui Ren et.al.|[2403.17898v1](http://arxiv.org/abs/2403.17898v1)|**[link](https://github.com/city-super/Octree-GS)**|
 |**2024-03-26**|**NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**|Jiahao Chen et.al.|[2403.17537v1](http://arxiv.org/abs/2403.17537v1)|null|
 |**2024-03-25**|**VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation**|Yang Chen et.al.|[2403.17001v1](http://arxiv.org/abs/2403.17001v1)|null|
 |**2024-03-25**|**CVT-xRF: Contrastive In-Voxel Transformer for 3D Consistent Radiance Fields from Sparse Inputs**|Yingji Zhong et.al.|[2403.16885v1](http://arxiv.org/abs/2403.16885v1)|null|
@@ -2053,7 +2053,7 @@
 |**2024-01-31**|**CARFF: Conditional Auto-encoded Radiance Field for 3D Scene Forecasting**|Jiezhi Yang et.al.|[2401.18075v1](http://arxiv.org/abs/2401.18075v1)|null|
 |**2024-02-01**|**Segment Anything in 3D Gaussians**|Xu Hu et.al.|[2401.17857v2](http://arxiv.org/abs/2401.17857v2)|null|
 |**2024-01-30**|**Physical Priors Augmented Event-Based 3D Reconstruction**|Jiaxu Wang et.al.|[2401.17121v1](http://arxiv.org/abs/2401.17121v1)|**[link](https://github.com/mercerai/paev3d)**|
-|**2024-01-31**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v2](http://arxiv.org/abs/2401.16416v2)|null|
+|**2024-01-31**|**Endo-4DGS: Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting**|Yiming Huang et.al.|[2401.16416v2](http://arxiv.org/abs/2401.16416v2)|**[link](https://github.com/lastbasket/endo-4dgs)**|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144v1](http://arxiv.org/abs/2401.16144v1)|null|
 |**2024-01-26**|**3D Reconstruction and New View Synthesis of Indoor Environments based on a Dual Neural Radiance Field**|Zhenyu Bao et.al.|[2401.14726v1](http://arxiv.org/abs/2401.14726v1)|**[link](https://github.com/pcl3dv/dunerf)**|
 |**2024-01-25**|**Learning Robust Generalizable Radiance Field with Visibility and Feature Augmented Point Representation**|Jiaxu Wang et.al.|[2401.14354v1](http://arxiv.org/abs/2401.14354v1)|null|
@@ -2583,7 +2583,7 @@
 |**2023-03-23**|**TriPlaneNet: An Encoder for EG3D Inversion**|Ananta R. Bhattarai et.al.|[2303.13497v1](http://arxiv.org/abs/2303.13497v1)|null|
 |**2023-03-23**|**Plotting Behind the Scenes: Towards Learnable Game Engines**|Willi Menapace et.al.|[2303.13472v1](http://arxiv.org/abs/2303.13472v1)|null|
 |**2023-03-23**|**Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes**|Dana Cohen-Bar et.al.|[2303.13450v1](http://arxiv.org/abs/2303.13450v1)|**[link](https://github.com/DanaCohen95/Set-the-Scene)**|
-|**2023-03-23**|**SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field**|Chong Bao et.al.|[2303.13277v1](http://arxiv.org/abs/2303.13277v1)|null|
+|**2023-03-23**|**SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field**|Chong Bao et.al.|[2303.13277v1](http://arxiv.org/abs/2303.13277v1)|**[link](https://github.com/zju3dv/SINE)**|
 |**2023-03-23**|**Transforming Radiance Field with Lipschitz Network for Photorealistic 3D Scene Stylization**|Zicheng Zhang et.al.|[2303.13232v1](http://arxiv.org/abs/2303.13232v1)|null|
 |**2023-03-23**|**Semantic Ray: Learning a Generalizable Semantic Field with Cross-Reprojection Attention**|Fangfu Liu et.al.|[2303.13014v1](http://arxiv.org/abs/2303.13014v1)|**[link](https://github.com/liuff19/Semantic-Ray)**|
 |**2023-03-22**|**NeRF-GAN Distillation for Efficient 3D-Aware Generation with Convolutions**|Mohamad Shahbazi et.al.|[2303.12865v1](http://arxiv.org/abs/2303.12865v1)|**[link](https://github.com/mshahbazi72/nerf-gan-distillation)**|
@@ -2896,7 +2896,7 @@
 |**2024-03-18**|**Efficient Transformer-based Hyper-parameter Optimization for Resource-constrained IoT Environments**|Ibrahim Shaer et.al.|[2403.12237v1](http://arxiv.org/abs/2403.12237v1)|null|
 |**2024-03-18**|**HIRI-ViT: Scaling Vision Transformer with High Resolution Inputs**|Ting Yao et.al.|[2403.11999v1](http://arxiv.org/abs/2403.11999v1)|null|
 |**2024-03-18**|**Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation**|Wangbo Zhao et.al.|[2403.11808v1](http://arxiv.org/abs/2403.11808v1)|**[link](https://github.com/nus-hpc-ai-lab/dynamic-tuning)**|
-|**2024-03-18**|**SETA: Semantic-Aware Token Augmentation for Domain Generalization**|Jintao Guo et.al.|[2403.11792v1](http://arxiv.org/abs/2403.11792v1)|null|
+|**2024-03-18**|**SETA: Semantic-Aware Token Augmentation for Domain Generalization**|Jintao Guo et.al.|[2403.11792v1](http://arxiv.org/abs/2403.11792v1)|**[link](https://github.com/lingeringlight/seta)**|
 |**2024-03-18**|**Personalized 3D Human Pose and Shape Refinement**|Tom Wehrbein et.al.|[2403.11634v1](http://arxiv.org/abs/2403.11634v1)|null|
 |**2024-03-17**|**From Pixels to Predictions: Spectrogram and Vision Transformer for Better Time Series Forecasting**|Zhen Zeng et.al.|[2403.11047v1](http://arxiv.org/abs/2403.11047v1)|null|
 |**2024-03-16**|**EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration**|Abu Zahid Bin Aziz et.al.|[2403.11026v1](http://arxiv.org/abs/2403.11026v1)|null|
@@ -3023,7 +3023,7 @@
 |**2024-02-08**|**SubGen: Token Generation in Sublinear Time and Memory**|Amir Zandieh et.al.|[2402.06082v1](http://arxiv.org/abs/2402.06082v1)|null|
 |**2024-02-08**|**Memory-Efficient Vision Transformers: An Activation-Aware Mixed-Rank Compression Strategy**|Seyedarmin Azizi et.al.|[2402.06004v1](http://arxiv.org/abs/2402.06004v1)|null|
 |**2024-02-08**|**Memory Consolidation Enables Long-Context Video Understanding**|Ivana Balažević et.al.|[2402.05861v1](http://arxiv.org/abs/2402.05861v1)|null|
-|**2024-02-08**|**AttnLRP: Attention-Aware Layer-wise Relevance Propagation for Transformers**|Reduan Achtibat et.al.|[2402.05602v1](http://arxiv.org/abs/2402.05602v1)|null|
+|**2024-02-08**|**AttnLRP: Attention-Aware Layer-wise Relevance Propagation for Transformers**|Reduan Achtibat et.al.|[2402.05602v1](http://arxiv.org/abs/2402.05602v1)|**[link](https://github.com/rachtibat/lrp-for-transformers)**|
 |**2024-02-08**|**On Convolutional Vision Transformers for Yield Prediction**|Alvin Inderka et.al.|[2402.05557v1](http://arxiv.org/abs/2402.05557v1)|null|
 |**2024-02-08**|**Question Aware Vision Transformer for Multimodal Reasoning**|Roy Ganz et.al.|[2402.05472v1](http://arxiv.org/abs/2402.05472v1)|null|
 |**2024-02-08**|**Neural Circuit Diagrams: Robust Diagrams for the Communication, Implementation, and Analysis of Deep Learning Architectures**|Vincent Abbott et.al.|[2402.05424v1](http://arxiv.org/abs/2402.05424v1)|null|
@@ -3067,7 +3067,7 @@
 |**2024-01-26**|**MPTQ-ViT:Mixed-PrecisionPost-TrainingQuantizationforVisionTransformer**|Yu-Shan Tai et.al.|[2401.14895v1](http://arxiv.org/abs/2401.14895v1)|null|
 |**2024-01-26**|**PL-FSCIL: Harnessing the Power of Prompts for Few-Shot Class-Incremental Learning**|Songsong Tian et.al.|[2401.14807v1](http://arxiv.org/abs/2401.14807v1)|**[link](https://github.com/tiansongs/pl-fscil)**|
 |**2024-01-25**|**Producing Plankton Classifiers that are Robust to Dataset Shift**|Cheng Chen et.al.|[2401.14256v1](http://arxiv.org/abs/2401.14256v1)|**[link](https://github.com/cchen07/plankiformer_ood)**|
-|**2024-01-23**|**DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer**|Sonal Kumar et.al.|[2401.12820v1](http://arxiv.org/abs/2401.12820v1)|null|
+|**2024-01-23**|**DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer**|Sonal Kumar et.al.|[2401.12820v1](http://arxiv.org/abs/2401.12820v1)|**[link](https://github.com/SonalKumar95/DatUS)**|
 |**2024-01-23**|**Dynamic Layer Tying for Parameter-Efficient Transformers**|Tamir David Hay et.al.|[2401.12819v1](http://arxiv.org/abs/2401.12819v1)|null|
 |**2024-01-23**|**Shift-ConvNets: Small Convolutional Kernel with Large Kernel Effects**|Dachong Li et.al.|[2401.12736v1](http://arxiv.org/abs/2401.12736v1)|**[link](https://github.com/lidc54/shift-wiseconv)**|
 |**2024-01-23**|**EL-VIT: Probing Vision Transformer with Interactive Visualization**|Hong Zhou et.al.|[2401.12666v1](http://arxiv.org/abs/2401.12666v1)|null|
@@ -3096,7 +3096,7 @@
 |**2024-01-15**|**A Deep Hierarchical Feature Sparse Framework for Occluded Person Re-Identification**|Yihu Song et.al.|[2401.07469v1](http://arxiv.org/abs/2401.07469v1)|null|
 |**2024-01-14**|**MIMIC: Mask Image Pre-training with Mix Contrastive Fine-tuning for Facial Expression Recognition**|Fan Zhang et.al.|[2401.07245v1](http://arxiv.org/abs/2401.07245v1)|null|
 |**2024-01-12**|**UPDP: A Unified Progressive Depth Pruner for CNN and Vision Transformer**|Ji Liu et.al.|[2401.06426v1](http://arxiv.org/abs/2401.06426v1)|null|
-|**2024-01-12**|**ModaVerse: Efficiently Transforming Modalities with LLMs**|Xinyu Wang et.al.|[2401.06395v1](http://arxiv.org/abs/2401.06395v1)|null|
+|**2024-01-12**|**ModaVerse: Efficiently Transforming Modalities with LLMs**|Xinyu Wang et.al.|[2401.06395v1](http://arxiv.org/abs/2401.06395v1)|**[link](https://github.com/xinke-wang/modaverse)**|
 |**2024-01-12**|**MedTransformer: Accurate AD Diagnosis for 3D MRI Images through 2D Vision Transformers**|Yifeng Wang et.al.|[2401.06349v1](http://arxiv.org/abs/2401.06349v1)|null|
 |**2024-01-15**|**Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention**|Xingyu Zhou et.al.|[2401.06312v2](http://arxiv.org/abs/2401.06312v2)|**[link](https://github.com/labshuhanggu/mia-vsr)**|
 |**2024-01-10**|**Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models for Enhanced Skin Disease Classification using ViT and CNN**|Muhammad Ali Farooq et.al.|[2401.05159v1](http://arxiv.org/abs/2401.05159v1)|null|
