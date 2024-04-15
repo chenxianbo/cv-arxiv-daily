@@ -1945,7 +1945,7 @@ layout: default
 |**2024-04-02**|**StructLDM: Structured Latent Diffusion for 3D Human Generation**|Tao Hu et.al.|[2404.01241v2](http://arxiv.org/abs/2404.01241v2)|null|
 |**2024-04-01**|**Mirror-3DGS: Incorporating Mirror Reflections into 3D Gaussian Splatting**|Jiarui Meng et.al.|[2404.01168v1](http://arxiv.org/abs/2404.01168v1)|null|
 |**2024-04-01**|**SGCNeRF: Few-Shot Neural Rendering via Sparse Geometric Consistency Guidance**|Yuru Xiao et.al.|[2404.00992v1](http://arxiv.org/abs/2404.00992v1)|null|
-|**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987v1](http://arxiv.org/abs/2404.00987v1)|null|
+|**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987v1](http://arxiv.org/abs/2404.00987v1)|**[link](https://github.com/zhaorw02/FlexiDreamer)**|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891v1](http://arxiv.org/abs/2404.00891v1)|null|
 |**2024-03-29**|**HGS-Mapping: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes**|Ke Wu et.al.|[2403.20159v1](http://arxiv.org/abs/2403.20159v1)|null|
 |**2024-03-29**|**Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**|Jaehoon Ko et.al.|[2403.20153v1](http://arxiv.org/abs/2403.20153v1)|null|
@@ -2062,7 +2062,7 @@ layout: default
 |**2024-02-22**|**Mip-Grid: Anti-aliased Grid Representations for Neural Radiance Fields**|Seungtae Nam et.al.|[2402.14196v1](http://arxiv.org/abs/2402.14196v1)|null|
 |**2024-02-21**|**Identifying Unnecessary 3D Gaussians using Clustering for Fast Rendering of 3D Gaussian Splatting**|Joongho Jo et.al.|[2402.13827v1](http://arxiv.org/abs/2402.13827v1)|null|
 |**2024-02-21**|**SealD-NeRF: Interactive Pixel-Level Editing for Dynamic Scenes by Neural Radiance Fields**|Zhentao Huang et.al.|[2402.13510v1](http://arxiv.org/abs/2402.13510v1)|null|
-|**2024-02-20**|**How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**|Fabio Tosi et.al.|[2402.13255v1](http://arxiv.org/abs/2402.13255v1)|null|
+|**2024-02-20**|**How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**|Fabio Tosi et.al.|[2402.13255v1](http://arxiv.org/abs/2402.13255v1)|**[link](https://github.com/doongli/awesome-implicit-nerf-slam)**|
 |**2024-02-20**|**Improving Robustness for Joint Optimization of Camera Poses and Decomposed Low-Rank Tensorial Radiance Fields**|Bo-Yu Cheng et.al.|[2402.13252v1](http://arxiv.org/abs/2402.13252v1)|**[link](https://github.com/nemo1999/joint-tensorf)**|
 |**2024-02-20**|**NeRF Solves Undersampled MRI Reconstruction**|Tae Jun Jang et.al.|[2402.13226v1](http://arxiv.org/abs/2402.13226v1)|null|
 |**2024-02-20**|**OccFlowNet: Towards Self-supervised Occupancy Estimation via Differentiable Rendering and Occupancy Flow**|Simon Boeder et.al.|[2402.12792v1](http://arxiv.org/abs/2402.12792v1)|null|
@@ -2888,7 +2888,7 @@ layout: default
 |**2024-04-09**|**Mansformer: Efficient Transformer of Mixed Attention for Image Deblurring and Beyond**|Pin-Hung Kuo et.al.|[2404.06135v1](http://arxiv.org/abs/2404.06135v1)|null|
 |**2024-04-09**|**Incremental Joint Learning of Depth, Pose and Implicit Scene Representation on Monocular Camera in Large-scale Scenes**|Tianchen Deng et.al.|[2404.06050v1](http://arxiv.org/abs/2404.06050v1)|null|
 |**2024-04-08**|**MLP Can Be A Good Transformer Learner**|Sihao Lin et.al.|[2404.05657v1](http://arxiv.org/abs/2404.05657v1)|**[link](https://github.com/sihaoevery/lambda_vit)**|
-|**2024-04-08**|**WaveCatBoost for Probabilistic Forecasting of Regional Air Quality Data**|Jintu Borah et.al.|[2404.05482v1](http://arxiv.org/abs/2404.05482v1)|null|
+|**2024-04-08**|**WaveCatBoost for Probabilistic Forecasting of Regional Air Quality Data**|Jintu Borah et.al.|[2404.05482v1](http://arxiv.org/abs/2404.05482v1)|**[link](https://github.com/jborah2/WaveCatBoost-Time-Series-Model)**|
 |**2024-04-08**|**Detecting Every Object from Events**|Haitian Zhang et.al.|[2404.05285v1](http://arxiv.org/abs/2404.05285v1)|**[link](https://github.com/hatins/deoe)**|
 |**2024-04-08**|**iVPT: Improving Task-relevant Information Sharing in Visual Prompt Tuning by Cross-layer Dynamic Connection**|Nan Zhou et.al.|[2404.05207v1](http://arxiv.org/abs/2404.05207v1)|null|
 |**2024-04-08**|**HSViT: Horizontally Scalable Vision Transformer**|Chenhao Xu et.al.|[2404.05196v1](http://arxiv.org/abs/2404.05196v1)|**[link](https://github.com/xuchenhao001/hsvit)**|
@@ -2906,7 +2906,7 @@ layout: default
 |**2024-04-03**|**Linear Attention Sequence Parallelism**|Weigao Sun et.al.|[2404.02882v1](http://arxiv.org/abs/2404.02882v1)|**[link](https://github.com/opennlplab/lasp)**|
 |**2024-04-03**|**Cross-Architecture Transfer Learning for Linear-Cost Inference Transformers**|Sehyun Choi et.al.|[2404.02684v1](http://arxiv.org/abs/2404.02684v1)|null|
 |**2024-04-03**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jieneng Chen et.al.|[2404.02132v2](http://arxiv.org/abs/2404.02132v2)|**[link](https://github.com/beckschen/vitamin)**|
-|**2024-04-02**|**Minimize Quantization Output Error with Bias Compensation**|Cheng Gong et.al.|[2404.01892v1](http://arxiv.org/abs/2404.01892v1)|null|
+|**2024-04-02**|**Minimize Quantization Output Error with Bias Compensation**|Cheng Gong et.al.|[2404.01892v1](http://arxiv.org/abs/2404.01892v1)|**[link](https://github.com/gongcheng1919/bias-compensation)**|
 |**2024-04-02**|**Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model**|Qinfeng Zhu et.al.|[2404.01705v1](http://arxiv.org/abs/2404.01705v1)|**[link](https://github.com/zhuqinfeng1999/samba)**|
 |**2024-04-01**|**On the Faithfulness of Vision Transformer Explanations**|Junyi Wu et.al.|[2404.01415v1](http://arxiv.org/abs/2404.01415v1)|null|
 |**2024-04-01**|**NeRF-MAE : Masked AutoEncoders for Self Supervised 3D representation Learning for Neural Radiance Fields**|Muhammad Zubair Irshad et.al.|[2404.01300v1](http://arxiv.org/abs/2404.01300v1)|null|
