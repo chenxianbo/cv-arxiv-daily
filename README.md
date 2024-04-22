@@ -792,7 +792,7 @@
 |**2024-03-11**|**How to Handle Sketch-Abstraction in Sketch-Based Image Retrieval?**|Subhadeep Koley et.al.|[2403.07203v1](http://arxiv.org/abs/2403.07203v1)|null|
 |**2024-03-11**|**EarthLoc: Astronaut Photography Localization by Indexing Earth from Space**|Gabriele Berton et.al.|[2403.06758v1](http://arxiv.org/abs/2403.06758v1)|**[link](https://github.com/gmberton/earthloc)**|
 |**2024-03-11**|**BEV2PR: BEV-Enhanced Visual Place Recognition with Structural Cues**|Fudong Ge et.al.|[2403.06600v1](http://arxiv.org/abs/2403.06600v1)|null|
-|**2024-03-11**|**Leveraging Foundation Models for Content-Based Medical Image Retrieval in Radiology**|Stefan Denner et.al.|[2403.06567v1](http://arxiv.org/abs/2403.06567v1)|null|
+|**2024-03-11**|**Leveraging Foundation Models for Content-Based Medical Image Retrieval in Radiology**|Stefan Denner et.al.|[2403.06567v1](http://arxiv.org/abs/2403.06567v1)|**[link](https://github.com/mic-dkfz/foundation-models-for-cbmir)**|
 |**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341v1](http://arxiv.org/abs/2403.06341v1)|null|
 |**2024-03-10**|**Texture image retrieval using a classification and contourlet-based features**|Asal Rouhafzay et.al.|[2403.06048v1](http://arxiv.org/abs/2403.06048v1)|null|
 |**2024-03-11**|**LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**|Xinrui Wu et.al.|[2403.05002v2](http://arxiv.org/abs/2403.05002v2)|**[link](https://github.com/irmvlab/lhmap-loc)**|
@@ -1007,7 +1007,7 @@
 |**2023-07-18**|**3D-SeqMOS: A Novel Sequential 3D Moving Object Segmentation in Autonomous Driving**|Qipeng Li et.al.|[2307.09044v1](http://arxiv.org/abs/2307.09044v1)|null|
 |**2023-07-19**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luo et.al.|[2307.08779v2](http://arxiv.org/abs/2307.08779v2)|null|
 |**2023-07-17**|**Divide&Classify: Fine-Grained Classification for City-Wide Visual Place Recognition**|Gabriele Trivigno et.al.|[2307.08417v1](http://arxiv.org/abs/2307.08417v1)|**[link](https://github.com/ga1i13o/divide-and-classify)**|
-|**2023-07-17**|**Bridging the Gap: Multi-Level Cross-Modality Joint Alignment for Visible-Infrared Person Re-Identification**|Tengfei Liang et.al.|[2307.08316v1](http://arxiv.org/abs/2307.08316v1)|null|
+|**2023-07-17**|**Bridging the Gap: Multi-Level Cross-Modality Joint Alignment for Visible-Infrared Person Re-Identification**|Tengfei Liang et.al.|[2307.08316v1](http://arxiv.org/abs/2307.08316v1)|**[link](https://github.com/workingcoder/MCJA)**|
 |**2023-07-17**|**NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM**|Lizhou Liao et.al.|[2307.08221v1](http://arxiv.org/abs/2307.08221v1)|**[link](https://github.com/SlamCabbage/NDTMC)**|
 |**2023-07-20**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015v3](http://arxiv.org/abs/2307.08015v3)|**[link](https://github.com/shiyujiao/boosting3dofaccuracy)**|
 |**2023-07-10**|**Phoneme-retrieval; voice recognition; vowels recognition**|Brunello Tirozzi et.al.|[2307.07407v1](http://arxiv.org/abs/2307.07407v1)|null|
@@ -1974,7 +1974,7 @@
 |**2024-04-01**|**FlexiDreamer: Single Image-to-3D Generation with FlexiCubes**|Ruowen Zhao et.al.|[2404.00987v1](http://arxiv.org/abs/2404.00987v1)|**[link](https://github.com/zhaorw02/FlexiDreamer)**|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891v1](http://arxiv.org/abs/2404.00891v1)|null|
 |**2024-03-29**|**HGS-Mapping: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes**|Ke Wu et.al.|[2403.20159v1](http://arxiv.org/abs/2403.20159v1)|null|
-|**2024-03-29**|**Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**|Jaehoon Ko et.al.|[2403.20153v1](http://arxiv.org/abs/2403.20153v1)|null|
+|**2024-03-29**|**Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**|Jaehoon Ko et.al.|[2403.20153v1](http://arxiv.org/abs/2403.20153v1)|**[link](https://github.com/KU-CVLAB/Talk3D)**|
 |**2024-03-29**|**SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**|Zhongrui Yu et.al.|[2403.20079v1](http://arxiv.org/abs/2403.20079v1)|null|
 |**2024-03-29**|**NeSLAM: Neural Implicit Mapping and Self-Supervised Feature Tracking With Depth Completion and Denoising**|Tianchen Deng et.al.|[2403.20034v1](http://arxiv.org/abs/2403.20034v1)|**[link](https://github.com/dtc111111/neslam)**|
 |**2024-03-29**|**SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**|Yunhao Li et.al.|[2403.20018v1](http://arxiv.org/abs/2403.20018v1)|**[link](https://github.com/wu-cvgl/scinerf)**|
@@ -2219,7 +2219,7 @@
 |**2023-12-10**|**IL-NeRF: Incremental Learning for Neural Radiance Fields with Camera Pose Alignment**|Letian Zhang et.al.|[2312.05748v1](http://arxiv.org/abs/2312.05748v1)|null|
 |**2023-12-09**|**CoGS: Controllable Gaussian Splatting**|Heng Yu et.al.|[2312.05664v1](http://arxiv.org/abs/2312.05664v1)|null|
 |**2023-12-09**|**R2-Talker: Realistic Real-Time Talking Head Synthesis with Hash Grid Landmarks Encoding and Progressive Multilayer Conditioning**|Zhiling Ye et.al.|[2312.05572v1](http://arxiv.org/abs/2312.05572v1)|null|
-|**2023-12-08**|**Multi-view Inversion for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2312.05330v1](http://arxiv.org/abs/2312.05330v1)|null|
+|**2023-12-08**|**Multi-view Inversion for 3D-aware Generative Adversarial Networks**|Florian Barthel et.al.|[2312.05330v1](http://arxiv.org/abs/2312.05330v1)|**[link](https://github.com/Florian-Barthel/3d-multiview-inversion)**|
 |**2023-12-08**|**TriHuman : A Real-time and Controllable Tri-plane Representation for Detailed Human Geometry and Appearance Synthesis**|Heming Zhu et.al.|[2312.05161v1](http://arxiv.org/abs/2312.05161v1)|null|
 |**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820v1](http://arxiv.org/abs/2312.04820v1)|null|
 |**2023-12-08**|**Reality's Canvas, Language's Brush: Crafting 3D Avatars from Monocular Video**|Yuchen Rao et.al.|[2312.04784v1](http://arxiv.org/abs/2312.04784v1)|null|
@@ -2353,7 +2353,7 @@
 |**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892v1](http://arxiv.org/abs/2310.09892v1)|**[link](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)**|
 |**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776v1](http://arxiv.org/abs/2310.09776v1)|null|
 |**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916v1](http://arxiv.org/abs/2310.07916v1)|null|
-|**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449v2](http://arxiv.org/abs/2310.07449v2)|null|
+|**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449v2](http://arxiv.org/abs/2310.07449v2)|**[link](https://github.com/ActiveVisionLab/porf)**|
 |**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179v1](http://arxiv.org/abs/2310.07179v1)|null|
 |**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984v1](http://arxiv.org/abs/2310.06984v1)|null|
 |**2023-10-10**|**High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field**|Minghan Qin et.al.|[2310.06275v1](http://arxiv.org/abs/2310.06275v1)|null|
@@ -2570,7 +2570,7 @@
 |**2023-04-27**|**MF-NeRF: Memory Efficient NeRF with Mixed-Feature Hash Table**|Yongjae Lee et.al.|[2304.12587v3](http://arxiv.org/abs/2304.12587v3)|**[link](https://github.com/nfyfamr/mf-nerf)**|
 |**2023-04-24**|**Instant-3D: Instant Neural Radiance Field Training Towards On-Device AR/VR 3D Reconstruction**|Sixu Li et.al.|[2304.12467v1](http://arxiv.org/abs/2304.12467v1)|null|
 |**2023-04-24**|**TextMesh: Generation of Realistic 3D Meshes From Text Prompts**|Christina Tsalicoglou et.al.|[2304.12439v1](http://arxiv.org/abs/2304.12439v1)|null|
-|**2023-04-26**|**Segment Anything in 3D with NeRFs**|Jiazhong Cen et.al.|[2304.12308v2](http://arxiv.org/abs/2304.12308v2)|null|
+|**2023-04-26**|**Segment Anything in 3D with NeRFs**|Jiazhong Cen et.al.|[2304.12308v2](http://arxiv.org/abs/2304.12308v2)|**[link](https://github.com/jumpat/segmentanythingin3d)**|
 |**2023-04-24**|**Explicit Correspondence Matching for Generalizable Neural Radiance Fields**|Yuedong Chen et.al.|[2304.12294v1](http://arxiv.org/abs/2304.12294v1)|**[link](https://github.com/donydchen/matchnerf)**|
 |**2023-04-25**|**Gen-NeRF: Efficient and Generalizable Neural Radiance Fields via Algorithm-Hardware Co-Design**|Yonggan Fu et.al.|[2304.11842v2](http://arxiv.org/abs/2304.11842v2)|null|
 |**2023-04-22**|**3D-IntPhys: Towards More Generalized 3D-grounded Visual Intuitive Physics under Challenging Scenes**|Haotian Xue et.al.|[2304.11470v1](http://arxiv.org/abs/2304.11470v1)|null|
@@ -2634,7 +2634,7 @@
 |**2023-03-28**|**F $^{2}$ -NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories**|Peng Wang et.al.|[2303.15951v1](http://arxiv.org/abs/2303.15951v1)|**[link](https://github.com/Totoro97/f2-nerf)**|
 |**2023-03-27**|**JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields**|Xi Wang et.al.|[2303.15427v1](http://arxiv.org/abs/2303.15427v1)|**[link](https://github.com/robincourant/jaws)**|
 |**2023-03-27**|**Generalizable Neural Voxels for Fast Human Radiance Fields**|Taoran Yi et.al.|[2303.15387v1](http://arxiv.org/abs/2303.15387v1)|null|
-|**2023-03-27**|**NeUDF: Learning Unsigned Distance Fields from Multi-view Images for Reconstructing Non-watertight Models**|Fei Hou et.al.|[2303.15368v1](http://arxiv.org/abs/2303.15368v1)|null|
+|**2023-03-27**|**NeUDF: Learning Unsigned Distance Fields from Multi-view Images for Reconstructing Non-watertight Models**|Fei Hou et.al.|[2303.15368v1](http://arxiv.org/abs/2303.15368v1)|**[link](https://bitbucket.org/jkdeng/2sudf)**|
 |**2023-03-24**|**Perceptual Quality Assessment of NeRF and Neural View Synthesis Methods for Front-Facing Views**|Hanxue Liang et.al.|[2303.15206v1](http://arxiv.org/abs/2303.15206v1)|null|
 |**2023-03-27**|**3D-Aware Multi-Class Image-to-Image Translation with NeRFs**|Senmao Li et.al.|[2303.15012v1](http://arxiv.org/abs/2303.15012v1)|**[link](https://github.com/sen-mao/3di2i-translation)**|
 |**2023-03-26**|**Clean-NeRF: Reformulating NeRF to account for View-Dependent Observations**|Xinhang Liu et.al.|[2303.14707v1](http://arxiv.org/abs/2303.14707v1)|null|
@@ -2958,7 +2958,7 @@
 |**2024-04-01**|**Force-EvT: A Closer Look at Robotic Gripper Force Measurement with Event-based Vision Transformer**|Qianyu Guo et.al.|[2404.01170v1](http://arxiv.org/abs/2404.01170v1)|null|
 |**2024-04-01**|**Structured Initialization for Attention in Vision Transformers**|Jianqiao Zheng et.al.|[2404.01139v1](http://arxiv.org/abs/2404.01139v1)|**[link](https://github.com/osiriszjq/structured_init)**|
 |**2024-04-01**|**Instance-Aware Group Quantization for Vision Transformers**|Jaehyeon Moon et.al.|[2404.00928v1](http://arxiv.org/abs/2404.00928v1)|null|
-|**2024-04-02**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v2](http://arxiv.org/abs/2404.00722v2)|null|
+|**2024-04-02**|**DRCT: Saving Image Super-resolution away from Information Bottleneck**|Chih-Chung Hsu et.al.|[2404.00722v2](http://arxiv.org/abs/2404.00722v2)|**[link](https://github.com/ming053l/drct)**|
 |**2024-03-29**|**Convolutional Prompting meets Language Models for Continual Learning**|Anurag Roy et.al.|[2403.20317v1](http://arxiv.org/abs/2403.20317v1)|null|
 |**2024-03-29**|**An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT**|Haikuo Shao et.al.|[2403.20230v1](http://arxiv.org/abs/2403.20230v1)|null|
 |**2024-04-01**|**DiJiang: Efficient Large Language Models through Compact Kernelization**|Hanting Chen et.al.|[2403.19928v2](http://arxiv.org/abs/2403.19928v2)|**[link](https://github.com/yuchuantian/dijiang)**|
