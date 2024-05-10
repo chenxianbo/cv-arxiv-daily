@@ -1970,6 +1970,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**DragGaussian: Enabling Drag-style Manipulation on 3D Gaussian Representation**|Sitian Shen et.al.|[2405.05800v1](http://arxiv.org/abs/2405.05800v1)|null|
+|**2024-05-09**|**NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior**|Gihoon Kim et.al.|[2405.05749v1](http://arxiv.org/abs/2405.05749v1)|null|
+|**2024-05-09**|**RPBG: Towards Robust Neural Point-based Graphics in the Wild**|Qingtian Zhu et.al.|[2405.05663v1](http://arxiv.org/abs/2405.05663v1)|null|
+|**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526v1](http://arxiv.org/abs/2405.05526v1)|null|
 |**2024-05-08**|**${M^2D}$ NeRF: Multi-Modal Decomposition NeRF with 3D Feature Fields**|Ning Wang et.al.|[2405.05010v1](http://arxiv.org/abs/2405.05010v1)|null|
 |**2024-05-08**|**DistGrid: Scalable Scene Reconstruction with Distributed Multi-resolution Hash Grid**|Sidun Liu et.al.|[2405.04416v2](http://arxiv.org/abs/2405.04416v2)|null|
 |**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345v1](http://arxiv.org/abs/2405.04345v1)|null|
@@ -2986,6 +2990,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**CSA-Net: Channel-wise Spatially Autocorrelated Attention Networks**|Nick et.al.|[2405.05755v1](http://arxiv.org/abs/2405.05755v1)|null|
+|**2024-05-09**|**TransAnaNet: Transformer-based Anatomy Change Prediction Network for Head and Neck Cancer Patient Radiotherapy**|Meixu Chen et.al.|[2405.05674v1](http://arxiv.org/abs/2405.05674v1)|null|
 |**2024-05-08**|**Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers**|Jiuxiang Gu et.al.|[2405.05219v1](http://arxiv.org/abs/2405.05219v1)|null|
 |**2024-05-08**|**Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches**|Qing Yu et.al.|[2405.04771v1](http://arxiv.org/abs/2405.04771v1)|null|
 |**2024-05-07**|**The Dark Side of Dataset Scaling: Evaluating Racial Classification in Multimodal Models**|Abeba Birhane et.al.|[2405.04623v1](http://arxiv.org/abs/2405.04623v1)|null|
