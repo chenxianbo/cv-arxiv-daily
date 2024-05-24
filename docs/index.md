@@ -1766,6 +1766,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874v1](http://arxiv.org/abs/2405.13874v1)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979v1](http://arxiv.org/abs/2405.12979v1)|null|
 |**2024-05-14**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556v1](http://arxiv.org/abs/2405.08556v1)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434v1](http://arxiv.org/abs/2405.08434v1)|null|
@@ -1996,6 +1997,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections**|Dor Verbin et.al.|[2405.14871v1](http://arxiv.org/abs/2405.14871v1)|null|
+|**2024-05-23**|**Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling**|Liwen Wu et.al.|[2405.14847v1](http://arxiv.org/abs/2405.14847v1)|null|
+|**2024-05-23**|**Camera Relocalization in Shadow-free Neural Radiance Fields**|Shiyao Xu et.al.|[2405.14824v1](http://arxiv.org/abs/2405.14824v1)|null|
+|**2024-05-23**|**LDM: Large Tensorial SDF Model for Textured Mesh Generation**|Rengan Xie et.al.|[2405.14580v1](http://arxiv.org/abs/2405.14580v1)|null|
+|**2024-05-23**|**JointRF: End-to-End Joint Optimization for Dynamic Neural Radiance Field Representation and Compression**|Zihan Zheng et.al.|[2405.14452v1](http://arxiv.org/abs/2405.14452v1)|null|
+|**2024-05-22**|**DoGaussian: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction Via Gaussian Consensus**|Yu Chen et.al.|[2405.13943v1](http://arxiv.org/abs/2405.13943v1)|null|
+|**2024-05-22**|**Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances**|Licheng Shen et.al.|[2405.13694v1](http://arxiv.org/abs/2405.13694v1)|null|
 |**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806v1](http://arxiv.org/abs/2405.12806v1)|null|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728v1](http://arxiv.org/abs/2405.12728v1)|null|
 |**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218v1](http://arxiv.org/abs/2405.12218v1)|null|
@@ -3035,6 +3043,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Mamba-R: Vision Mamba ALSO Needs Registers**|Feng Wang et.al.|[2405.14858v1](http://arxiv.org/abs/2405.14858v1)|null|
+|**2024-05-23**|**Sparse-Tuning: Adapting Vision Transformers with Efficient Fine-tuning and Inference**|Ting Liu et.al.|[2405.14700v1](http://arxiv.org/abs/2405.14700v1)|null|
+|**2024-05-23**|**PrivCirNet: Efficient Private Inference via Block Circulant Transformation**|Tianshi Xu et.al.|[2405.14569v1](http://arxiv.org/abs/2405.14569v1)|null|
+|**2024-05-23**|**Scalable Visual State Space Model with Fractal Scanning**|Lv Tang et.al.|[2405.14480v1](http://arxiv.org/abs/2405.14480v1)|null|
+|**2024-05-23**|**Domain-specific augmentations with resolution agnostic self-attention mechanism improves choroid segmentation in optical coherence tomography images**|Jamie Burke et.al.|[2405.14453v1](http://arxiv.org/abs/2405.14453v1)|null|
+|**2024-05-23**|**Efficient Visual State Space Model for Image Deblurring**|Lingshun Kong et.al.|[2405.14343v1](http://arxiv.org/abs/2405.14343v1)|null|
+|**2024-05-23**|**Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection**|Jia Guo et.al.|[2405.14325v1](http://arxiv.org/abs/2405.14325v1)|null|
+|**2024-05-23**|**Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models**|Yongxin Guo et.al.|[2405.14297v1](http://arxiv.org/abs/2405.14297v1)|null|
+|**2024-05-23**|**DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis**|Yao Teng et.al.|[2405.14224v1](http://arxiv.org/abs/2405.14224v1)|null|
+|**2024-05-23**|**Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model**|Yuheng Shi et.al.|[2405.14174v1](http://arxiv.org/abs/2405.14174v1)|null|
 |**2024-05-22**|**A Method on Searching Better Activation Functions**|Haoyuan Sun et.al.|[2405.12954v2](http://arxiv.org/abs/2405.12954v2)|null|
 |**2024-05-21**|**On a time-frequency blurring operator with applications in data augmentation**|Simon Halvdansson et.al.|[2405.12899v1](http://arxiv.org/abs/2405.12899v1)|null|
 |**2024-05-21**|**BIMM: Brain Inspired Masked Modeling for Video Representation Learning**|Zhifan Wan et.al.|[2405.12757v1](http://arxiv.org/abs/2405.12757v1)|null|
