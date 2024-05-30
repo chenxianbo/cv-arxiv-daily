@@ -22,12 +22,11 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    "3DGS&NeRF":
+        filters: ["NeRF"，"3D Gaussain", "Gaussian Splatting", "View synthesis"]
     "Image Matching":
         filters: ["Image Matching", "Keypoint Matching", 
                   "Line Segment Detection", "Local Feature Matching"]
-    "ViTs":
-        filters: ["Vision Transformer", "Linear Attention", 
-                  "Efficient Transformer", "ViT", "Efficient Attention"]
     "Keypoint Detection":
         filters: ["Keypoint Detection", "Feature Descriptor"]
     "Visual Localization":
@@ -38,5 +37,4 @@ keywords:
         filters: ["SLAM", "Visual Odometry", "bundle adjustment"]
     "SFM":
         filters: ["SFM", "Structure from Motion"]
-    "NeRF":
-        filters: ["NeRF"]
+
