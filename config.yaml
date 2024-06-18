@@ -22,8 +22,8 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "3DGS&NeRF":
-        filters: ["NeRF"，"3D Gaussain", "Gaussian Splatting", "View synthesis"]
+    "3DGS":
+        filters: ["NeRF", "3D Gaussain", "Gaussian Splatting", "View synthesis"]
     "SFM":
         filters: ["SFM", "Structure from Motion"]        
     "Image Matching":
