@@ -4005,6 +4005,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors**|Panwang Pan et.al.|[2406.12459v1](http://arxiv.org/abs/2406.12459v1)|**[link](https://github.com/humansplat/humansplat.github.io)**|
+|**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095v1](http://arxiv.org/abs/2406.12095v1)|null|
+|**2024-06-17**|**A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets**|Bernhard Kerbl et.al.|[2406.12080v1](http://arxiv.org/abs/2406.12080v1)|null|
 |**2024-06-17**|**RetinaGS: Scalable Training for Dense Scene Rendering with Billion-Scale 3D Gaussians**|Bingling Li et.al.|[2406.11836v1](http://arxiv.org/abs/2406.11836v1)|null|
 |**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819v1](http://arxiv.org/abs/2406.11819v1)|null|
 |**2024-06-18**|**Effective Rank Analysis and Regularization for Enhanced 3D Gaussian Splatting**|Junha Hyung et.al.|[2406.11672v2](http://arxiv.org/abs/2406.11672v2)|null|
