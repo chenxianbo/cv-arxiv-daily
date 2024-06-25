@@ -27,6 +27,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-23**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087v1](http://arxiv.org/abs/2406.16087v1)|null|
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360v1](http://arxiv.org/abs/2406.14360v1)|null|
 |**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019v1](http://arxiv.org/abs/2406.11019v1)|null|
 |**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|**[link](https://github.com/swami1995/v2v)**|
@@ -585,6 +586,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289v1](http://arxiv.org/abs/2406.16289v1)|null|
 |**2024-06-19**|**MVSBoost: An Efficient Point Cloud-based 3D Reconstruction**|Umair Haroon et.al.|[2406.13515v1](http://arxiv.org/abs/2406.13515v1)|null|
 |**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819v1](http://arxiv.org/abs/2406.11819v1)|null|
 |**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216v1](http://arxiv.org/abs/2406.06216v1)|**[link](https://github.com/srameo/le3d)**|
@@ -784,10 +786,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204v1](http://arxiv.org/abs/2406.16204v1)|null|
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424v1](http://arxiv.org/abs/2406.13424v1)|null|
 |**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322v1](http://arxiv.org/abs/2406.13322v1)|null|
 |**2024-06-17**|**Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**|Huaiji Zhou et.al.|[2406.11766v1](http://arxiv.org/abs/2406.11766v1)|null|
-|**2024-06-22**|**Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment**|Jianan Jiang et.al.|[2406.11551v2](http://arxiv.org/abs/2406.11551v2)|null|
+|**2024-06-22**|**Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment**|Jianan Jiang et.al.|[2406.11551v2](http://arxiv.org/abs/2406.11551v2)|**[link](https://github.com/exponentiai/effnet)**|
 |**2024-06-17**|**They're All Doctors: Synthesizing Diverse Counterfactuals to Mitigate Associative Bias**|Salma Abdel Magid et.al.|[2406.11331v1](http://arxiv.org/abs/2406.11331v1)|null|
 |**2024-06-17**|**Accurate and Fast Pixel Retrieval with Spatial and Uncertainty Aware Hypergraph Diffusion**|Guoyuan An et.al.|[2406.11242v1](http://arxiv.org/abs/2406.11242v1)|null|
 |**2024-06-14**|**Annotation Cost-Efficient Active Learning for Deep Metric Learning Driven Remote Sensing Image Retrieval**|Genc Hoxha et.al.|[2406.10107v1](http://arxiv.org/abs/2406.10107v1)|null|
@@ -1573,6 +1576,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**A Certifiable Algorithm for Simultaneous Shape Estimation and Object Tracking**|Lorenzo Shaikewitz et.al.|[2406.16837v1](http://arxiv.org/abs/2406.16837v1)|null|
 |**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315v1](http://arxiv.org/abs/2406.01315v1)|**[link](https://github.com/gbarbarani/MorseDet)**|
 |**2024-06-23**|**W-Net: A Facial Feature-Guided Face Super-Resolution Network**|Hao Liu et.al.|[2406.00676v3](http://arxiv.org/abs/2406.00676v3)|null|
 |**2024-05-25**|**Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration**|Junjie Gao et.al.|[2405.16085v1](http://arxiv.org/abs/2405.16085v1)|null|
@@ -4010,6 +4014,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850v1](http://arxiv.org/abs/2406.16850v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
+|**2024-06-24**|**ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians**|Yufei Liu et.al.|[2406.16815v1](http://arxiv.org/abs/2406.16815v1)|null|
+|**2024-06-24**|**Articulate your NeRF: Unsupervised articulated object modeling via conditional view synthesis**|Jianning Deng et.al.|[2406.16623v1](http://arxiv.org/abs/2406.16623v1)|null|
+|**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289v1](http://arxiv.org/abs/2406.16289v1)|null|
+|**2024-06-23**|**LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction**|Hengyu Liu et.al.|[2406.16073v1](http://arxiv.org/abs/2406.16073v1)|null|
+|**2024-06-23**|**LiveScene: Language Embedding Interactive Radiance Fields for Physical Scene Rendering and Control**|Delin Qu et.al.|[2406.16038v1](http://arxiv.org/abs/2406.16038v1)|null|
+|**2024-06-23**|**Learning with Noisy Ground Truth: From 2D Classification to 3D Reconstruction**|Yangdi Lu et.al.|[2406.15982v1](http://arxiv.org/abs/2406.15982v1)|null|
+|**2024-06-21**|**Taming 3DGS: High-Quality Radiance Fields with Limited Resources**|Saswat Subhajyoti Mallick et.al.|[2406.15643v1](http://arxiv.org/abs/2406.15643v1)|null|
 |**2024-06-21**|**Gaussian Splatting to Real World Flight Navigation Transfer with Liquid Networks**|Alex Quach et.al.|[2406.15149v1](http://arxiv.org/abs/2406.15149v1)|null|
 |**2024-06-21**|**E2GS: Event Enhanced Gaussian Splatting**|Hiroyuki Deguchi et.al.|[2406.14978v1](http://arxiv.org/abs/2406.14978v1)|**[link](https://github.com/deguchihiroyuki/e2gs)**|
 |**2024-06-21**|**Relighting Scenes with Object Insertions in Neural Radiance Fields**|Xuening Zhu et.al.|[2406.14806v1](http://arxiv.org/abs/2406.14806v1)|null|
