@@ -27,6 +27,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Rotation Averaging: A Primal-Dual Method and Closed-Forms in Cycle Graphs**|Gabriel Moreira et.al.|[2406.18564v1](http://arxiv.org/abs/2406.18564v1)|null|
 |**2024-06-23**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087v1](http://arxiv.org/abs/2406.16087v1)|null|
 |**2024-06-20**|**Deblurring Neural Radiance Fields with Event-driven Bundle Adjustment**|Yunshan Qi et.al.|[2406.14360v1](http://arxiv.org/abs/2406.14360v1)|null|
 |**2024-06-16**|**Self-supervised Pretraining and Finetuning for Monocular Depth and Visual Odometry**|Boris Chidlovskii et.al.|[2406.11019v1](http://arxiv.org/abs/2406.11019v1)|null|
@@ -586,6 +587,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Rotation Averaging: A Primal-Dual Method and Closed-Forms in Cycle Graphs**|Gabriel Moreira et.al.|[2406.18564v1](http://arxiv.org/abs/2406.18564v1)|null|
 |**2024-06-26**|**VDG: Vision-Only Dynamic Gaussian for Driving Simulation**|Hao Li et.al.|[2406.18198v1](http://arxiv.org/abs/2406.18198v1)|null|
 |**2024-06-25**|**Consensus Learning with Deep Sets for Essential Matrix Estimation**|Dror Moran et.al.|[2406.17414v1](http://arxiv.org/abs/2406.17414v1)|null|
 |**2024-06-24**|**Crowd-Sourced NeRF: Collecting Data from Production Vehicles for 3D Street View Reconstruction**|Tong Qin et.al.|[2406.16289v1](http://arxiv.org/abs/2406.16289v1)|null|
@@ -788,6 +790,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park et.al.|[2406.18898v1](http://arxiv.org/abs/2406.18898v1)|null|
+|**2024-06-27**|**Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs**|Huaying Zhang et.al.|[2406.18836v1](http://arxiv.org/abs/2406.18836v1)|null|
+|**2024-06-26**|**WV-Net: A foundation model for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images**|Yannik Glaser et.al.|[2406.18765v1](http://arxiv.org/abs/2406.18765v1)|null|
 |**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese et.al.|[2406.18012v1](http://arxiv.org/abs/2406.18012v1)|null|
 |**2024-06-25**|**Tell Me Where You Are: Multimodal LLMs Meet Place Recognition**|Zonglin Lyu et.al.|[2406.17520v1](http://arxiv.org/abs/2406.17520v1)|null|
 |**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249v1](http://arxiv.org/abs/2406.17249v1)|null|
@@ -4019,6 +4024,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park et.al.|[2406.18898v1](http://arxiv.org/abs/2406.18898v1)|null|
+|**2024-06-26**|**Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos**|Colton Stearns et.al.|[2406.18717v1](http://arxiv.org/abs/2406.18717v1)|null|
 |**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533v1](http://arxiv.org/abs/2406.18533v1)|**[link](https://github.com/nyu-systems/grendel-gs)**|
 |**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524v1](http://arxiv.org/abs/2406.18524v1)|null|
 |**2024-06-26**|**GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality**|Taoran Yi et.al.|[2406.18462v1](http://arxiv.org/abs/2406.18462v1)|null|
