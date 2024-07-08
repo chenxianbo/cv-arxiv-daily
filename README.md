@@ -459,7 +459,7 @@
 |**2022-04-11**|**Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context**|Lizhou Liao et.al.|[2204.04932v1](http://arxiv.org/abs/2204.04932v1)|**[link](https://github.com/SlamCabbage/Optimized-SC-F-LOAM)**|
 |**2022-04-04**|**Monitoring social distancing with single image depth estimation**|Alessio Mingozzi et.al.|[2204.01693v1](http://arxiv.org/abs/2204.01693v1)|null|
 |**2022-04-01**|**Bi-directional Loop Closure for Visual SLAM**|Ihtisham Ali et.al.|[2204.01524v1](http://arxiv.org/abs/2204.01524v1)|null|
-|**2022-04-04**|**IMOT: General-Purpose, Fast and Robust Estimation for Spatial Perception Problems with Outliers**|Lei Sun et.al.|[2204.01324v1](http://arxiv.org/abs/2204.01324v1)|null|
+|**2022-04-04**|**IMOT: General-Purpose, Fast and Robust Estimation for Spatial Perception Problems with Outliers**|Lei Sun et.al.|[2204.01324v1](http://arxiv.org/abs/2204.01324v1)|**[link](https://github.com/leisun-98/tivm-master)**|
 |**2022-04-03**|**Indoor Navigation Assistance for Visually Impaired People via Dynamic SLAM and Panoptic Segmentation with an RGB-D Sensor**|Wenyan Ou et.al.|[2204.01154v1](http://arxiv.org/abs/2204.01154v1)|null|
 |**2022-04-02**|**UrbanFly: Uncertainty-Aware Planning for Navigation Amongst High-Rises with Monocular Visual-Inertial SLAM Maps**|Ayyappa Swamy Thatavarthy et.al.|[2204.00865v1](http://arxiv.org/abs/2204.00865v1)|**[link](https://github.com/sudarshan-s-harithas/urbanfly)**|
 |**2022-03-31**|**Curiosity Driven Self-supervised Tactile Exploration of Unknown Objects**|Yujie Lu et.al.|[2204.00035v1](http://arxiv.org/abs/2204.00035v1)|null|
@@ -809,7 +809,7 @@
 |**2024-06-17**|**Accurate and Fast Pixel Retrieval with Spatial and Uncertainty Aware Hypergraph Diffusion**|Guoyuan An et.al.|[2406.11242v1](http://arxiv.org/abs/2406.11242v1)|null|
 |**2024-06-14**|**Annotation Cost-Efficient Active Learning for Deep Metric Learning Driven Remote Sensing Image Retrieval**|Genc Hoxha et.al.|[2406.10107v1](http://arxiv.org/abs/2406.10107v1)|null|
 |**2024-06-14**|**BiVLC: Extending Vision-Language Compositionality Evaluation with Text-to-Image Retrieval**|Imanol Miranda et.al.|[2406.09952v1](http://arxiv.org/abs/2406.09952v1)|**[link](https://github.com/imirandam/bivlc)**|
-|**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317v1](http://arxiv.org/abs/2406.09317v1)|null|
+|**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317v1](http://arxiv.org/abs/2406.09317v1)|**[link](https://github.com/LooKing9218/RetiZero)**|
 |**2024-06-13**|**Reducing Task Discrepancy of Text Encoders for Zero-Shot Composed Image Retrieval**|Jaeseok Byun et.al.|[2406.09188v1](http://arxiv.org/abs/2406.09188v1)|null|
 |**2024-06-13**|**DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification**|Zhengrui Xu et.al.|[2406.08773v1](http://arxiv.org/abs/2406.08773v1)|null|
 |**2024-06-12**|**Self-supervised Learning of Neural Implicit Feature Fields for Camera Pose Refinement**|Maxime Pietrantoni et.al.|[2406.08463v1](http://arxiv.org/abs/2406.08463v1)|null|
@@ -902,7 +902,7 @@
 |**2024-03-12**|**Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers**|Subhadeep Koley et.al.|[2403.07214v1](http://arxiv.org/abs/2403.07214v1)|null|
 |**2024-03-11**|**How to Handle Sketch-Abstraction in Sketch-Based Image Retrieval?**|Subhadeep Koley et.al.|[2403.07203v1](http://arxiv.org/abs/2403.07203v1)|null|
 |**2024-03-11**|**EarthLoc: Astronaut Photography Localization by Indexing Earth from Space**|Gabriele Berton et.al.|[2403.06758v1](http://arxiv.org/abs/2403.06758v1)|**[link](https://github.com/gmberton/earthloc)**|
-|**2024-03-11**|**BEV2PR: BEV-Enhanced Visual Place Recognition with Structural Cues**|Fudong Ge et.al.|[2403.06600v1](http://arxiv.org/abs/2403.06600v1)|null|
+|**2024-03-11**|**BEV2PR: BEV-Enhanced Visual Place Recognition with Structural Cues**|Fudong Ge et.al.|[2403.06600v1](http://arxiv.org/abs/2403.06600v1)|**[link](https://github.com/fudongge/bev2pr)**|
 |**2024-03-11**|**Leveraging Foundation Models for Content-Based Medical Image Retrieval in Radiology**|Stefan Denner et.al.|[2403.06567v1](http://arxiv.org/abs/2403.06567v1)|**[link](https://github.com/mic-dkfz/foundation-models-for-cbmir)**|
 |**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341v1](http://arxiv.org/abs/2403.06341v1)|null|
 |**2024-03-10**|**Texture image retrieval using a classification and contourlet-based features**|Asal Rouhafzay et.al.|[2403.06048v1](http://arxiv.org/abs/2403.06048v1)|null|
@@ -1627,7 +1627,7 @@
 |**2023-12-19**|**An effective image copy-move forgery detection using entropy image**|Zhaowei Lu et.al.|[2312.11793v1](http://arxiv.org/abs/2312.11793v1)|**[link](https://github.com/LUZW1998/CMFDUEI)**|
 |**2023-12-11**|**VoxelKP: A Voxel-based Network Architecture for Human Keypoint Estimation in LiDAR Data**|Jian Shi et.al.|[2312.08871v1](http://arxiv.org/abs/2312.08871v1)|**[link](https://github.com/shijianjian/voxelkp)**|
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865v1](http://arxiv.org/abs/2312.06865v1)|**[link](https://github.com/travisdriver/spc-factor-results)**|
-|**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592v1](http://arxiv.org/abs/2312.00592v1)|null|
+|**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592v1](http://arxiv.org/abs/2312.00592v1)|**[link](https://github.com/data-science-in-mechanical-engineering/sae-rl)**|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281v1](http://arxiv.org/abs/2311.18281v1)|null|
 |**2023-11-29**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113v1](http://arxiv.org/abs/2311.18113v1)|**[link](https://github.com/wimmerth/back-to-3d-few-shot-keypoints)**|
 |**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024v1](http://arxiv.org/abs/2311.17024v1)|**[link](https://github.com/niladridutt/Diffusion-3D-Features)**|
@@ -3334,11 +3334,11 @@
 |**2024-03-25**|**Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study**|Ahmed Soliman et.al.|[2403.17177v1](http://arxiv.org/abs/2403.17177v1)|null|
 |**2024-03-25**|**CipherFormer: Efficient Transformer Private Inference with Low Round Complexity**|Weize Wang et.al.|[2403.16860v1](http://arxiv.org/abs/2403.16860v1)|null|
 |**2024-03-25**|**3D-EffiViTCaps: 3D Efficient Vision Transformer with Capsule for Medical Image Segmentation**|Dongwei Gan et.al.|[2403.16350v1](http://arxiv.org/abs/2403.16350v1)|**[link](https://github.com/hidneuron/3d-effivitcaps)**|
-|**2024-03-24**|**Enhancing MRI-Based Classification of Alzheimer's Disease with Explainable 3D Hybrid Compact Convolutional Transformers**|Arindam Majee et.al.|[2403.16175v1](http://arxiv.org/abs/2403.16175v1)|null|
+|**2024-03-24**|**Enhancing MRI-Based Classification of Alzheimer's Disease with Explainable 3D Hybrid Compact Convolutional Transformers**|Arindam Majee et.al.|[2403.16175v1](http://arxiv.org/abs/2403.16175v1)|**[link](https://github.com/arindammajee/HCCT)**|
 |**2024-03-24**|**Towards Online Real-Time Memory-based Video Inpainting Transformers**|Guillaume Thiry et.al.|[2403.16161v1](http://arxiv.org/abs/2403.16161v1)|null|
 |**2024-03-24**|**Enhancing Video Transformers for Action Understanding with VLM-aided Training**|Hui Lu et.al.|[2403.16128v1](http://arxiv.org/abs/2403.16128v1)|null|
 |**2024-03-24**|**A General and Efficient Federated Split Learning with Pre-trained Image Transformers for Heterogeneous Data**|Yifan Shi et.al.|[2403.16050v1](http://arxiv.org/abs/2403.16050v1)|null|
-|**2024-03-24**|**PaPr: Training-Free One-Step Patch Pruning with Lightweight ConvNets for Faster Inference**|Tanvir Mahmud et.al.|[2403.16020v1](http://arxiv.org/abs/2403.16020v1)|null|
+|**2024-03-24**|**PaPr: Training-Free One-Step Patch Pruning with Lightweight ConvNets for Faster Inference**|Tanvir Mahmud et.al.|[2403.16020v1](http://arxiv.org/abs/2403.16020v1)|**[link](https://github.com/tanvir-utexas/PaPr)**|
 |**2024-03-23**|**Once for Both: Single Stage of Importance and Sparsity Search for Vision Transformer Compression**|Hancheng Ye et.al.|[2403.15835v1](http://arxiv.org/abs/2403.15835v1)|**[link](https://github.com/hankye/once-for-both)**|
 |**2024-03-22**|**Not All Attention is Needed: Parameter and Computation Efficient Transfer Learning for Multi-modal Large Language Models**|Qiong Wu et.al.|[2403.15226v1](http://arxiv.org/abs/2403.15226v1)|**[link](https://github.com/doubtedsteam/eas)**|
 |**2024-03-22**|**ParFormer: Vision Transformer Baseline with Parallel Local Global Token Mixer and Convolution Attention Patch Embedding**|Novendra Setyawan et.al.|[2403.15004v1](http://arxiv.org/abs/2403.15004v1)|**[link](https://github.com/novendrastywn/parformer-cape-2024)**|
@@ -3782,7 +3782,7 @@
 |**2023-10-30**|**Autoregressive Attention Neural Networks for Non-Line-of-Sight User Tracking with Dynamic Metasurface Antennas**|Kyriakos Stylianopoulos et.al.|[2310.19767v1](http://arxiv.org/abs/2310.19767v1)|null|
 |**2023-10-30**|**ViR: Vision Retention Networks**|Ali Hatamizadeh et.al.|[2310.19731v1](http://arxiv.org/abs/2310.19731v1)|**[link](https://github.com/nvlabs/vir)**|
 |**2023-10-31**|**Promise:Prompt-driven 3D Medical Image Segmentation Using Pretrained Image Foundation Models**|Hao Li et.al.|[2310.19721v2](http://arxiv.org/abs/2310.19721v2)|**[link](https://github.com/medicl-vu/promise)**|
-|**2023-10-30**|**Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking**|Chuanming Tang et.al.|[2310.19542v1](http://arxiv.org/abs/2310.19542v1)|null|
+|**2023-10-30**|**Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking**|Chuanming Tang et.al.|[2310.19542v1](http://arxiv.org/abs/2310.19542v1)|**[link](https://github.com/tchuanm/avitmp)**|
 |**2023-10-29**|**Uncovering Prototypical Knowledge for Weakly Open-Vocabulary Semantic Segmentation**|Fei Zhang et.al.|[2310.19001v1](http://arxiv.org/abs/2310.19001v1)|null|
 |**2023-10-29**|**Blacksmith: Fast Adversarial Training of Vision Transformers via a Mixture of Single-step and Multi-step Methods**|Mahdi Salmani et.al.|[2310.18975v1](http://arxiv.org/abs/2310.18975v1)|null|
 |**2023-10-29**|**Analyzing Vision Transformers for Image Classification in Class Embedding Space**|Martina G. Vilas et.al.|[2310.18969v1](http://arxiv.org/abs/2310.18969v1)|**[link](https://github.com/martinagvilas/vit-cls_emb)**|
@@ -3930,7 +3930,7 @@
 |**2023-09-12**|**A 3M-Hybrid Model for the Restoration of Unique Giant Murals: A Case Study on the Murals of Yongle Palace**|Jing Yang et.al.|[2309.06194v1](http://arxiv.org/abs/2309.06194v1)|null|
 |**2023-09-12**|**Feature Aggregation Network for Building Extraction from High-resolution Remote Sensing Images**|Xuan Zhou et.al.|[2309.06017v1](http://arxiv.org/abs/2309.06017v1)|null|
 |**2023-09-11**|**Mobile Vision Transformer-based Visual Object Tracking**|Goutam Yelluru Gopal et.al.|[2309.05829v1](http://arxiv.org/abs/2309.05829v1)|**[link](https://github.com/goutamyg/mvt)**|
-|**2023-09-11**|**Divergences in Color Perception between Deep Neural Networks and Humans**|Ethan O. Nadler et.al.|[2309.05809v1](http://arxiv.org/abs/2309.05809v1)|null|
+|**2023-09-11**|**Divergences in Color Perception between Deep Neural Networks and Humans**|Ethan O. Nadler et.al.|[2309.05809v1](http://arxiv.org/abs/2309.05809v1)|**[link](https://github.com/comp-syn/comp-syn)**|
 |**2023-09-11**|**CNN or ViT? Revisiting Vision Transformers Through the Lens of Convolution**|Chenghao Li et.al.|[2309.05375v1](http://arxiv.org/abs/2309.05375v1)|**[link](https://github.com/catworldlee/gaussian-mixture-mask-attention)**|
 |**2023-09-10**|**DeViT: Decomposing Vision Transformers for Collaborative Inference in Edge Devices**|Guanyu Xu et.al.|[2309.05015v1](http://arxiv.org/abs/2309.05015v1)|null|
 |**2023-09-09**|**How to Evaluate Semantic Communications for Images with ViTScore Metric?**|Tingting Zhu et.al.|[2309.04891v1](http://arxiv.org/abs/2309.04891v1)|null|
