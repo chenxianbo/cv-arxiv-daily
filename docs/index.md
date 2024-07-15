@@ -800,8 +800,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Are They the Same Picture? Adapting Concept Bottleneck Models for Human-AI Collaboration in Image Retrieval**|Vaibhav Balloli et.al.|[2407.08908v1](http://arxiv.org/abs/2407.08908v1)|**[link](https://github.com/realize-lab/chair)**|
 |**2024-07-11**|**Improving Visual Place Recognition Based Robot Navigation Through Verification of Localization Estimates**|Owen Claxton et.al.|[2407.08162v1](http://arxiv.org/abs/2407.08162v1)|**[link](https://github.com/QVPR/aarapsiproject)**|
-|**2024-07-12**|**Lifelong Histopathology Whole Slide Image Retrieval via Distance Consistency Rehearsal**|Xinyu Zhu et.al.|[2407.08153v2](http://arxiv.org/abs/2407.08153v2)|**[link](https://github.com/OliverZXY/LWSR)**|
+|**2024-07-12**|**Lifelong Histopathology Whole Slide Image Retrieval via Distance Consistency Rehearsal**|Xinyu Zhu et.al.|[2407.08153v2](http://arxiv.org/abs/2407.08153v2)|null|
 |**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106v1](http://arxiv.org/abs/2407.08106v1)|null|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730v1](http://arxiv.org/abs/2407.06730v1)|null|
 |**2024-07-09**|**CEIA: CLIP-Based Event-Image Alignment for Open-World Event-Based Understanding**|Wenhao Xu et.al.|[2407.06611v1](http://arxiv.org/abs/2407.06611v1)|null|
@@ -4058,12 +4059,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**StyleSplat: 3D Object Style Transfer with Gaussian Splatting**|Sahil Jain et.al.|[2407.09473v1](http://arxiv.org/abs/2407.09473v1)|null|
+|**2024-07-12**|**Radiance Fields from Photons**|Sacha Jungerman et.al.|[2407.09386v1](http://arxiv.org/abs/2407.09386v1)|null|
+|**2024-07-12**|**Learning High-Frequency Functions Made Easy with Sinusoidal Positional Encoding**|Chuanhao Sun et.al.|[2407.09370v1](http://arxiv.org/abs/2407.09370v1)|null|
 |**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447v1](http://arxiv.org/abs/2407.08447v1)|null|
 |**2024-07-11**|**WayveScenes101: A Dataset and Benchmark for Novel View Synthesis in Autonomous Driving**|Jannik Zürn et.al.|[2407.08280v1](http://arxiv.org/abs/2407.08280v1)|**[link](https://github.com/wayveai/wayve_scenes)**|
 |**2024-07-11**|**GAURA: Generalizable Approach for Unified Restoration and Rendering of Arbitrary Views**|Vinayak Gupta et.al.|[2407.08221v1](http://arxiv.org/abs/2407.08221v1)|null|
 |**2024-07-11**|**Survey on Fundamental Deep Learning 3D Reconstruction Techniques**|Yonge Bai et.al.|[2407.08137v1](http://arxiv.org/abs/2407.08137v1)|null|
 |**2024-07-10**|**Geospecific View Generation -- Geometry-Context Aware High-resolution Ground View Inference from Satellite Views**|Ningli Xu et.al.|[2407.08061v1](http://arxiv.org/abs/2407.08061v1)|null|
-|**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875v1](http://arxiv.org/abs/2407.07875v1)|null|
+|**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875v1](http://arxiv.org/abs/2407.07875v1)|**[link](https://github.com/MohitShridhar/genima)**|
 |**2024-07-10**|**Controlling Space and Time with Diffusion Models**|Daniel Watson et.al.|[2407.07860v1](http://arxiv.org/abs/2407.07860v1)|null|
 |**2024-07-10**|**MIGS: Multi-Identity Gaussian Splatting via Tensor Decomposition**|Aggelina Chatziagapi et.al.|[2407.07284v1](http://arxiv.org/abs/2407.07284v1)|null|
 |**2024-07-09**|**Reference-based Controllable Scene Stylization with Gaussian Splatting**|Yiqun Mei et.al.|[2407.07220v1](http://arxiv.org/abs/2407.07220v1)|null|
