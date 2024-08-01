@@ -809,6 +809,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416v1](http://arxiv.org/abs/2407.21416v1)|null|
+|**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348v1](http://arxiv.org/abs/2407.21348v1)|null|
 |**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749v1](http://arxiv.org/abs/2407.20749v1)|null|
 |**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465v1](http://arxiv.org/abs/2407.20465v1)|null|
 |**2024-07-26**|**From 2D to 3D: AISG-SLA Visual Localization Challenge**|Jialin Gao et.al.|[2407.18590v1](http://arxiv.org/abs/2407.18590v1)|null|
@@ -4097,6 +4099,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**Expressive Whole-Body 3D Gaussian Avatar**|Gyeongsik Moon et.al.|[2407.21686v1](http://arxiv.org/abs/2407.21686v1)|null|
+|**2024-07-31**|**Forecasting Future Videos from Novel Views via Disentangled 3D Scene Representation**|Sudhir Yarram et.al.|[2407.21450v1](http://arxiv.org/abs/2407.21450v1)|null|
 |**2024-07-30**|**Dynamic Scene Understanding through Object-Centric Voxelization and Neural Rendering**|Yanpeng Zhao et.al.|[2407.20908v1](http://arxiv.org/abs/2407.20908v1)|**[link](https://github.com/zyp123494/dynavol)**|
 |**2024-07-30**|**SceneTeller: Language-to-3D Scene Generation**|Başak Melis Öcal et.al.|[2407.20727v1](http://arxiv.org/abs/2407.20727v1)|null|
 |**2024-07-29**|**Registering Neural 4D Gaussians for Endoscopic Surgery**|Yiming Huang et.al.|[2407.20213v1](http://arxiv.org/abs/2407.20213v1)|null|
