@@ -3460,7 +3460,7 @@
 |**2024-03-09**|**Hufu: A Modality-Agnositc Watermarking System for Pre-Trained Transformers via Permutation Equivariance**|Hengyuan Xu et.al.|[2403.05842v1](http://arxiv.org/abs/2403.05842v1)|null|
 |**2024-03-09**|**TrafficGPT: Breaking the Token Barrier for Efficient Long Traffic Analysis and Generation**|Jian Qu et.al.|[2403.05822v1](http://arxiv.org/abs/2403.05822v1)|null|
 |**2024-03-08**|**Spatial-aware Transformer-GRU Framework for Enhanced Glaucoma Diagnosis from 3D OCT Imaging**|Mona Ashtari-Majlan et.al.|[2403.05702v1](http://arxiv.org/abs/2403.05702v1)|**[link](https://github.com/Mona-Ashtari/SpatialOCT-Glaucoma)**|
-|**2024-03-08**|**Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance**|Liting Lin et.al.|[2403.05231v1](http://arxiv.org/abs/2403.05231v1)|null|
+|**2024-03-08**|**Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance**|Liting Lin et.al.|[2403.05231v1](http://arxiv.org/abs/2403.05231v1)|**[link](https://github.com/litinglin/lorat)**|
 |**2024-03-08**|**Trust Recognition in Human-Robot Cooperation Using EEG**|Caiyue Xu et.al.|[2403.05225v1](http://arxiv.org/abs/2403.05225v1)|null|
 |**2024-03-08**|**MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models**|Zijie Fang et.al.|[2403.05160v1](http://arxiv.org/abs/2403.05160v1)|null|
 |**2024-03-07**|**Masked Capsule Autoencoders**|Miles Everett et.al.|[2403.04724v1](http://arxiv.org/abs/2403.04724v1)|null|
