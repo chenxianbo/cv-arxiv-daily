@@ -27,6 +27,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878v1](http://arxiv.org/abs/2408.01878v1)|null|
+|**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654v1](http://arxiv.org/abs/2408.01654v1)|null|
 |**2024-07-25**|**CodedVO: Coded Visual Odometry**|Sachin Shah et.al.|[2407.18240v1](http://arxiv.org/abs/2407.18240v1)|null|
 |**2024-07-25**|**PGD-VIO: An Accurate Plane-Aided Visual-Inertial Odometry with Graph-Based Drift Suppression**|Yidi Zhang et.al.|[2407.17709v1](http://arxiv.org/abs/2407.17709v1)|null|
 |**2024-07-22**|**Reinforcement Learning Meets Visual Odometry**|Nico Messikommer et.al.|[2407.15626v1](http://arxiv.org/abs/2407.15626v1)|**[link](https://github.com/uzh-rpg/rl_vo)**|
@@ -597,6 +599,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**Birational geometry of critical loci in Algebraic Vision**|Marina Bertolini et.al.|[2408.02067v1](http://arxiv.org/abs/2408.02067v1)|null|
+|**2024-08-04**|**PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone**|Xin Yang et.al.|[2408.02053v1](http://arxiv.org/abs/2408.02053v1)|null|
 |**2024-08-02**|**Structure from Motion-based Motion Estimation and 3D Reconstruction of Unknown Shaped Space Debris**|Kentaro Uno et.al.|[2408.01035v1](http://arxiv.org/abs/2408.01035v1)|null|
 |**2024-08-01**|**LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**|Zhenyu Bao et.al.|[2408.00254v1](http://arxiv.org/abs/2408.00254v1)|null|
 |**2024-07-29**|**Global Structure-from-Motion Revisited**|Linfei Pan et.al.|[2407.20219v1](http://arxiv.org/abs/2407.20219v1)|**[link](https://github.com/colmap/glomap)**|
@@ -815,6 +819,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394v1](http://arxiv.org/abs/2408.02394v1)|null|
+|**2024-08-03**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841v1](http://arxiv.org/abs/2408.01841v1)|null|
+|**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570v1](http://arxiv.org/abs/2408.01570v1)|null|
 |**2024-07-31**|**VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning**|Yuhang Ming et.al.|[2407.21416v1](http://arxiv.org/abs/2407.21416v1)|null|
 |**2024-07-31**|**SuperVINS: A visual-inertial SLAM framework integrated deep learning features**|Hongkun Luo et.al.|[2407.21348v1](http://arxiv.org/abs/2407.21348v1)|null|
 |**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749v1](http://arxiv.org/abs/2407.20749v1)|null|
@@ -1890,6 +1897,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079v1](http://arxiv.org/abs/2408.02079v1)|null|
 |**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812v1](http://arxiv.org/abs/2407.19812v1)|**[link](https://github.com/llabres/library-dataset)**|
 |**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695v1](http://arxiv.org/abs/2407.18695v1)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791v1](http://arxiv.org/abs/2407.15791v1)|null|
@@ -4109,7 +4117,7 @@ layout: default
 |**2024-08-02**|**A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness**|Lutao Jiang et.al.|[2408.01269v1](http://arxiv.org/abs/2408.01269v1)|null|
 |**2024-08-02**|**Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion**|Ke Li et.al.|[2408.01225v1](http://arxiv.org/abs/2408.01225v1)|null|
 |**2024-08-02**|**IG-SLAM: Instant Gaussian SLAM**|Furkan Aykut Sarikamis et.al.|[2408.01126v1](http://arxiv.org/abs/2408.01126v1)|null|
-|**2024-08-01**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860v1](http://arxiv.org/abs/2408.00860v1)|null|
+|**2024-08-05**|**UlRe-NeRF: 3D Ultrasound Imaging through Neural Rendering with Ultrasound Reflection Direction Parameterization**|Ziwen Guo et.al.|[2408.00860v2](http://arxiv.org/abs/2408.00860v2)|null|
 |**2024-08-01**|**EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head**|Qianyun He et.al.|[2408.00297v1](http://arxiv.org/abs/2408.00297v1)|null|
 |**2024-08-01**|**Head360: Learning a Parametric 3D Full-Head for Free-View Synthesis in 360°**|Yuxiao He et.al.|[2408.00296v1](http://arxiv.org/abs/2408.00296v1)|null|
 |**2024-08-01**|**LoopSparseGS: Loop Based Sparse-View Friendly Gaussian Splatting**|Zhenyu Bao et.al.|[2408.00254v1](http://arxiv.org/abs/2408.00254v1)|null|
