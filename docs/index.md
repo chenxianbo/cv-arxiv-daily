@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -29,7 +29,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-21**|**LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**|Aymeric Fleith et.al.|[2408.11682v1](http://arxiv.org/abs/2408.11682v1)|null|
 |**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739v1](http://arxiv.org/abs/2408.10739v1)|null|
-|**2024-08-20**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154v2](http://arxiv.org/abs/2408.10154v2)|null|
+|**2024-08-20**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154v2](http://arxiv.org/abs/2408.10154v2)|**[link](https://github.com/GradientSpaces/LoopSplat)**|
 |**2024-08-10**|**RSL-BA: Rolling Shutter Line Bundle Adjustment**|Yongcong Zhang et.al.|[2408.05409v1](http://arxiv.org/abs/2408.05409v1)|null|
 |**2024-08-07**|**Opening the Black Box of 3D Reconstruction Error Analysis with VECTOR**|Racquel Fygenson et.al.|[2408.03503v1](http://arxiv.org/abs/2408.03503v1)|**[link](https://github.com/NASA-AMMOS/VECTOR)**|
 |**2024-08-03**|**FBINeRF: Feature-Based Integrated Recurrent Network for Pinhole and Fisheye Neural Radiance Fields**|Yifan Wu et.al.|[2408.01878v1](http://arxiv.org/abs/2408.01878v1)|null|
@@ -598,7 +598,7 @@ layout: default
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
 
 ## SFM
 
@@ -823,7 +823,7 @@ layout: default
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1670,7 +1670,7 @@ layout: default
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1912,7 +1912,7 @@ layout: default
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2163,7 +2163,7 @@ layout: default
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
 
 ## NeRF
 
@@ -3219,7 +3219,7 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
 
 ## ViTs
 
@@ -4134,21 +4134,21 @@ layout: default
 |**2023-08-11**|**Experts Weights Averaging: A New General Training Scheme for Vision Transformers**|Yongqi Huang et.al.|[2308.06093v1](http://arxiv.org/abs/2308.06093v1)|null|
 |**2023-08-14**|**Vision Backbone Enhancement via Multi-Stage Cross-Scale Attention**|Liang Shang et.al.|[2308.05872v2](http://arxiv.org/abs/2308.05872v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-21**|**Robust 3D Gaussian Splatting for Novel View Synthesis in Presence of Distractors**|Paul Ungermann et.al.|[2408.11697v1](http://arxiv.org/abs/2408.11697v1)|**[link](https://github.com/paulungermann/Robust3DGaussians)**|
-|**2024-08-21**|**DeRainGS: Gaussian Splatting for Enhanced Scene Reconstruction in Rainy**|Shuhong Liu et.al.|[2408.11540v1](http://arxiv.org/abs/2408.11540v1)|null|
+|**2024-08-22**|**DeRainGS: Gaussian Splatting for Enhanced Scene Reconstruction in Rainy Environments**|Shuhong Liu et.al.|[2408.11540v2](http://arxiv.org/abs/2408.11540v2)|null|
 |**2024-08-21**|**GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting**|Wanshui Gan et.al.|[2408.11447v1](http://arxiv.org/abs/2408.11447v1)|**[link](https://github.com/ganwanshui/gaussianocc)**|
 |**2024-08-21**|**Pano2Room: Novel View Synthesis from a Single Indoor Panorama**|Guo Pu et.al.|[2408.11413v1](http://arxiv.org/abs/2408.11413v1)|**[link](https://github.com/trickygo/pano2room)**|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085v1](http://arxiv.org/abs/2408.11085v1)|null|
 |**2024-08-20**|**ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining**|Qi Ma et.al.|[2408.10906v1](http://arxiv.org/abs/2408.10906v1)|null|
 |**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739v1](http://arxiv.org/abs/2408.10739v1)|null|
 |**2024-08-20**|**DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**|Zhijing Shao et.al.|[2408.10588v1](http://arxiv.org/abs/2408.10588v1)|null|
-|**2024-08-20**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154v2](http://arxiv.org/abs/2408.10154v2)|null|
+|**2024-08-20**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154v2](http://arxiv.org/abs/2408.10154v2)|**[link](https://github.com/GradientSpaces/LoopSplat)**|
 |**2024-08-19**|**Implicit Gaussian Splatting with Efficient Multi-Level Tri-Plane Representation**|Minye Wu et.al.|[2408.10041v1](http://arxiv.org/abs/2408.10041v1)|null|
 |**2024-08-19**|**SG-GS: Photo-realistic Animatable Human Avatars with Semantically-Guided Gaussian Splatting**|Haoyu Zhao et.al.|[2408.09665v1](http://arxiv.org/abs/2408.09665v1)|null|
 |**2024-08-20**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663v2](http://arxiv.org/abs/2408.09663v2)|null|
@@ -4334,7 +4334,7 @@ layout: default
 |**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111v1](http://arxiv.org/abs/2406.10111v1)|null|
 |**2024-06-14**|**D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video**|Moritz Kappel et.al.|[2406.10078v1](http://arxiv.org/abs/2406.10078v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240823>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
