@@ -842,6 +842,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**Reprojection Errors as Prompts for Efficient Scene Coordinate Regression**|Ting-Ru Liu et.al.|[2409.04178v1](http://arxiv.org/abs/2409.04178v1)|null|
+|**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998v1](http://arxiv.org/abs/2409.03998v1)|null|
 |**2024-09-04**|**Design and Evaluation of Camera-Centric Mobile Crowdsourcing Applications**|Abby Stylianou et.al.|[2409.03012v1](http://arxiv.org/abs/2409.03012v1)|null|
 |**2024-09-04**|**NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**|Sepanta Zeighami et.al.|[2409.02343v1](http://arxiv.org/abs/2409.02343v1)|**[link](https://github.com/szeighami/nudge)**|
 |**2024-09-03**|**Optimizing CLIP Models for Image Retrieval with Maintained Joint-Embedding Alignment**|Konstantin Schall et.al.|[2409.01936v1](http://arxiv.org/abs/2409.01936v1)|**[link](https://github.com/Visual-Computing/MCIP)**|
@@ -1707,6 +1709,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060v1](http://arxiv.org/abs/2409.04060v1)|null|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202v1](http://arxiv.org/abs/2408.08202v1)|null|
 |**2024-07-31**|**Certifying Robustness of Learning-Based Keypoint Detection and Pose Estimation Methods**|Xusheng Luo et.al.|[2408.00117v1](http://arxiv.org/abs/2408.00117v1)|null|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907v1](http://arxiv.org/abs/2407.18907v1)|null|
@@ -4178,6 +4181,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196v1](http://arxiv.org/abs/2409.04196v1)|null|
+|**2024-09-06**|**3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors**|Yujun Huang et.al.|[2409.04013v1](http://arxiv.org/abs/2409.04013v1)|null|
 |**2024-09-05**|**View-Invariant Policy Learning via Zero-Shot Novel View Synthesis**|Stephen Tian et.al.|[2409.03685v1](http://arxiv.org/abs/2409.03685v1)|null|
 |**2024-09-05**|**LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors**|Hanyang Yu et.al.|[2409.03456v1](http://arxiv.org/abs/2409.03456v1)|null|
 |**2024-09-05**|**Optimizing 3D Gaussian Splatting for Sparse Viewpoint Scene Reconstruction**|Shen Chen et.al.|[2409.03213v1](http://arxiv.org/abs/2409.03213v1)|null|
