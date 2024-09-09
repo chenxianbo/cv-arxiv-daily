@@ -4190,7 +4190,7 @@ layout: default
 |**2024-09-03**|**DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction**|Jenny Seidenschwarz et.al.|[2409.02104v1](http://arxiv.org/abs/2409.02104v1)|null|
 |**2024-09-03**|**ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis**|Wangbo Yu et.al.|[2409.02048v1](http://arxiv.org/abs/2409.02048v1)|null|
 |**2024-09-03**|**PRoGS: Progressive Rendering of Gaussian Splats**|Brent Zoomers et.al.|[2409.01761v1](http://arxiv.org/abs/2409.01761v1)|null|
-|**2024-09-03**|**$S^2$ NeRF: Privacy-preserving Training Framework for NeRF**|Bokang Zhang et.al.|[2409.01661v1](http://arxiv.org/abs/2409.01661v1)|null|
+|**2024-09-03**|**$S^2$ NeRF: Privacy-preserving Training Framework for NeRF**|Bokang Zhang et.al.|[2409.01661v1](http://arxiv.org/abs/2409.01661v1)|**[link](https://github.com/lucky9-cyou/S2-NeRF)**|
 |**2024-09-03**|**GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting**|Zixuan Guo et.al.|[2409.01581v1](http://arxiv.org/abs/2409.01581v1)|null|
 |**2024-08-30**|**OG-Mapping: Octree-based Structured 3D Gaussians for Online Dense Mapping**|Meng Wang et.al.|[2408.17223v1](http://arxiv.org/abs/2408.17223v1)|null|
 |**2024-08-30**|**2DGH: 2D Gaussian-Hermite Splatting for High-quality Rendering and Better Geometry Reconstruction**|Ruihan Yu et.al.|[2408.16982v1](http://arxiv.org/abs/2408.16982v1)|null|
