@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 
 <details>
   <summary>Table of Contents</summary>
@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Event-based Mosaicing Bundle Adjustment**|Shuang Guo et.al.|[2409.07365v1](http://arxiv.org/abs/2409.07365v1)|null|
 |**2024-09-03**|**Explicit Second-order LiDAR Bundle Adjustment Algorithm Using Mean Squared Group Metric**|Tingchen Ma et.al.|[2409.01856v1](http://arxiv.org/abs/2409.01856v1)|null|
 |**2024-09-02**|**Robust Vehicle Localization and Tracking in Rain using Street Maps**|Yu Xiang Tan et.al.|[2409.01038v1](http://arxiv.org/abs/2409.01038v1)|**[link](https://gitlab.com/marvl/map-fusion)**|
 |**2024-09-05**|**EgoHDM: An Online Egocentric-Inertial Human Motion Capture, Localization, and Dense Mapping System**|Bonan Liu et.al.|[2409.00343v2](http://arxiv.org/abs/2409.00343v2)|null|
@@ -602,7 +603,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## SFM
 
@@ -833,7 +834,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1707,7 +1708,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1950,7 +1951,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1963,7 +1964,7 @@
 |**2024-08-29**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445v1](http://arxiv.org/abs/2408.16445v1)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186v1](http://arxiv.org/abs/2408.14186v1)|**[link](https://github.com/georg-bn/affine-steerers)**|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770v1](http://arxiv.org/abs/2408.13770v1)|null|
-|**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119v1](http://arxiv.org/abs/2408.13119v1)|null|
+|**2024-09-11**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119v2](http://arxiv.org/abs/2408.13119v2)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383v1](http://arxiv.org/abs/2408.10383v1)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687v1](http://arxiv.org/abs/2408.07687v1)|null|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823v1](http://arxiv.org/abs/2408.04823v1)|**[link](https://github.com/d-iceice/one-shot-irsts)**|
@@ -2209,7 +2210,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## NeRF
 
@@ -3265,7 +3266,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## ViTs
 
@@ -4180,12 +4181,20 @@
 |**2023-08-11**|**Experts Weights Averaging: A New General Training Scheme for Vision Transformers**|Yongqi Huang et.al.|[2308.06093v1](http://arxiv.org/abs/2308.06093v1)|null|
 |**2023-08-14**|**Vision Backbone Enhancement via Multi-Stage Cross-Scale Attention**|Liang Shang et.al.|[2308.05872v2](http://arxiv.org/abs/2308.05872v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 ## 3DGS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs**|Sadra Safadoust et.al.|[2409.07456v1](http://arxiv.org/abs/2409.07456v1)|null|
+|**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452v1](http://arxiv.org/abs/2409.07452v1)|**[link](https://github.com/yanghb22-fdu/hi3d-official)**|
+|**2024-09-11**|**Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering**|Dafei Qin et.al.|[2409.07441v1](http://arxiv.org/abs/2409.07441v1)|null|
+|**2024-09-11**|**Single-View 3D Reconstruction via SO(2)-Equivariant Gaussian Sculpting Networks**|Ruihan Xu et.al.|[2409.07245v1](http://arxiv.org/abs/2409.07245v1)|null|
+|**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200v1](http://arxiv.org/abs/2409.07200v1)|null|
+|**2024-09-11**|**MVLLaVA: An Intelligent Agent for Unified and Flexible Novel View Synthesis**|Hanyu Jiang et.al.|[2409.07129v1](http://arxiv.org/abs/2409.07129v1)|null|
+|**2024-09-11**|**Redundancy-Aware Camera Selection for Indoor Scene Neural Rendering**|Zehao Wang et.al.|[2409.07098v1](http://arxiv.org/abs/2409.07098v1)|null|
+|**2024-09-10**|**gsplat: An Open-Source Library for Gaussian Splatting**|Vickie Ye et.al.|[2409.06765v1](http://arxiv.org/abs/2409.06765v1)|**[link](https://github.com/nerfstudio-project/gsplat)**|
 |**2024-09-10**|**GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction**|Junyi Chen et.al.|[2409.06685v1](http://arxiv.org/abs/2409.06685v1)|null|
 |**2024-09-10**|**Sources of Uncertainty in 3D Scene Reconstruction**|Marcus Klasson et.al.|[2409.06407v1](http://arxiv.org/abs/2409.06407v1)|**[link](https://github.com/aaltoml/uncertainty-nerf-gs)**|
 |**2024-09-09**|**Online 3D reconstruction and dense tracking in endoscopic videos**|Michel Hayoz et.al.|[2409.06037v1](http://arxiv.org/abs/2409.06037v1)|null|
@@ -4434,7 +4443,7 @@
 |**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111v1](http://arxiv.org/abs/2406.10111v1)|null|
 |**2024-06-14**|**D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video**|Moritz Kappel et.al.|[2406.10078v1](http://arxiv.org/abs/2406.10078v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
