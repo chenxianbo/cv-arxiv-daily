@@ -1141,7 +1141,7 @@ layout: default
 |**2023-11-30**|**Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models**|Raviteja Vemulapalli et.al.|[2311.18237v1](http://arxiv.org/abs/2311.18237v1)|null|
 |**2023-11-29**|**Transformer-empowered Multi-modal Item Embedding for Enhanced Image Search in E-Commerce**|Chang Liu et.al.|[2311.17954v1](http://arxiv.org/abs/2311.17954v1)|null|
 |**2023-11-28**|**Scene Summarization: Clustering Scene Videos into Spatially Diverse Frames**|Chao Chen et.al.|[2311.17940v1](http://arxiv.org/abs/2311.17940v1)|null|
-|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389v1](http://arxiv.org/abs/2311.17389v1)|null|
+|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389v1](http://arxiv.org/abs/2311.17389v1)|**[link](https://github.com/HuajianUP/360Loc)**|
 |**2023-11-27**|**Removing NSFW Concepts from Vision-and-Language Models for Text-to-Image Retrieval and Generation**|Samuele Poppi et.al.|[2311.16254v1](http://arxiv.org/abs/2311.16254v1)|**[link](https://github.com/aimagelab/safe-clip)**|
 |**2023-11-27**|**Optimal Transport Aggregation for Visual Place Recognition**|Sergio Izquierdo et.al.|[2311.15937v1](http://arxiv.org/abs/2311.15937v1)|**[link](https://github.com/serizba/salad)**|
 |**2023-11-27**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084v2](http://arxiv.org/abs/2311.14084v2)|**[link](https://github.com/xsc1234/invisible-relevance-bias)**|
@@ -3142,7 +3142,7 @@ layout: default
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056v1](http://arxiv.org/abs/2212.13056v1)|**[link](https://github.com/tianfr/mononerf)**|
 |**2022-12-25**|**PaletteNeRF: Palette-based Color Editing for NeRFs**|Qiling Wu et.al.|[2212.12871v1](http://arxiv.org/abs/2212.12871v1)|null|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966v1](http://arxiv.org/abs/2212.11966v1)|null|
-|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|null|
+|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950v1](http://arxiv.org/abs/2212.10950v1)|**[link](https://github.com/dreamguo/UNIKD)**|
 |**2022-12-21**|**PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields**|Zhengfei Kuang et.al.|[2212.10699v1](http://arxiv.org/abs/2212.10699v1)|null|
 |**2022-12-20**|**Correspondence Distillation from NeRF-based GAN**|Yushi Lan et.al.|[2212.09735v2](http://arxiv.org/abs/2212.09735v2)|null|
 |**2022-12-19**|**StyleTRF: Stylizing Tensorial Radiance Fields**|Rahul Goel et.al.|[2212.09330v1](http://arxiv.org/abs/2212.09330v1)|null|
@@ -3509,7 +3509,7 @@ layout: default
 |**2024-03-26**|**Evaluating the Efficacy of Prompt-Engineered Large Multimodal Models Versus Fine-Tuned Vision Transformers in Image-Based Security Applications**|Fouad Trad et.al.|[2403.17787v1](http://arxiv.org/abs/2403.17787v1)|null|
 |**2024-03-26**|**EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention**|Zhen Tian et.al.|[2403.17729v1](http://arxiv.org/abs/2403.17729v1)|**[link](https://github.com/rucaibox/eulerformer)**|
 |**2024-03-26**|**Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion**|Kazi Shahriar Sanjid et.al.|[2403.17432v1](http://arxiv.org/abs/2403.17432v1)|null|
-|**2024-03-26**|**Accuracy enhancement method for speech emotion recognition from spectrogram using temporal frequency correlation and positional information learning through knowledge transfer**|Jeong-Yoon Kim et.al.|[2403.17327v1](http://arxiv.org/abs/2403.17327v1)|null|
+|**2024-03-26**|**Accuracy enhancement method for speech emotion recognition from spectrogram using temporal frequency correlation and positional information learning through knowledge transfer**|Jeong-Yoon Kim et.al.|[2403.17327v1](http://arxiv.org/abs/2403.17327v1)|**[link](https://github.com/kjy7567/speech_emotion_recognition_from_log_Mel_spectrogram_using_vertically_long_patch)**|
 |**2024-03-25**|**Brain Stroke Segmentation Using Deep Learning Models: A Comparative Study**|Ahmed Soliman et.al.|[2403.17177v1](http://arxiv.org/abs/2403.17177v1)|null|
 |**2024-03-25**|**CipherFormer: Efficient Transformer Private Inference with Low Round Complexity**|Weize Wang et.al.|[2403.16860v1](http://arxiv.org/abs/2403.16860v1)|null|
 |**2024-03-25**|**3D-EffiViTCaps: 3D Efficient Vision Transformer with Capsule for Medical Image Segmentation**|Dongwei Gan et.al.|[2403.16350v1](http://arxiv.org/abs/2403.16350v1)|**[link](https://github.com/hidneuron/3d-effivitcaps)**|
@@ -4225,7 +4225,7 @@ layout: default
 |**2024-09-16**|**BEINGS: Bayesian Embodied Image-goal Navigation with Gaussian Splatting**|Wugang Meng et.al.|[2409.10216v1](http://arxiv.org/abs/2409.10216v1)|**[link](https://github.com/guaMass/BEINGS)**|
 |**2024-09-16**|**SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting**|Mohammad Nomaan Qureshi et.al.|[2409.10161v1](http://arxiv.org/abs/2409.10161v1)|null|
 |**2024-09-16**|**Adaptive Segmentation-Based Initialization for Steered Mixture of Experts Image Regression**|Yi-Hsin Li et.al.|[2409.10101v1](http://arxiv.org/abs/2409.10101v1)|null|
-|**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041v1](http://arxiv.org/abs/2409.10041v1)|null|
+|**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041v1](http://arxiv.org/abs/2409.10041v1)|**[link](https://github.com/sntubix/denser)**|
 |**2024-09-15**|**SAFER-Splat: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps**|Timothy Chen et.al.|[2409.09868v1](http://arxiv.org/abs/2409.09868v1)|null|
 |**2024-09-15**|**MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation**|Shuzhao Xie et.al.|[2409.09756v1](http://arxiv.org/abs/2409.09756v1)|null|
 |**2024-09-14**|**GEVO: Memory-Efficient Monocular Visual Odometry Using Gaussians**|Dasong Gao et.al.|[2409.09295v1](http://arxiv.org/abs/2409.09295v1)|null|
@@ -4296,7 +4296,7 @@ layout: default
 |**2024-08-23**|**BiGS: Bidirectional Gaussian Primitives for Relightable 3D Gaussian Splatting**|Zhenyuan Liu et.al.|[2408.13370v1](http://arxiv.org/abs/2408.13370v1)|null|
 |**2024-08-23**|**LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation**|Shuai Yang et.al.|[2408.13252v1](http://arxiv.org/abs/2408.13252v1)|null|
 |**2024-08-23**|**Deep Learning at the Intersection: Certified Robustness as a Tool for 3D Vision**|Gabriel Pérez S et.al.|[2408.13135v1](http://arxiv.org/abs/2408.13135v1)|null|
-|**2024-08-23**|**S4D: Streaming 4D Real-World Reconstruction with Gaussians and 3D Control Points**|Bing He et.al.|[2408.13036v1](http://arxiv.org/abs/2408.13036v1)|null|
+|**2024-08-23**|**S4D: Streaming 4D Real-World Reconstruction with Gaussians and 3D Control Points**|Bing He et.al.|[2408.13036v1](http://arxiv.org/abs/2408.13036v1)|**[link](https://github.com/hebing-sjtu/S4D)**|
 |**2024-08-23**|**FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering**|Yunji Seo et.al.|[2408.12894v1](http://arxiv.org/abs/2408.12894v1)|null|
 |**2024-08-26**|**GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion**|Jiaxin Wei et.al.|[2408.12677v2](http://arxiv.org/abs/2408.12677v2)|**[link](https://github.com/goldoak/gsfusion)**|
 |**2024-08-22**|**Subsurface Scattering for 3D Gaussian Splatting**|Jan-Niklas Dihlmann et.al.|[2408.12282v1](http://arxiv.org/abs/2408.12282v1)|null|
@@ -4490,7 +4490,7 @@ layout: default
 |**2024-06-15**|**Federated Neural Radiance Field for Distributed Intelligence**|Yintian Zhang et.al.|[2406.10474v1](http://arxiv.org/abs/2406.10474v1)|null|
 |**2024-06-14**|**Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections**|Jiacong Xu et.al.|[2406.10373v1](http://arxiv.org/abs/2406.10373v1)|null|
 |**2024-06-14**|**L4GM: Large 4D Gaussian Reconstruction Model**|Jiawei Ren et.al.|[2406.10324v1](http://arxiv.org/abs/2406.10324v1)|null|
-|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219v1](http://arxiv.org/abs/2406.10219v1)|null|
+|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219v1](http://arxiv.org/abs/2406.10219v1)|**[link](https://github.com/j-alex-hanson/gaussian-splatting-pup)**|
 |**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111v1](http://arxiv.org/abs/2406.10111v1)|null|
 |**2024-06-14**|**D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video**|Moritz Kappel et.al.|[2406.10078v1](http://arxiv.org/abs/2406.10078v1)|null|
 
