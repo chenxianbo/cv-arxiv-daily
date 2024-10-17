@@ -624,6 +624,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**Gravity-aligned Rotation Averaging with Circular Regression**|Linfei Pan et.al.|[2410.12763v1](http://arxiv.org/abs/2410.12763v1)|null|
+|**2024-10-15**|**SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection**|Yizhe Liu et.al.|[2410.12080v1](http://arxiv.org/abs/2410.12080v1)|null|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505v1](http://arxiv.org/abs/2410.11505v1)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533v1](http://arxiv.org/abs/2410.09533v1)|null|
 |**2024-10-09**|**Surgical Depth Anything: Depth Estimation for Surgical Scenes using Foundation Models**|Ange Lou et.al.|[2410.07434v1](http://arxiv.org/abs/2410.07434v1)|null|
@@ -871,6 +873,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**Development of Image Collection Method Using YOLO and Siamese Network**|Chan Young Shin et.al.|[2410.12561v1](http://arxiv.org/abs/2410.12561v1)|null|
+|**2024-10-16**|**LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment**|Juelin Zhu et.al.|[2410.12269v1](http://arxiv.org/abs/2410.12269v1)|null|
+|**2024-10-16**|**Leveraging Spatial Attention and Edge Context for Optimized Feature Selection in Visual Localization**|Nanda Febri Istighfarin et.al.|[2410.12240v1](http://arxiv.org/abs/2410.12240v1)|null|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505v1](http://arxiv.org/abs/2410.11505v1)|null|
 |**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187v1](http://arxiv.org/abs/2410.11187v1)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533v1](http://arxiv.org/abs/2410.09533v1)|null|
@@ -1785,6 +1790,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742v1](http://arxiv.org/abs/2410.12742v1)|null|
+|**2024-10-16**|**RAFA-Net: Region Attention Network For Food Items And Agricultural Stress Recognition**|Asish Bera et.al.|[2410.12718v1](http://arxiv.org/abs/2410.12718v1)|null|
+|**2024-10-01**|**A Robust Multisource Remote Sensing Image Matching Method Utilizing Attention and Feature Enhancement Against Noise Interference**|Yuan Li et.al.|[2410.11848v1](http://arxiv.org/abs/2410.11848v1)|null|
 |**2024-10-11**|**Facial Chick Sexing: An Automated Chick Sexing System From Chick Facial Image**|Marta Veganzones Rodriguez et.al.|[2410.09155v1](http://arxiv.org/abs/2410.09155v1)|null|
 |**2024-10-08**|**Unsupervised Model Diagnosis**|Yinong Oliver Wang et.al.|[2410.06243v1](http://arxiv.org/abs/2410.06243v1)|null|
 |**2024-10-08**|**Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**|Xueyang Kang et.al.|[2410.05729v1](http://arxiv.org/abs/2410.05729v1)|**[link](https://github.com/alexandor91/se3-equi-graph-registration)**|
@@ -2038,6 +2046,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-01**|**A Robust Multisource Remote Sensing Image Matching Method Utilizing Attention and Feature Enhancement Against Noise Interference**|Yuan Li et.al.|[2410.11848v1](http://arxiv.org/abs/2410.11848v1)|null|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505v1](http://arxiv.org/abs/2410.11505v1)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533v1](http://arxiv.org/abs/2410.09533v1)|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673v1](http://arxiv.org/abs/2409.18673v1)|null|
@@ -4273,6 +4282,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats**|Chen Ziwen et.al.|[2410.12781v1](http://arxiv.org/abs/2410.12781v1)|null|
+|**2024-10-16**|**Triplet: Triangle Patchlet for Mesh-Based Inverse Rendering and Scene Parameters Approximation**|Jiajie Yang et.al.|[2410.12414v1](http://arxiv.org/abs/2410.12414v1)|null|
+|**2024-10-16**|**GAN Based Top-Down View Synthesis in Reinforcement Learning Environments**|Usama Younus et.al.|[2410.12372v1](http://arxiv.org/abs/2410.12372v1)|null|
+|**2024-10-16**|**3D Gaussian Splatting in Robotics: A Survey**|Siting Zhu et.al.|[2410.12262v1](http://arxiv.org/abs/2410.12262v1)|null|
+|**2024-10-16**|**EG-HumanNeRF: Efficient Generalizable Human NeRF Utilizing Human Prior for Sparse View**|Zhaorong Wang et.al.|[2410.12242v1](http://arxiv.org/abs/2410.12242v1)|null|
+|**2024-10-15**|**SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection**|Yizhe Liu et.al.|[2410.12080v1](http://arxiv.org/abs/2410.12080v1)|null|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505v1](http://arxiv.org/abs/2410.11505v1)|null|
 |**2024-10-15**|**GS^3: Efficient Relighting with Triple Gaussian Splatting**|Zoubin Bi et.al.|[2410.11419v1](http://arxiv.org/abs/2410.11419v1)|**[link](https://github.com/gsrelight/gs-relight)**|
 |**2024-10-15**|**MCGS: Multiview Consistency Enhancement for Sparse-View 3D Gaussian Radiance Fields**|Yuru Xiao et.al.|[2410.11394v1](http://arxiv.org/abs/2410.11394v1)|null|
