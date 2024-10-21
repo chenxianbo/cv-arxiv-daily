@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Graph Optimality-Aware Stochastic LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li et.al.|[2410.14565v1](http://arxiv.org/abs/2410.14565v1)|null|
 |**2024-10-17**|**Hybrid bundle-adjusting 3D Gaussians for view consistent rendering with pose optimization**|Yanan Guo et.al.|[2410.13280v1](http://arxiv.org/abs/2410.13280v1)|**[link](https://github.com/bistu3dv/hybridba)**|
 |**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374v1](http://arxiv.org/abs/2410.09374v1)|**[link](https://github.com/nail-hnu/esvo2)**|
 |**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935v1](http://arxiv.org/abs/2410.08935v1)|**[link](https://github.com/hku-mars/Voxel-SLAM)**|
@@ -1791,6 +1792,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Okour Mohammad et.al.|[2410.14419v1](http://arxiv.org/abs/2410.14419v1)|null|
 |**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742v1](http://arxiv.org/abs/2410.12742v1)|null|
 |**2024-10-16**|**RAFA-Net: Region Attention Network For Food Items And Agricultural Stress Recognition**|Asish Bera et.al.|[2410.12718v1](http://arxiv.org/abs/2410.12718v1)|null|
 |**2024-10-01**|**A Robust Multisource Remote Sensing Image Matching Method Utilizing Attention and Feature Enhancement Against Noise Interference**|Yuan Li et.al.|[2410.11848v1](http://arxiv.org/abs/2410.11848v1)|null|
@@ -4283,6 +4285,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**|Juliette Marrie et.al.|[2410.14462v1](http://arxiv.org/abs/2410.14462v1)|null|
+|**2024-10-18**|**Neural Signed Distance Function Inference through Splatting 3D Gaussians Pulled on Zero-Level Set**|Wenyuan Zhang et.al.|[2410.14189v1](http://arxiv.org/abs/2410.14189v1)|null|
+|**2024-10-18**|**Learning autonomous driving from aerial imagery**|Varun Murali et.al.|[2410.14177v1](http://arxiv.org/abs/2410.14177v1)|null|
+|**2024-10-18**|**DaRePlane: Direction-aware Representations for Dynamic Scene Reconstruction**|Ange Lou et.al.|[2410.14169v1](http://arxiv.org/abs/2410.14169v1)|null|
 |**2024-10-17**|**DepthSplat: Connecting Gaussian Splatting and Depth**|Haofei Xu et.al.|[2410.13862v1](http://arxiv.org/abs/2410.13862v1)|**[link](https://github.com/cvg/depthsplat)**|
 |**2024-10-17**|**Differentiable Robot Rendering**|Ruoshi Liu et.al.|[2410.13851v1](http://arxiv.org/abs/2410.13851v1)|null|
 |**2024-10-17**|**MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes**|Xinjie Zhang et.al.|[2410.13613v1](http://arxiv.org/abs/2410.13613v1)|null|
