@@ -27,6 +27,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928v1](http://arxiv.org/abs/2411.03928v1)|null|
+|**2024-11-06**|**GS2Pose: Tow-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807v1](http://arxiv.org/abs/2411.03807v1)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
 |**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213v1](http://arxiv.org/abs/2410.22213v1)|null|
 |**2024-10-09**|**Very High-Resolution Bridge Deformation Monitoring Using UAV-based Photogrammetry**|Mehdi Maboudi et.al.|[2410.18984v1](http://arxiv.org/abs/2410.18984v1)|null|
@@ -4325,12 +4327,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**GS2Pose: Tow-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807v1](http://arxiv.org/abs/2411.03807v1)|null|
+|**2024-11-06**|**3DGS-CD: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement**|Ziqi Lu et.al.|[2411.03706v1](http://arxiv.org/abs/2411.03706v1)|null|
+|**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637v1](http://arxiv.org/abs/2411.03637v1)|**[link](https://github.com/prstrive/scgaussian)**|
+|**2024-11-05**|**Object and Contact Point Tracking in Demonstrations Using 3D Gaussian Splatting**|Michael Büttner et.al.|[2411.03555v1](http://arxiv.org/abs/2411.03555v1)|null|
 |**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086v1](http://arxiv.org/abs/2411.03086v1)|null|
 |**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao et.al.|[2411.02703v1](http://arxiv.org/abs/2411.02703v1)|null|
 |**2024-11-04**|**Modeling Uncertainty in 3D Gaussian Splatting through Continuous Semantic Splatting**|Joey Wilson et.al.|[2411.02547v1](http://arxiv.org/abs/2411.02547v1)|null|
 |**2024-11-04**|**SplatOverflow: Asynchronous Hardware Troubleshooting**|Amritansh Kwatra et.al.|[2411.02332v1](http://arxiv.org/abs/2411.02332v1)|null|
 |**2024-11-05**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229v2](http://arxiv.org/abs/2411.02229v2)|null|
-|**2024-11-04**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853v1](http://arxiv.org/abs/2411.01853v1)|null|
+|**2024-11-06**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853v2](http://arxiv.org/abs/2411.01853v2)|null|
 |**2024-11-03**|**InstantGeoAvatar: Effective Geometry and Appearance Modeling of Animatable Avatars from Monocular Video**|Alvaro Budria et.al.|[2411.01512v1](http://arxiv.org/abs/2411.01512v1)|**[link](https://github.com/alvaro-budria/InstantGeoAvatar)**|
 |**2024-11-02**|**Real-Time Spatio-Temporal Reconstruction of Dynamic Endoscopic Scenes with 4D Gaussian Splatting**|Fengze Li et.al.|[2411.01218v1](http://arxiv.org/abs/2411.01218v1)|null|
 |**2024-11-02**|**AquaFuse: Waterbody Fusion for Physics Guided View Synthesis of Underwater Scenes**|Md Abu Bakr Siddique et.al.|[2411.01119v1](http://arxiv.org/abs/2411.01119v1)|null|
