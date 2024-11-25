@@ -918,9 +918,9 @@ layout: default
 |**2024-11-01**|**Identifying Implicit Social Biases in Vision-Language Models**|Kimia Hamidieh et.al.|[2411.00997v1](http://arxiv.org/abs/2411.00997v1)|null|
 |**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114v1](http://arxiv.org/abs/2410.24114v1)|**[link](https://github.com/multimodal-interpretability/nnn)**|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736v1](http://arxiv.org/abs/2410.23736v1)|null|
-|**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107v1](http://arxiv.org/abs/2410.23107v1)|null|
+|**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107v1](http://arxiv.org/abs/2410.23107v1)|**[link](https://github.com/tawald/semantic_rsm)**|
 |**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943v1](http://arxiv.org/abs/2410.21943v1)|**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**|
-|**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615v1](http://arxiv.org/abs/2410.21615v1)|null|
+|**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615v1](http://arxiv.org/abs/2410.21615v1)|**[link](https://github.com/ai4ce/NYC-Event-VPR)**|
 |**2024-10-25**|**Context-Based Visual-Language Place Recognition**|Soojin Woo et.al.|[2410.19341v1](http://arxiv.org/abs/2410.19341v1)|**[link](https://github.com/woo-soojin/context-based-vlpr)**|
 |**2024-10-24**|**ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval**|Zijia Zhao et.al.|[2410.18715v1](http://arxiv.org/abs/2410.18715v1)|**[link](https://github.com/joez17/chatsearch)**|
 |**2024-10-25**|**On Model-Free Re-ranking for Visual Place Recognition with Deep Learned Local Features**|Tomáš Pivoňka et.al.|[2410.18573v2](http://arxiv.org/abs/2410.18573v2)|null|
@@ -2195,7 +2195,7 @@ layout: default
 |**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang et.al.|[2401.02582v1](http://arxiv.org/abs/2401.02582v1)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720v1](http://arxiv.org/abs/2401.01720v1)|null|
 |**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li et.al.|[2401.01574v1](http://arxiv.org/abs/2401.01574v1)|null|
-|**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363v1](http://arxiv.org/abs/2312.15363v1)|null|
+|**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363v1](http://arxiv.org/abs/2312.15363v1)|**[link](https://github.com/tavisshore/BEV-CV)**|
 |**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733v1](http://arxiv.org/abs/2312.14733v1)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
 |**2024-01-05**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983v2](http://arxiv.org/abs/2312.10983v2)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563v1](http://arxiv.org/abs/2312.04563v1)|null|
@@ -2939,7 +2939,7 @@ layout: default
 |**2023-09-20**|**GenLayNeRF: Generalizable Layered Representations with 3D Model Alignment for Multi-Human View Synthesis**|Youssef Abdelkareem et.al.|[2309.11627v1](http://arxiv.org/abs/2309.11627v1)|null|
 |**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525v1](http://arxiv.org/abs/2309.11525v1)|null|
 |**2023-09-21**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009v2](http://arxiv.org/abs/2309.11009v2)|null|
-|**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987v1](http://arxiv.org/abs/2309.10987v1)|null|
+|**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987v1](http://arxiv.org/abs/2309.10987v1)|**[link](https://github.com/Ikarosy/SpikingNeRF-of-CASIA)**|
 |**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684v1](http://arxiv.org/abs/2309.10684v1)|null|
 |**2023-09-19**|**Steganography for Neural Radiance Fields by Backdooring**|Weina Dong et.al.|[2309.10503v1](http://arxiv.org/abs/2309.10503v1)|null|
 |**2023-09-18**|**Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**|Rong Liu et.al.|[2309.10011v1](http://arxiv.org/abs/2309.10011v1)|null|
@@ -3685,7 +3685,7 @@ layout: default
 |**2024-03-17**|**From Pixels to Predictions: Spectrogram and Vision Transformer for Better Time Series Forecasting**|Zhen Zeng et.al.|[2403.11047v1](http://arxiv.org/abs/2403.11047v1)|null|
 |**2024-03-16**|**EfficientMorph: Parameter-Efficient Transformer-Based Architecture for 3D Image Registration**|Abu Zahid Bin Aziz et.al.|[2403.11026v1](http://arxiv.org/abs/2403.11026v1)|null|
 |**2024-03-15**|**On the low-shot transferability of [V]-Mamba**|Diganta Misra et.al.|[2403.10696v1](http://arxiv.org/abs/2403.10696v1)|null|
-|**2024-03-15**|**InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning**|Zhe Huang et.al.|[2403.10658v1](http://arxiv.org/abs/2403.10658v1)|null|
+|**2024-03-15**|**InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning**|Zhe Huang et.al.|[2403.10658v1](http://arxiv.org/abs/2403.10658v1)|**[link](https://github.com/Shawey94/ICML2024-InterLUDE)**|
 |**2024-03-15**|**Process-and-Forward: Deep Joint Source-Channel Coding Over Cooperative Relay Networks**|Chenghong Bian et.al.|[2403.10613v1](http://arxiv.org/abs/2403.10613v1)|null|
 |**2024-03-15**|**Approximate Nullspace Augmented Finetuning for Robust Vision Transformers**|Haoyang Liu et.al.|[2403.10476v1](http://arxiv.org/abs/2403.10476v1)|null|
 |**2024-03-15**|**Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification**|Pingping Zhang et.al.|[2403.10254v1](http://arxiv.org/abs/2403.10254v1)|**[link](https://github.com/924973292/editor)**|
@@ -4228,7 +4228,7 @@ layout: default
 |**2023-09-19**|**Interpret Vision Transformers as ConvNets with Dynamic Convolutions**|Chong Zhou et.al.|[2309.10713v1](http://arxiv.org/abs/2309.10713v1)|null|
 |**2023-09-19**|**Latent Space Energy-based Model for Fine-grained Open Set Recognition**|Wentao Bao et.al.|[2309.10711v1](http://arxiv.org/abs/2309.10711v1)|null|
 |**2023-09-19**|**Self-Supervised Super-Resolution Approach for Isotropic Reconstruction of 3D Electron Microscopy Images from Anisotropic Acquisition**|Mohammad Khateri et.al.|[2309.10646v1](http://arxiv.org/abs/2309.10646v1)|null|
-|**2023-09-19**|**Exploring the Influence of Information Entropy Change in Learning Systems**|Xiaowei Yu et.al.|[2309.10625v1](http://arxiv.org/abs/2309.10625v1)|null|
+|**2023-09-19**|**Exploring the Influence of Information Entropy Change in Learning Systems**|Xiaowei Yu et.al.|[2309.10625v1](http://arxiv.org/abs/2309.10625v1)|**[link](https://github.com/Shawey94/NoisyNN)**|
 |**2023-09-19**|**Enhancing quantum state tomography via resource-efficient attention-based neural networks**|Adriano Macarone Palmieri et.al.|[2309.10616v1](http://arxiv.org/abs/2309.10616v1)|**[link](https://github.com/AdriQD/attentionQST)**|
 |**2023-09-19**|**LineMarkNet: Line Landmark Detection for Valet Parking**|Zizhang Wu et.al.|[2309.10475v1](http://arxiv.org/abs/2309.10475v1)|null|
 |**2023-09-18**|**TransientViT: A novel CNN - Vision Transformer hybrid real/bogus transient classifier for the Kilodegree Automatic Transient Survey**|Zhuoyang Chen et.al.|[2309.09937v1](http://arxiv.org/abs/2309.09937v1)|**[link](https://github.com/timedevblocker/transientvit)**|
@@ -4377,10 +4377,10 @@ layout: default
 |**2024-11-18**|**GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views**|Boyao Zhou et.al.|[2411.11363v1](http://arxiv.org/abs/2411.11363v1)|null|
 |**2024-11-17**|**VeGaS: Video Gaussian Splatting**|Weronika Smolak-Dyżewska et.al.|[2411.11024v1](http://arxiv.org/abs/2411.11024v1)|**[link](https://github.com/gmum/vegas)**|
 |**2024-11-17**|**Direct and Explicit 3D Generation from a Single Image**|Haoyu Wu et.al.|[2411.10947v1](http://arxiv.org/abs/2411.10947v1)|null|
-|**2024-11-16**|**DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment**|Mangyu Kong et.al.|[2411.10722v1](http://arxiv.org/abs/2411.10722v1)|null|
+|**2024-11-16**|**DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment**|Mangyu Kong et.al.|[2411.10722v1](http://arxiv.org/abs/2411.10722v1)|**[link](https://github.com/kmk97/DGS-SLAM)**|
 |**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546v1](http://arxiv.org/abs/2411.10546v1)|null|
 |**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504v1](http://arxiv.org/abs/2411.10504v1)|**[link](https://github.com/chenkang455/usp-gaussian)**|
-|**2024-11-15**|**Efficient Density Control for 3D Gaussian Splatting**|Xiaobin Deng et.al.|[2411.10133v1](http://arxiv.org/abs/2411.10133v1)|null|
+|**2024-11-15**|**Efficient Density Control for 3D Gaussian Splatting**|Xiaobin Deng et.al.|[2411.10133v1](http://arxiv.org/abs/2411.10133v1)|**[link](https://github.com/XiaoBin2001/EDC)**|
 |**2024-11-15**|**GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization**|Yanhao Sun et.al.|[2411.10033v1](http://arxiv.org/abs/2411.10033v1)|null|
 |**2024-11-15**|**GGAvatar: Reconstructing Garment-Separated 3D Gaussian Splatting Avatars from Monocular Video**|Jingxuan Chen et.al.|[2411.09952v1](http://arxiv.org/abs/2411.09952v1)|**[link](https://github.com/j-x-chen/ggavatar)**|
 |**2024-11-14**|**Adversarial Attacks Using Differentiable Rendering: A Survey**|Matthew Hull et.al.|[2411.09749v1](http://arxiv.org/abs/2411.09749v1)|null|
@@ -4773,7 +4773,7 @@ layout: default
 |**2024-07-12**|**StyleSplat: 3D Object Style Transfer with Gaussian Splatting**|Sahil Jain et.al.|[2407.09473v1](http://arxiv.org/abs/2407.09473v1)|null|
 |**2024-07-12**|**Radiance Fields from Photons**|Sacha Jungerman et.al.|[2407.09386v1](http://arxiv.org/abs/2407.09386v1)|null|
 |**2024-07-12**|**Learning High-Frequency Functions Made Easy with Sinusoidal Positional Encoding**|Chuanhao Sun et.al.|[2407.09370v1](http://arxiv.org/abs/2407.09370v1)|**[link](https://github.com/zhyuan11/SPE)**|
-|**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447v1](http://arxiv.org/abs/2407.08447v1)|null|
+|**2024-07-11**|**WildGaussians: 3D Gaussian Splatting in the Wild**|Jonas Kulhanek et.al.|[2407.08447v1](http://arxiv.org/abs/2407.08447v1)|**[link](https://github.com/jkulhanek/wild-gaussians)**|
 |**2024-07-11**|**WayveScenes101: A Dataset and Benchmark for Novel View Synthesis in Autonomous Driving**|Jannik Zürn et.al.|[2407.08280v1](http://arxiv.org/abs/2407.08280v1)|**[link](https://github.com/wayveai/wayve_scenes)**|
 |**2024-07-11**|**GAURA: Generalizable Approach for Unified Restoration and Rendering of Arbitrary Views**|Vinayak Gupta et.al.|[2407.08221v1](http://arxiv.org/abs/2407.08221v1)|**[link](https://github.com/Vinayak-VG/GAURA)**|
 |**2024-07-11**|**Survey on Fundamental Deep Learning 3D Reconstruction Techniques**|Yonge Bai et.al.|[2407.08137v1](http://arxiv.org/abs/2407.08137v1)|null|
