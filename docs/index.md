@@ -646,6 +646,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**RoMo: Robust Motion Segmentation Improves Structure from Motion**|Lily Goli et.al.|[2411.18650v1](http://arxiv.org/abs/2411.18650v1)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779v1](http://arxiv.org/abs/2411.15779v1)|null|
 |**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291v1](http://arxiv.org/abs/2411.13291v1)|null|
 |**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592v1](http://arxiv.org/abs/2411.12592v1)|**[link](https://github.com/snldmt/SPARS3R)**|
@@ -907,6 +908,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**A Visual-inertial Localization Algorithm using Opportunistic Visual Beacons and Dead-Reckoning for GNSS-Denied Large-scale Applications**|Liqiang Zhang Ye Tian Dongyan Wei et.al.|[2411.19845v1](http://arxiv.org/abs/2411.19845v1)|null|
+|**2024-11-27**|**Optimizing Image Retrieval with an Extended b-Metric Space**|Abdelkader Belhenniche et.al.|[2411.18800v1](http://arxiv.org/abs/2411.18800v1)|null|
 |**2024-11-26**|**Learning Visual Hierarchies with Hyperbolic Embeddings**|Ziwei Wang et.al.|[2411.17490v1](http://arxiv.org/abs/2411.17490v1)|null|
 |**2024-11-24**|**Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy**|You Li et.al.|[2411.16752v1](http://arxiv.org/abs/2411.16752v1)|null|
 |**2024-11-24**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749v1](http://arxiv.org/abs/2411.16749v1)|null|
@@ -4363,6 +4366,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**GuardSplat: Robust and Efficient Watermarking for 3D Gaussian Splatting**|Zixuan Chen et.al.|[2411.19895v1](http://arxiv.org/abs/2411.19895v1)|**[link](https://github.com/narcissusex/guardsplat)**|
+|**2024-11-29**|**DeSplat: Decomposed Gaussian Splatting for Distractor-Free Rendering**|Yihao Wang et.al.|[2411.19756v1](http://arxiv.org/abs/2411.19756v1)|null|
+|**2024-11-29**|**TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting**|Bojun Xiong et.al.|[2411.19654v1](http://arxiv.org/abs/2411.19654v1)|null|
+|**2024-11-29**|**Tortho-Gaussian: Splatting True Digital Orthophoto Maps**|Xin Wang et.al.|[2411.19594v1](http://arxiv.org/abs/2411.19594v1)|null|
+|**2024-11-29**|**Gaussian Splashing: Direct Volumetric Rendering Underwater**|Nir Mualem et.al.|[2411.19588v1](http://arxiv.org/abs/2411.19588v1)|null|
+|**2024-11-29**|**Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding**|Wenbo Zhang et.al.|[2411.19551v1](http://arxiv.org/abs/2411.19551v1)|null|
+|**2024-11-29**|**GausSurf: Geometry-Guided 3D Gaussian Splatting for Surface Reconstruction**|Jiepeng Wang et.al.|[2411.19454v1](http://arxiv.org/abs/2411.19454v1)|null|
+|**2024-11-29**|**RF-3DGS: Wireless Channel Modeling with Radio Radiance Field and 3D Gaussian Splatting**|Lihao Zhang et.al.|[2411.19420v1](http://arxiv.org/abs/2411.19420v1)|null|
+|**2024-11-28**|**SADG: Segment Any Dynamic Gaussian Without Object Trackers**|Yun-Jin Li et.al.|[2411.19290v1](http://arxiv.org/abs/2411.19290v1)|**[link](https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian)**|
+|**2024-11-28**|**AGS-Mesh: Adaptive Gaussian Splatting and Meshing with Geometric Priors for Indoor Room Reconstruction Using Smartphones**|Xuqian Ren et.al.|[2411.19271v1](http://arxiv.org/abs/2411.19271v1)|null|
 |**2024-11-27**|**Textured Gaussians for Enhanced 3D Scene Appearance Modeling**|Brian Chao et.al.|[2411.18625v1](http://arxiv.org/abs/2411.18625v1)|null|
 |**2024-11-27**|**CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models**|Rundi Wu et.al.|[2411.18613v1](http://arxiv.org/abs/2411.18613v1)|null|
 |**2024-11-27**|**PhyCAGE: Physically Plausible Compositional 3D Asset Generation from a Single Image**|Han Yan et.al.|[2411.18548v1](http://arxiv.org/abs/2411.18548v1)|null|
