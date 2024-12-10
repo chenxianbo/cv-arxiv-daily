@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-08**|**GBR: Generative Bundle Refinement for High-fidelity Gaussian Splatting and Meshing**|Jianing Zhang et.al.|[2412.05908v1](http://arxiv.org/abs/2412.05908v1)|null|
 |**2024-12-04**|**BIMCaP: BIM-based AI-supported LiDAR-Camera Pose Refinement**|Miguel Arturo Vega Torres et.al.|[2412.03434v1](http://arxiv.org/abs/2412.03434v1)|**[link](https://github.com/migvega/bimcap)**|
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146v1](http://arxiv.org/abs/2412.03146v1)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950v1](http://arxiv.org/abs/2412.02950v1)|null|
@@ -648,6 +649,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-08**|**Doppelgangers++: Improved Visual Disambiguation with Geometric 3D Features**|Yuanbo Xiangli et.al.|[2412.05826v1](http://arxiv.org/abs/2412.05826v1)|null|
 |**2024-12-06**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463v2](http://arxiv.org/abs/2412.04463v2)|null|
 |**2024-12-02**|**SfM-Free 3D Gaussian Splatting via Hierarchical Training**|Bo Ji et.al.|[2412.01553v1](http://arxiv.org/abs/2412.01553v1)|**[link](https://github.com/jibo27/3dgs_hierarchical_training)**|
 |**2024-12-02**|**MVImgNet2.0: A Larger-scale Dataset of Multi-view Images**|Xiaoguang Han et.al.|[2412.01430v1](http://arxiv.org/abs/2412.01430v1)|null|
@@ -914,6 +916,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488v1](http://arxiv.org/abs/2412.06488v1)|null|
+|**2024-12-09**|**A Hyperdimensional One Place Signature to Represent Them All: Stackable Descriptors For Visual Place Recognition**|Connor Malone et.al.|[2412.06153v1](http://arxiv.org/abs/2412.06153v1)|null|
+|**2024-12-07**|**Compositional Image Retrieval via Instruction-Aware Contrastive Learning**|Wenliang Zhong et.al.|[2412.05756v1](http://arxiv.org/abs/2412.05756v1)|null|
 |**2024-12-06**|**DAug: Diffusion-based Channel Augmentation for Radiology Image Retrieval and Classification**|Ying Jin et.al.|[2412.04828v1](http://arxiv.org/abs/2412.04828v1)|null|
 |**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512v1](http://arxiv.org/abs/2412.03512v1)|null|
 |**2024-12-04**|**Composed Image Retrieval for Training-Free Domain Conversion**|Nikos Efthymiadis et.al.|[2412.03297v1](http://arxiv.org/abs/2412.03297v1)|**[link](https://github.com/nikosefth/freedom)**|
@@ -1875,6 +1880,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488v1](http://arxiv.org/abs/2412.06488v1)|null|
+|**2024-12-09**|**ZeroKey: Point-Level Reasoning and Zero-Shot 3D Keypoint Detection from Large Language Models**|Bingchen Gong et.al.|[2412.06292v1](http://arxiv.org/abs/2412.06292v1)|null|
+|**2024-12-07**|**Securing Social Media Against Deepfakes using Identity, Behavioral, and Geometric Signatures**|Muhammad Umar Farooq et.al.|[2412.05487v1](http://arxiv.org/abs/2412.05487v1)|null|
 |**2024-12-04**|**Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything**|Yongkyu Lee et.al.|[2412.03472v1](http://arxiv.org/abs/2412.03472v1)|null|
 |**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422v1](http://arxiv.org/abs/2412.01422v1)|null|
 |**2024-11-23**|**OCDet: Object Center Detection via Bounding Box-Aware Heatmap Prediction on Edge Devices with NPUs**|Chen Xin et.al.|[2411.15653v1](http://arxiv.org/abs/2411.15653v1)|**[link](https://github.com/chen-xin-94/ocdet)**|
@@ -4387,6 +4395,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**MAtCha Gaussians: Atlas of Charts for High-Quality Geometry and Photorealism From Sparse Views**|Antoine Guédon et.al.|[2412.06767v1](http://arxiv.org/abs/2412.06767v1)|null|
+|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424v1](http://arxiv.org/abs/2412.06424v1)|null|
+|**2024-12-09**|**4D Gaussian Splatting with Scale-aware Residual Field and Adaptive Optimization for Real-time Rendering of Temporally Complex Dynamic Scenes**|Jinbo Yan et.al.|[2412.06299v1](http://arxiv.org/abs/2412.06299v1)|null|
+|**2024-12-09**|**Advancing Extended Reality with 3D Gaussian Splatting: Innovations and Prospects**|Shi Qiu et.al.|[2412.06257v1](http://arxiv.org/abs/2412.06257v1)|null|
+|**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250v1](http://arxiv.org/abs/2412.06250v1)|**[link](https://github.com/thucz/splatter360)**|
+|**2024-12-09**|**Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction**|Seungtae Nam et.al.|[2412.06234v1](http://arxiv.org/abs/2412.06234v1)|null|
+|**2024-12-08**|**Efficient Semantic Splatting for Remote Sensing Multi-view Segmentation**|Zipeng Qi et.al.|[2412.05969v1](http://arxiv.org/abs/2412.05969v1)|null|
+|**2024-12-08**|**GBR: Generative Bundle Refinement for High-fidelity Gaussian Splatting and Meshing**|Jianing Zhang et.al.|[2412.05908v1](http://arxiv.org/abs/2412.05908v1)|null|
+|**2024-12-07**|**Temporally Compressed 3D Gaussian Splatting for Dynamic Scenes**|Saqib Javed et.al.|[2412.05700v1](http://arxiv.org/abs/2412.05700v1)|null|
+|**2024-12-07**|**WATER-GS: Toward Copyright Protection for 3D Gaussian Splatting via Universal Watermarking**|Yuqi Tan et.al.|[2412.05695v1](http://arxiv.org/abs/2412.05695v1)|null|
 |**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256v1](http://arxiv.org/abs/2412.05256v1)|**[link](https://github.com/ai4ce/EUVS-Benchmark)**|
 |**2024-12-06**|**MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**|Peng Chen et.al.|[2412.04955v1](http://arxiv.org/abs/2412.04955v1)|**[link](https://github.com/chenvoid/mga)**|
 |**2024-12-06**|**Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction**|Jixuan Fan et.al.|[2412.04887v1](http://arxiv.org/abs/2412.04887v1)|**[link](https://github.com/Jixuan-Fan/Momentum-GS)**|
