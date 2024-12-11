@@ -653,6 +653,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Deep Non-rigid Structure-from-Motion Revisited: Canonicalization and Sequence Modeling**|Hui Deng et.al.|[2412.07230v1](http://arxiv.org/abs/2412.07230v1)|null|
 |**2024-12-08**|**Doppelgangers++: Improved Visual Disambiguation with Geometric 3D Features**|Yuanbo Xiangli et.al.|[2412.05826v1](http://arxiv.org/abs/2412.05826v1)|null|
 |**2024-12-06**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463v2](http://arxiv.org/abs/2412.04463v2)|null|
 |**2024-12-02**|**SfM-Free 3D Gaussian Splatting via Hierarchical Training**|Bo Ji et.al.|[2412.01553v1](http://arxiv.org/abs/2412.01553v1)|**[link](https://github.com/jibo27/3dgs_hierarchical_training)**|
@@ -920,6 +921,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**On Motion Blur and Deblurring in Visual Place Recognition**|Timur Ismagilov et.al.|[2412.07751v1](http://arxiv.org/abs/2412.07751v1)|null|
+|**2024-12-10**|**Image Retrieval with Intra-Sweep Representation Learning for Neck Ultrasound Scanning Guidance**|Wanwen Chen et.al.|[2412.07741v1](http://arxiv.org/abs/2412.07741v1)|null|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488v1](http://arxiv.org/abs/2412.06488v1)|null|
 |**2024-12-09**|**A Hyperdimensional One Place Signature to Represent Them All: Stackable Descriptors For Visual Place Recognition**|Connor Malone et.al.|[2412.06153v1](http://arxiv.org/abs/2412.06153v1)|null|
 |**2024-12-07**|**Compositional Image Retrieval via Instruction-Aware Contrastive Learning**|Wenliang Zhong et.al.|[2412.05756v1](http://arxiv.org/abs/2412.05756v1)|null|
@@ -4399,6 +4402,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**From an Image to a Scene: Learning to Imagine the World from a Million 360 Videos**|Matthew Wallingford et.al.|[2412.07770v1](http://arxiv.org/abs/2412.07770v1)|null|
+|**2024-12-10**|**GASP: Gaussian Avatars with Synthetic Priors**|Jack Saunders et.al.|[2412.07739v1](http://arxiv.org/abs/2412.07739v1)|null|
+|**2024-12-10**|**SimVS: Simulating World Inconsistencies for Robust View Synthesis**|Alex Trevithick et.al.|[2412.07696v1](http://arxiv.org/abs/2412.07696v1)|null|
+|**2024-12-10**|**Proc-GS: Procedural Building Generation for City Assembly with 3D Gaussians**|Yixuan Li et.al.|[2412.07660v1](http://arxiv.org/abs/2412.07660v1)|null|
+|**2024-12-10**|**Faster and Better 3D Splatting via Group Training**|Chengbo Wang et.al.|[2412.07608v1](http://arxiv.org/abs/2412.07608v1)|null|
+|**2024-12-10**|**ResGS: Residual Densification of 3D Gaussian for Efficient Detail Recovery**|Yanzhe Lyu et.al.|[2412.07494v1](http://arxiv.org/abs/2412.07494v1)|null|
+|**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293v1](http://arxiv.org/abs/2412.07293v1)|null|
+|**2024-12-09**|**MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds**|Zhenggang Tang et.al.|[2412.06974v1](http://arxiv.org/abs/2412.06974v1)|null|
 |**2024-12-09**|**MAtCha Gaussians: Atlas of Charts for High-Quality Geometry and Photorealism From Sparse Views**|Antoine Guédon et.al.|[2412.06767v1](http://arxiv.org/abs/2412.06767v1)|null|
 |**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424v1](http://arxiv.org/abs/2412.06424v1)|null|
 |**2024-12-09**|**4D Gaussian Splatting with Scale-aware Residual Field and Adaptive Optimization for Real-time Rendering of Temporally Complex Dynamic Scenes**|Jinbo Yan et.al.|[2412.06299v1](http://arxiv.org/abs/2412.06299v1)|null|
