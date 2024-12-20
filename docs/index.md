@@ -27,11 +27,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-18**|**Event-based Photometric Bundle Adjustment**|Shuang Guo et.al.|[2412.14111v1](http://arxiv.org/abs/2412.14111v1)|null|
+|**2024-12-18**|**Event-based Photometric Bundle Adjustment**|Shuang Guo et.al.|[2412.14111v1](http://arxiv.org/abs/2412.14111v1)|**[link](https://github.com/tub-rip/epba)**|
 |**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639v1](http://arxiv.org/abs/2412.13639v1)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
 |**2024-12-17**|**NFL-BA: Improving Endoscopic SLAM with Near-Field Light Bundle Adjustment**|Andrea Dunn Beltran et.al.|[2412.13176v1](http://arxiv.org/abs/2412.13176v1)|null|
 |**2024-12-16**|**Efficient LiDAR Bundle Adjustment for Multi-Scan Alignment Utilizing Continuous-Time Trajectories**|Louis Wiesmann et.al.|[2412.11760v1](http://arxiv.org/abs/2412.11760v1)|null|
-|**2024-12-16**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530v1](http://arxiv.org/abs/2412.11530v1)|null|
+|**2024-12-19**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530v2](http://arxiv.org/abs/2412.11530v2)|null|
 |**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209v1](http://arxiv.org/abs/2412.09209v1)|**[link](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-08**|**GBR: Generative Bundle Refinement for High-fidelity Gaussian Splatting and Meshing**|Jianing Zhang et.al.|[2412.05908v1](http://arxiv.org/abs/2412.05908v1)|null|
 |**2024-12-04**|**BIMCaP: BIM-based AI-supported LiDAR-Camera Pose Refinement**|Miguel Arturo Vega Torres et.al.|[2412.03434v1](http://arxiv.org/abs/2412.03434v1)|**[link](https://github.com/migvega/bimcap)**|
@@ -929,6 +929,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**|Junjie Zhou et.al.|[2412.14475v1](http://arxiv.org/abs/2412.14475v1)|null|
 |**2024-12-18**|**Adversarial Hubness in Multi-Modal Retrieval**|Tingwei Zhang et.al.|[2412.14113v1](http://arxiv.org/abs/2412.14113v1)|**[link](https://github.com/tingwei-zhang/adv_hub)**|
 |**2024-12-18**|**Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**|Giacomo Pacini et.al.|[2412.13834v1](http://arxiv.org/abs/2412.13834v1)|null|
 |**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452v1](http://arxiv.org/abs/2412.13452v1)|null|
@@ -1906,6 +1907,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Corn Ear Detection and Orientation Estimation Using Deep Learning**|Nathan Sprague et.al.|[2412.14954v1](http://arxiv.org/abs/2412.14954v1)|null|
 |**2024-12-12**|**Agtech Framework for Cranberry-Ripening Analysis Using Vision Foundation Models**|Faith Johnson et.al.|[2412.09739v1](http://arxiv.org/abs/2412.09739v1)|null|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488v1](http://arxiv.org/abs/2412.06488v1)|**[link](https://github.com/sair-lab/SeqACE)**|
 |**2024-12-09**|**ZeroKey: Point-Level Reasoning and Zero-Shot 3D Keypoint Detection from Large Language Models**|Bingchen Gong et.al.|[2412.06292v1](http://arxiv.org/abs/2412.06292v1)|null|
@@ -4423,6 +4425,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**EnvGS: Modeling View-Dependent Appearance with Environment Gaussian**|Tao Xie et.al.|[2412.15215v1](http://arxiv.org/abs/2412.15215v1)|null|
+|**2024-12-19**|**SqueezeMe: Efficient Gaussian Avatars for VR**|Shunsuke Saito et.al.|[2412.15171v1](http://arxiv.org/abs/2412.15171v1)|null|
+|**2024-12-19**|**Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination**|Leonardo Barcellona et.al.|[2412.14957v1](http://arxiv.org/abs/2412.14957v1)|null|
+|**2024-12-19**|**GURecon: Learning Detailed 3D Geometric Uncertainties for Neural Surface Reconstruction**|Zesong Yang et.al.|[2412.14939v1](http://arxiv.org/abs/2412.14939v1)|null|
+|**2024-12-19**|**GSRender: Deduplicated Occupancy Prediction via Weakly Supervised 3D Gaussian Splatting**|Qianpu Sun et.al.|[2412.14579v1](http://arxiv.org/abs/2412.14579v1)|null|
+|**2024-12-19**|**Improving Geometry in Sparse-View 3DGS via Reprojection-based DoF Separation**|Yongsung Kim et.al.|[2412.14568v1](http://arxiv.org/abs/2412.14568v1)|null|
+|**2024-12-19**|**Bright-NeRF:Brightening Neural Radiance Field with Color Restoration from Low-light Raw Images**|Min Wang et.al.|[2412.14547v1](http://arxiv.org/abs/2412.14547v1)|null|
+|**2024-12-19**|**Drive-1-to-3: Enriching Diffusion Priors for Novel View Synthesis of Real Vehicles**|Chuang Lin et.al.|[2412.14494v1](http://arxiv.org/abs/2412.14494v1)|null|
+|**2024-12-19**|**LiftRefine: Progressively Refined View Synthesis from 3D Lifting with Volume-Triplane Representations**|Tung Do et.al.|[2412.14464v1](http://arxiv.org/abs/2412.14464v1)|null|
 |**2024-12-18**|**Real-Time Position-Aware View Synthesis from Single-View Input**|Manu Gond et.al.|[2412.14005v1](http://arxiv.org/abs/2412.14005v1)|null|
 |**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983v1](http://arxiv.org/abs/2412.13983v1)|**[link](https://github.com/ucwxb/graphavatar)**|
 |**2024-12-18**|**GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting**|Yuning Peng et.al.|[2412.13654v1](http://arxiv.org/abs/2412.13654v1)|null|
