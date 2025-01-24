@@ -27,6 +27,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876v1](http://arxiv.org/abs/2501.13876v1)|null|
 |**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893v1](http://arxiv.org/abs/2501.11893v1)|null|
 |**2025-01-19**|**Tracking Mouse from Incomplete Body-Part Observations and Deep-Learned Deformable-Mouse Model Motion-Track Constraint for Behavior Analysis**|Olaf Hellwich et.al.|[2501.11030v1](http://arxiv.org/abs/2501.11030v1)|null|
 |**2025-01-15**|**SLC $^2$ -SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming et.al.|[2501.08880v1](http://arxiv.org/abs/2501.08880v1)|null|
@@ -4479,6 +4480,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**GoDe: Gaussians on Demand for Progressive Level of Detail and Scalable Compression**|Francesco Di Sario et.al.|[2501.13558v1](http://arxiv.org/abs/2501.13558v1)|null|
+|**2025-01-23**|**MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance**|Wooseok Song et.al.|[2501.13449v1](http://arxiv.org/abs/2501.13449v1)|null|
+|**2025-01-23**|**GeomGS: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization**|Jaewon Lee et.al.|[2501.13417v1](http://arxiv.org/abs/2501.13417v1)|null|
+|**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402v1](http://arxiv.org/abs/2501.13402v1)|null|
+|**2025-01-23**|**Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos**|Xianrui Luo et.al.|[2501.13335v1](http://arxiv.org/abs/2501.13335v1)|null|
 |**2025-01-22**|**Sketch and Patch: Efficient 3D Gaussian Representation for Man-Made Scenes**|Yuang Shi et.al.|[2501.13045v1](http://arxiv.org/abs/2501.13045v1)|null|
 |**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637v1](http://arxiv.org/abs/2501.12637v1)|null|
 |**2025-01-21**|**DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions**|Vishagar Arunan et.al.|[2501.12369v1](http://arxiv.org/abs/2501.12369v1)|null|
