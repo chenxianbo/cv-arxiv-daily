@@ -2727,7 +2727,7 @@
 |**2024-03-07**|**Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs**|Nikhil Mishra et.al.|[2403.04114v1](http://arxiv.org/abs/2403.04114v1)|**[link](https://github.com/nikhilmishra000/cov-nerf)**|
 |**2024-03-06**|**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**|Zi-Ting Chou et.al.|[2403.03608v1](http://arxiv.org/abs/2403.03608v1)|null|
 |**2024-03-05**|**A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**|Haofan Lu et.al.|[2403.03241v1](http://arxiv.org/abs/2403.03241v1)|null|
-|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751v1](http://arxiv.org/abs/2403.02751v1)|null|
+|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751v1](http://arxiv.org/abs/2403.02751v1)|**[link](https://github.com/chengine/splatnav)**|
 |**2024-03-04**|**DaReNeRF: Direction-aware Representation for Dynamic Scenes**|Ange Lou et.al.|[2403.02265v1](http://arxiv.org/abs/2403.02265v1)|null|
 |**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063v1](http://arxiv.org/abs/2403.02063v1)|null|
 |**2024-03-02**|**NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**|Linsheng Chen et.al.|[2403.01325v1](http://arxiv.org/abs/2403.01325v1)|**[link](https://github.com/freedomcls/nerf-vpt)**|
@@ -3676,7 +3676,7 @@
 |**2024-04-23**|**Other Tokens Matter: Exploring Global and Local Features of Vision Transformers for Object Re-Identification**|Yingquan Wang et.al.|[2404.14985v1](http://arxiv.org/abs/2404.14985v1)|null|
 |**2024-04-23**|**SGFormer: Spherical Geometry Transformer for 360 Depth Estimation**|Junsong Zhang et.al.|[2404.14979v1](http://arxiv.org/abs/2404.14979v1)|null|
 |**2024-04-23**|**ORBIT: Oak Ridge Base Foundation Model for Earth System Predictability**|Xiao Wang et.al.|[2404.14712v1](http://arxiv.org/abs/2404.14712v1)|null|
-|**2024-04-23**|**Progressive Token Length Scaling in Transformer Encoders for Efficient Universal Segmentation**|Abhishek Aich et.al.|[2404.14657v1](http://arxiv.org/abs/2404.14657v1)|null|
+|**2024-04-23**|**Progressive Token Length Scaling in Transformer Encoders for Efficient Universal Segmentation**|Abhishek Aich et.al.|[2404.14657v1](http://arxiv.org/abs/2404.14657v1)|**[link](https://github.com/abhishekaich27/proscale-pytorch)**|
 |**2024-04-22**|**Cross-Task Multi-Branch Vision Transformer for Facial Expression and Mask Wearing Classification**|Armando Zhu et.al.|[2404.14606v1](http://arxiv.org/abs/2404.14606v1)|null|
 |**2024-04-21**|**Object-Attribute Binding in Text-to-Image Generation: Evaluation and Control**|Maria Mihaela Trusca et.al.|[2404.13766v1](http://arxiv.org/abs/2404.13766v1)|null|
 |**2024-04-21**|**MathNet: A Data-Centric Approach for Printed Mathematical Expression Recognition**|Felix M. Schmitt-Koopmann et.al.|[2404.13667v1](http://arxiv.org/abs/2404.13667v1)|**[link](https://github.com/felix-schmitt/MathNet)**|
@@ -4292,7 +4292,7 @@
 |**2023-10-10**|**RetSeg: Retention-based Colorectal Polyps Segmentation Network**|Khaled ELKarazle et.al.|[2310.05446v2](http://arxiv.org/abs/2310.05446v2)|null|
 |**2023-10-09**|**Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers**|Shiyue Cao et.al.|[2310.05400v1](http://arxiv.org/abs/2310.05400v1)|null|
 |**2023-10-10**|**Hierarchical Side-Tuning for Vision Transformers**|Weifeng Lin et.al.|[2310.05393v2](http://arxiv.org/abs/2310.05393v2)|**[link](https://github.com/afeng-x/hst)**|
-|**2023-10-08**|**Low-Resolution Self-Attention for Semantic Segmentation**|Yu-Huan Wu et.al.|[2310.05026v1](http://arxiv.org/abs/2310.05026v1)|null|
+|**2023-10-08**|**Low-Resolution Self-Attention for Semantic Segmentation**|Yu-Huan Wu et.al.|[2310.05026v1](http://arxiv.org/abs/2310.05026v1)|**[link](https://github.com/yuhuan-wu/lrformer)**|
 |**2023-10-06**|**FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning**|Peiran Xu et.al.|[2310.04412v1](http://arxiv.org/abs/2310.04412v1)|**[link](https://github.com/ucsc-vlaa/fedconv)**|
 |**2023-10-06**|**TiC: Exploring Vision Transformer in Convolution**|Song Zhang et.al.|[2310.04134v1](http://arxiv.org/abs/2310.04134v1)|**[link](https://github.com/zs670980918/msa-conv)**|
 |**2023-10-06**|**How to Capture Higher-order Correlations? Generalizing Matrix Softmax Attention to Kronecker Computation**|Josh Alman et.al.|[2310.04064v1](http://arxiv.org/abs/2310.04064v1)|null|
@@ -4491,7 +4491,7 @@
 |**2025-01-19**|**RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering**|Chenlu Zhan et.al.|[2501.11102v1](http://arxiv.org/abs/2501.11102v1)|null|
 |**2025-01-18**|**Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting**|Jiaqi Lin et.al.|[2501.10788v1](http://arxiv.org/abs/2501.10788v1)|null|
 |**2025-01-20**|**GSTAR: Gaussian Surface Tracking and Reconstruction**|Chengwei Zheng et.al.|[2501.10283v2](http://arxiv.org/abs/2501.10283v2)|null|
-|**2025-01-16**|**CrossModalityDiffusion: Multi-Modal Novel View Synthesis with Unified Intermediate Representation**|Alex Berian et.al.|[2501.09838v1](http://arxiv.org/abs/2501.09838v1)|null|
+|**2025-01-16**|**CrossModalityDiffusion: Multi-Modal Novel View Synthesis with Unified Intermediate Representation**|Alex Berian et.al.|[2501.09838v1](http://arxiv.org/abs/2501.09838v1)|**[link](https://github.com/alexberian/crossmodalitydiffusion)**|
 |**2025-01-16**|**Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**|Shi Qiu et.al.|[2501.09302v1](http://arxiv.org/abs/2501.09302v1)|null|
 |**2025-01-15**|**CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**|Qi Ma et.al.|[2501.08982v1](http://arxiv.org/abs/2501.08982v1)|null|
 |**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672v1](http://arxiv.org/abs/2501.08672v1)|null|
@@ -4683,7 +4683,7 @@
 |**2024-11-29**|**Gaussian Splashing: Direct Volumetric Rendering Underwater**|Nir Mualem et.al.|[2411.19588v1](http://arxiv.org/abs/2411.19588v1)|null|
 |**2024-11-29**|**Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding**|Wenbo Zhang et.al.|[2411.19551v1](http://arxiv.org/abs/2411.19551v1)|null|
 |**2024-12-02**|**GausSurf: Geometry-Guided 3D Gaussian Splatting for Surface Reconstruction**|Jiepeng Wang et.al.|[2411.19454v2](http://arxiv.org/abs/2411.19454v2)|null|
-|**2024-11-29**|**RF-3DGS: Wireless Channel Modeling with Radio Radiance Field and 3D Gaussian Splatting**|Lihao Zhang et.al.|[2411.19420v1](http://arxiv.org/abs/2411.19420v1)|null|
+|**2024-11-29**|**RF-3DGS: Wireless Channel Modeling with Radio Radiance Field and 3D Gaussian Splatting**|Lihao Zhang et.al.|[2411.19420v1](http://arxiv.org/abs/2411.19420v1)|**[link](https://github.com/sunlab-uga/rf-3dgs)**|
 |**2024-11-28**|**SADG: Segment Any Dynamic Gaussian Without Object Trackers**|Yun-Jin Li et.al.|[2411.19290v1](http://arxiv.org/abs/2411.19290v1)|**[link](https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian)**|
 |**2024-11-28**|**AGS-Mesh: Adaptive Gaussian Splatting and Meshing with Geometric Priors for Indoor Room Reconstruction Using Smartphones**|Xuqian Ren et.al.|[2411.19271v1](http://arxiv.org/abs/2411.19271v1)|null|
 |**2024-11-27**|**Textured Gaussians for Enhanced 3D Scene Appearance Modeling**|Brian Chao et.al.|[2411.18625v1](http://arxiv.org/abs/2411.18625v1)|null|
@@ -4942,7 +4942,7 @@
 |**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193v1](http://arxiv.org/abs/2409.12193v1)|**[link](https://github.com/florinshen/vista3d)**|
 |**2024-09-18**|**LEMON: Localized Editing with Mesh Optimization and Neural Shaders**|Furkan Mert Algan et.al.|[2409.12024v1](http://arxiv.org/abs/2409.12024v1)|null|
 |**2024-09-18**|**GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations**|Kartik Teotia et.al.|[2409.11951v1](http://arxiv.org/abs/2409.11951v1)|null|
-|**2024-09-18**|**SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation**|Mingze Sun et.al.|[2409.11682v1](http://arxiv.org/abs/2409.11682v1)|null|
+|**2024-09-18**|**SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation**|Mingze Sun et.al.|[2409.11682v1](http://arxiv.org/abs/2409.11682v1)|**[link](https://github.com/rqhuang88/srif)**|
 |**2024-09-18**|**Gradient-Driven 3D Segmentation and Affordance Transfer in Gaussian Splatting Using 2D Masks**|Joji Joseph et.al.|[2409.11681v1](http://arxiv.org/abs/2409.11681v1)|**[link](https://github.com/JojiJoseph/3dgs-gradient-segmentation)**|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356v1](http://arxiv.org/abs/2409.11356v1)|null|
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307v1](http://arxiv.org/abs/2409.11307v1)|null|
