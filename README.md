@@ -665,6 +665,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277v1](http://arxiv.org/abs/2501.14277v1)|null|
 |**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015v2](http://arxiv.org/abs/2501.07015v2)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927v1](http://arxiv.org/abs/2501.06927v1)|null|
 |**2025-01-11**|**Aug3D: Augmenting large scale outdoor datasets for Generalizable Novel View Synthesis**|Aditya Rauniyar et.al.|[2501.06431v1](http://arxiv.org/abs/2501.06431v1)|null|
@@ -943,6 +944,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**|Viktor Kozák et.al.|[2501.14587v1](http://arxiv.org/abs/2501.14587v1)|null|
+|**2025-01-23**|**Revisiting CLIP: Efficient Alignment of 3D MRI and Tabular Data using Domain-Specific Foundation Models**|Jakob Krogh Petersen et.al.|[2501.14051v1](http://arxiv.org/abs/2501.14051v1)|**[link](https://github.com/jakekrogh/3d-clip-for-brain-mri)**|
+|**2025-01-22**|**Triplet Synthesis For Enhancing Composed Image Retrieval via Counterfactual Image Generation**|Kenta Uesugi et.al.|[2501.13968v1](http://arxiv.org/abs/2501.13968v1)|null|
 |**2025-01-19**|**Enhancing Sample Utilization in Noise-Robust Deep Metric Learning With Subgroup-Based Positive-Pair Selection**|Zhipeng Yu et.al.|[2501.11063v1](http://arxiv.org/abs/2501.11063v1)|**[link](https://github.com/smuelpeng/sgps-noisefreedml)**|
 |**2025-01-18**|**A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**|Weihang Zhang et.al.|[2501.10638v1](http://arxiv.org/abs/2501.10638v1)|null|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887v1](http://arxiv.org/abs/2501.09887v1)|null|
@@ -2221,6 +2225,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277v1](http://arxiv.org/abs/2501.14277v1)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299v1](http://arxiv.org/abs/2501.11299v1)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556v1](http://arxiv.org/abs/2501.07556v1)|null|
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113v1](http://arxiv.org/abs/2501.07113v1)|null|
@@ -4476,6 +4481,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Trick-GS: A Balanced Bag of Tricks for Efficient Gaussian Splatting**|Anil Armagan et.al.|[2501.14534v1](http://arxiv.org/abs/2501.14534v1)|null|
+|**2025-01-24**|**CheapNVS: Real-Time On-Device Narrow-Baseline Novel View Synthesis**|Konstantinos Georgiadis et.al.|[2501.14533v1](http://arxiv.org/abs/2501.14533v1)|null|
+|**2025-01-24**|**Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**|Xiaohao Xu et.al.|[2501.14319v1](http://arxiv.org/abs/2501.14319v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
+|**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277v1](http://arxiv.org/abs/2501.14277v1)|null|
+|**2025-01-24**|**Micro-macro Wavelet-based Gaussian Splatting for 3D Reconstruction from Unconstrained Images**|Yihui Li et.al.|[2501.14231v1](http://arxiv.org/abs/2501.14231v1)|null|
+|**2025-01-24**|**HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**|Javier Yu et.al.|[2501.14147v1](http://arxiv.org/abs/2501.14147v1)|null|
 |**2025-01-23**|**GoDe: Gaussians on Demand for Progressive Level of Detail and Scalable Compression**|Francesco Di Sario et.al.|[2501.13558v1](http://arxiv.org/abs/2501.13558v1)|null|
 |**2025-01-23**|**MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance**|Wooseok Song et.al.|[2501.13449v1](http://arxiv.org/abs/2501.13449v1)|null|
 |**2025-01-23**|**GeomGS: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization**|Jaewon Lee et.al.|[2501.13417v1](http://arxiv.org/abs/2501.13417v1)|null|
