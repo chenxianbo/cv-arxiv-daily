@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping**|Yiming Huang et.al.|[2501.19319v1](http://arxiv.org/abs/2501.19319v1)|**[link](https://github.com/lastbasket/endo-2dtam)**|
 |**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876v1](http://arxiv.org/abs/2501.13876v1)|null|
 |**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893v1](http://arxiv.org/abs/2501.11893v1)|**[link](https://github.com/acfr-rpg/dynosam)**|
 |**2025-01-19**|**Tracking Mouse from Incomplete Body-Part Observations and Deep-Learned Deformable-Mouse Model Motion-Track Constraint for Behavior Analysis**|Olaf Hellwich et.al.|[2501.11030v1](http://arxiv.org/abs/2501.11030v1)|null|
@@ -948,6 +949,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382v1](http://arxiv.org/abs/2501.19382v1)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
 |**2025-01-27**|**Freestyle Sketch-in-the-Loop Image Segmentation**|Subhadeep Koley et.al.|[2501.16022v1](http://arxiv.org/abs/2501.16022v1)|null|
 |**2025-01-26**|**Zero-Shot Interactive Text-to-Image Retrieval via Diffusion-Augmented Representations**|Zijun Long et.al.|[2501.15379v1](http://arxiv.org/abs/2501.15379v1)|null|
 |**2025-01-24**|**Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**|Viktor Kozák et.al.|[2501.14587v1](http://arxiv.org/abs/2501.14587v1)|null|
@@ -4490,7 +4492,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-29**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Nowak Mateusz et.al.|[2501.17978v1](http://arxiv.org/abs/2501.17978v1)|null|
+|**2025-01-31**|**Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping**|Yiming Huang et.al.|[2501.19319v1](http://arxiv.org/abs/2501.19319v1)|**[link](https://github.com/lastbasket/endo-2dtam)**|
+|**2025-01-31**|**RaySplats: Ray Tracing based Gaussian Splatting**|Krzysztof Byrski et.al.|[2501.19196v1](http://arxiv.org/abs/2501.19196v1)|**[link](https://github.com/kbyrski/raysplatting)**|
+|**2025-01-31**|**JGHand: Joint-Driven Animatable Hand Avater via 3D Gaussian Splatting**|Zhoutao Sun et.al.|[2501.19088v1](http://arxiv.org/abs/2501.19088v1)|null|
+|**2025-01-30**|**Zero-Shot Novel View and Depth Synthesis with Multi-View Geometric Diffusion**|Vitor Guizilini et.al.|[2501.18804v1](http://arxiv.org/abs/2501.18804v1)|null|
+|**2025-01-30**|**Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting**|Yansong Qu et.al.|[2501.18672v1](http://arxiv.org/abs/2501.18672v1)|null|
+|**2025-01-29**|**3D Reconstruction of Shoes for Augmented Reality**|Pratik Shrestha et.al.|[2501.18643v1](http://arxiv.org/abs/2501.18643v1)|null|
+|**2025-01-31**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Mateusz Nowak et.al.|[2501.17978v2](http://arxiv.org/abs/2501.17978v2)|null|
 |**2025-01-29**|**CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering**|Xiaohan Sun et.al.|[2501.17792v1](http://arxiv.org/abs/2501.17792v1)|null|
 |**2025-01-29**|**FeatureGS: Eigenvalue-Feature Optimization in 3D Gaussian Splatting for Geometrically Accurate and Artifact-Reduced Reconstruction**|Miriam Jäger et.al.|[2501.17655v1](http://arxiv.org/abs/2501.17655v1)|null|
 |**2025-01-28**|**Evaluating CrowdSplat: Perceived Level of Detail for Gaussian Crowds**|Xiaohan Sun et.al.|[2501.17085v1](http://arxiv.org/abs/2501.17085v1)|null|
