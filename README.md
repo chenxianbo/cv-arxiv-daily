@@ -666,6 +666,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283v1](http://arxiv.org/abs/2502.02283v1)|null|
+|**2025-02-03**|**XR-VIO: High-precision Visual Inertial Odometry with Fast Initialization for XR Applications**|Shangjin Zhai et.al.|[2502.01297v1](http://arxiv.org/abs/2502.01297v1)|null|
 |**2025-01-28**|**Automatic Calibration of a Multi-Camera System with Limited Overlapping Fields of View for 3D Surgical Scene Reconstruction**|Tim Flückiger et.al.|[2501.16221v2](http://arxiv.org/abs/2501.16221v2)|null|
 |**2025-01-25**|**Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**|Zhen-Hui Dong et.al.|[2501.15096v1](http://arxiv.org/abs/2501.15096v1)|null|
 |**2025-01-24**|**MATCHA:Towards Matching Anything**|Fei Xue et.al.|[2501.14945v1](http://arxiv.org/abs/2501.14945v1)|null|
@@ -949,6 +951,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-03**|**ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**|Costin F. Ciusdel et.al.|[2502.01335v1](http://arxiv.org/abs/2502.01335v1)|null|
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382v1](http://arxiv.org/abs/2501.19382v1)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
 |**2025-01-27**|**Freestyle Sketch-in-the-Loop Image Segmentation**|Subhadeep Koley et.al.|[2501.16022v1](http://arxiv.org/abs/2501.16022v1)|null|
 |**2025-01-26**|**Zero-Shot Interactive Text-to-Image Retrieval via Diffusion-Augmented Representations**|Zijun Long et.al.|[2501.15379v1](http://arxiv.org/abs/2501.15379v1)|null|
@@ -2236,6 +2239,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462v1](http://arxiv.org/abs/2502.00462v1)|null|
 |**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277v1](http://arxiv.org/abs/2501.14277v1)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299v1](http://arxiv.org/abs/2501.11299v1)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556v1](http://arxiv.org/abs/2501.07556v1)|null|
@@ -4492,6 +4496,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Geometric Neural Process Fields**|Wenzhe Yin et.al.|[2502.02338v1](http://arxiv.org/abs/2502.02338v1)|null|
+|**2025-02-04**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283v1](http://arxiv.org/abs/2502.02283v1)|null|
+|**2025-02-04**|**LAYOUTDREAMER: Physics-guided Layout for Text-to-3D Compositional Scene Generation**|Yang Zhou et.al.|[2502.01949v1](http://arxiv.org/abs/2502.01949v1)|null|
+|**2025-02-03**|**UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping**|Aashish Rai et.al.|[2502.01846v1](http://arxiv.org/abs/2502.01846v1)|null|
+|**2025-02-03**|**Scalable 3D Gaussian Splatting-Based RF Signal Spatial Propagation Modeling**|Kang Yang et.al.|[2502.01826v1](http://arxiv.org/abs/2502.01826v1)|null|
+|**2025-02-03**|**VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion**|Shaoting Zhu et.al.|[2502.01536v1](http://arxiv.org/abs/2502.01536v1)|null|
+|**2025-02-03**|**Radiant Foam: Real-Time Differentiable Ray Tracing**|Shrisudhan Govindarajan et.al.|[2502.01157v1](http://arxiv.org/abs/2502.01157v1)|null|
+|**2025-02-03**|**WonderHuman: Hallucinating Unseen Parts in Dynamic 3D Human Reconstruction**|Zilong Wang et.al.|[2502.01045v1](http://arxiv.org/abs/2502.01045v1)|null|
+|**2025-02-02**|**EmoTalkingGaussian: Continuous Emotion-conditioned Talking Head Synthesis**|Junuk Cha et.al.|[2502.00654v1](http://arxiv.org/abs/2502.00654v1)|null|
+|**2025-01-31**|**Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation**|Rohan Chacko et.al.|[2502.00173v1](http://arxiv.org/abs/2502.00173v1)|null|
 |**2025-01-31**|**Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping**|Yiming Huang et.al.|[2501.19319v1](http://arxiv.org/abs/2501.19319v1)|**[link](https://github.com/lastbasket/endo-2dtam)**|
 |**2025-01-31**|**RaySplats: Ray Tracing based Gaussian Splatting**|Krzysztof Byrski et.al.|[2501.19196v1](http://arxiv.org/abs/2501.19196v1)|**[link](https://github.com/kbyrski/raysplatting)**|
 |**2025-01-31**|**JGHand: Joint-Driven Animatable Hand Avater via 3D Gaussian Splatting**|Zhoutao Sun et.al.|[2501.19088v1](http://arxiv.org/abs/2501.19088v1)|null|
