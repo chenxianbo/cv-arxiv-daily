@@ -27,6 +27,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932v1](http://arxiv.org/abs/2502.18932v1)|null|
+|**2025-02-26**|**Efficient and Distributed Large-Scale Point Cloud Bundle Adjustment via Majorization-Minimization**|Rundong Li et.al.|[2502.18801v1](http://arxiv.org/abs/2502.18801v1)|null|
 |**2025-02-23**|**Improving Monocular Visual-Inertial Initialization with Structureless Visual-Inertial Bundle Adjustment**|Junlin Song et.al.|[2502.16598v1](http://arxiv.org/abs/2502.16598v1)|null|
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708v1](http://arxiv.org/abs/2502.13708v1)|null|
 |**2025-02-19**|**pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM**|Luigi Freda et.al.|[2502.11955v2](http://arxiv.org/abs/2502.11955v2)|**[link](https://github.com/luigifreda/pyslam)**|
@@ -970,6 +972,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation**|Ruben T. Lucassen et.al.|[2502.19285v1](http://arxiv.org/abs/2502.19285v1)|null|
+|**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242v1](http://arxiv.org/abs/2502.19242v1)|null|
+|**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932v1](http://arxiv.org/abs/2502.18932v1)|null|
+|**2025-02-19**|**A Comprehensive Survey on Composed Image Retrieval**|Xuemeng Song et.al.|[2502.18495v1](http://arxiv.org/abs/2502.18495v1)|null|
 |**2025-02-25**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237v2](http://arxiv.org/abs/2502.17237v2)|**[link](https://github.com/gmberton/megaloc)**|
 |**2025-02-23**|**Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**|Yin Wu et.al.|[2502.16636v1](http://arxiv.org/abs/2502.16636v1)|null|
 |**2025-02-23**|**SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition**|Feng Lu et.al.|[2502.16601v1](http://arxiv.org/abs/2502.16601v1)|null|
@@ -2006,6 +2012,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-23**|**Rewards-based image analysis in microscopy**|Kamyar Barakati et.al.|[2502.18522v1](http://arxiv.org/abs/2502.18522v1)|null|
 |**2025-02-19**|**2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**|Yusuke Uchida et.al.|[2502.13484v1](http://arxiv.org/abs/2502.13484v1)|**[link](https://github.com/tattaka/czii-cryo-et-object-identification-public)**|
 |**2025-01-30**|**Transfer Learning for Keypoint Detection in Low-Resolution Thermal TUG Test Images**|Wei-Lun Chen et.al.|[2501.18453v1](http://arxiv.org/abs/2501.18453v1)|null|
 |**2025-01-30**|**Video-based Surgical Tool-tip and Keypoint Tracking using Multi-frame Context-driven Deep Learning Models**|Bhargav Ghanekar et.al.|[2501.18361v1](http://arxiv.org/abs/2501.18361v1)|null|
@@ -2287,6 +2294,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242v1](http://arxiv.org/abs/2502.19242v1)|null|
 |**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104v1](http://arxiv.org/abs/2502.18104v1)|null|
 |**2025-02-25**|**Improving Transformer Based Line Segment Detection with Matched Predicting and Re-ranking**|Xin Tong et.al.|[2502.17766v1](http://arxiv.org/abs/2502.17766v1)|null|
 |**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779v1](http://arxiv.org/abs/2502.16779v1)|null|
@@ -4550,6 +4558,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318v1](http://arxiv.org/abs/2502.19318v1)|null|
 |**2025-02-25**|**Synthesizing Consistent Novel Views via 3D Epipolar Attention without Re-Training**|Botao Ye et.al.|[2502.18219v1](http://arxiv.org/abs/2502.18219v1)|null|
 |**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041v1](http://arxiv.org/abs/2502.18041v1)|null|
 |**2025-02-25**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860v1](http://arxiv.org/abs/2502.17860v1)|null|
