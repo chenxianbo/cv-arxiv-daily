@@ -4627,7 +4627,7 @@
 |**2025-02-05**|**Controllable Satellite-to-Street-View Synthesis with Precise Pose Alignment and Zero-Shot Environmental Control**|Xianghui Ze et.al.|[2502.03498v1](http://arxiv.org/abs/2502.03498v1)|null|
 |**2025-02-05**|**GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM**|Mingrui Li et.al.|[2502.03228v1](http://arxiv.org/abs/2502.03228v1)|null|
 |**2025-02-04**|**Geometric Neural Process Fields**|Wenzhe Yin et.al.|[2502.02338v1](http://arxiv.org/abs/2502.02338v1)|null|
-|**2025-02-05**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283v2](http://arxiv.org/abs/2502.02283v2)|null|
+|**2025-02-05**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283v2](http://arxiv.org/abs/2502.02283v2)|**[link](https://github.com/zhihaohaoran/GPGS)**|
 |**2025-02-04**|**LAYOUTDREAMER: Physics-guided Layout for Text-to-3D Compositional Scene Generation**|Yang Zhou et.al.|[2502.01949v1](http://arxiv.org/abs/2502.01949v1)|null|
 |**2025-02-03**|**UVGS: Reimagining Unstructured 3D Gaussian Splatting using UV Mapping**|Aashish Rai et.al.|[2502.01846v1](http://arxiv.org/abs/2502.01846v1)|null|
 |**2025-02-03**|**Scalable 3D Gaussian Splatting-Based RF Signal Spatial Propagation Modeling**|Kang Yang et.al.|[2502.01826v1](http://arxiv.org/abs/2502.01826v1)|null|
@@ -4831,7 +4831,7 @@
 |**2024-12-06**|**Pushing Rendering Boundaries: Hard Gaussian Splatting**|Qingshan Xu et.al.|[2412.04826v1](http://arxiv.org/abs/2412.04826v1)|null|
 |**2024-12-05**|**Turbo3D: Ultra-fast Text-to-3D Generation**|Hanzhe Hu et.al.|[2412.04470v1](http://arxiv.org/abs/2412.04470v1)|null|
 |**2024-12-05**|**QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos**|Sharath Girish et.al.|[2412.04469v1](http://arxiv.org/abs/2412.04469v1)|null|
-|**2024-12-05**|**Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering**|Cheng Sun et.al.|[2412.04459v1](http://arxiv.org/abs/2412.04459v1)|null|
+|**2024-12-05**|**Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering**|Cheng Sun et.al.|[2412.04459v1](http://arxiv.org/abs/2412.04459v1)|**[link](https://github.com/nvlabs/svraster)**|
 |**2024-12-05**|**Monocular Dynamic Gaussian Splatting is Fast and Brittle but Smooth Motion Helps**|Yiqing Liang et.al.|[2412.04457v1](http://arxiv.org/abs/2412.04457v1)|null|
 |**2024-12-06**|**PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars**|Shota Sasaki et.al.|[2412.04433v2](http://arxiv.org/abs/2412.04433v2)|null|
 |**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911v1](http://arxiv.org/abs/2412.03911v1)|**[link](https://github.com/Chumsy0725/PASLCD)**|
@@ -4979,7 +4979,7 @@
 |**2024-10-30**|**Geometry Cloak: Preventing TGS-based 3D Reconstruction from Copyrighted Images**|Qi Song et.al.|[2410.22705v1](http://arxiv.org/abs/2410.22705v1)|null|
 |**2024-10-29**|**PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**|Sunghwan Hong et.al.|[2410.22128v1](http://arxiv.org/abs/2410.22128v1)|**[link](https://github.com/cvlab-kaist/PF3plat)**|
 |**2024-10-29**|**FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives**|Qizhi Chen et.al.|[2410.22070v1](http://arxiv.org/abs/2410.22070v1)|null|
-|**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955v1](http://arxiv.org/abs/2410.21955v1)|null|
+|**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955v1](http://arxiv.org/abs/2410.21955v1)|**[link](https://github.com/Li-Yuetao/ActiveSplat)**|
 |**2024-10-28**|**MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**|Yating Xu et.al.|[2410.21566v1](http://arxiv.org/abs/2410.21566v1)|**[link](https://github.com/pixie8888/mvsdet)**|
 |**2024-10-28**|**Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting**|Jiawei Xu et.al.|[2410.20815v1](http://arxiv.org/abs/2410.20815v1)|null|
 |**2024-10-28**|**LoDAvatar: Hierarchical Embedding and Adaptive Levels of Detail with Gaussian Splatting for Enhanced Human Avatars**|Xiaonuo Dongye et.al.|[2410.20789v1](http://arxiv.org/abs/2410.20789v1)|null|
