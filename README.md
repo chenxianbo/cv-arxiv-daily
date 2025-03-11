@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -28,7 +28,7 @@
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235v1](http://arxiv.org/abs/2503.04235v1)|null|
 |**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373v1](http://arxiv.org/abs/2503.03373v1)|null|
 |**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661v1](http://arxiv.org/abs/2503.01661v1)|null|
-|**2025-03-04**|**DnD Filter: Differentiable State Estimation for Dynamic Systems using Diffusion Models**|Ziyu Wan et.al.|[2503.01274v2](http://arxiv.org/abs/2503.01274v2)|null|
+|**2025-03-04**|**DnD Filter: Differentiable State Estimation for Dynamic Systems using Diffusion Models**|Ziyu Wan et.al.|[2503.01274v2](http://arxiv.org/abs/2503.01274v2)|**[link](https://github.com/ziyunus/dndfilter)**|
 |**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078v1](http://arxiv.org/abs/2502.20078v1)|null|
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932v1](http://arxiv.org/abs/2502.18932v1)|null|
 |**2025-02-26**|**Efficient and Distributed Large-Scale Point Cloud Bundle Adjustment via Majorization-Minimization**|Rundong Li et.al.|[2502.18801v1](http://arxiv.org/abs/2502.18801v1)|null|
@@ -677,14 +677,14 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099v1](http://arxiv.org/abs/2110.01099v1)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876v1](http://arxiv.org/abs/2110.00876v1)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-06**|**PLMP -- Point-Line Minimal Problems for Projective SfM**|Kim Kiehn et.al.|[2503.04351v1](http://arxiv.org/abs/2503.04351v1)|null|
-|**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311v1](http://arxiv.org/abs/2503.01311v1)|null|
+|**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311v1](http://arxiv.org/abs/2503.01311v1)|**[link](https://github.com/snt-arg/ecg2o)**|
 |**2025-03-05**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202v3](http://arxiv.org/abs/2503.01202v3)|null|
 |**2025-03-02**|**MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain**|Rui Yi Yong et.al.|[2503.00853v1](http://arxiv.org/abs/2503.00853v1)|null|
 |**2025-03-02**|**PSRGS:Progressive Spectral Residual of 3D Gaussian for High-Frequency Recovery**|BoCheng Li et.al.|[2503.00848v1](http://arxiv.org/abs/2503.00848v1)|null|
@@ -976,7 +976,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876v1](http://arxiv.org/abs/2108.12876v1)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895v1](http://arxiv.org/abs/2108.09895v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2033,7 +2033,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527v1](http://arxiv.org/abs/2109.04527v1)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041v1](http://arxiv.org/abs/2109.04041v1)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2046,7 +2046,7 @@
 |**2025-02-28**|**CNSv2: Probabilistic Correspondence Encoded Neural Image Servo**|Anzhe Chen et.al.|[2503.00132v1](http://arxiv.org/abs/2503.00132v1)|null|
 |**2025-02-27**|**Automatic Temporal Segmentation for Post-Stroke Rehabilitation: A Keypoint Detection and Temporal Segmentation Approach for Small Datasets**|Jisoo Lee et.al.|[2502.19766v1](http://arxiv.org/abs/2502.19766v1)|null|
 |**2025-02-23**|**Rewards-based image analysis in microscopy**|Kamyar Barakati et.al.|[2502.18522v1](http://arxiv.org/abs/2502.18522v1)|null|
-|**2025-02-19**|**2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**|Yusuke Uchida et.al.|[2502.13484v1](http://arxiv.org/abs/2502.13484v1)|**[link](https://github.com/tattaka/czii-cryo-et-object-identification-public)**|
+|**2025-02-19**|**2.5D U-Net with Depth Reduction for 3D CryoET Object Identification**|Yusuke Uchida et.al.|[2502.13484v1](http://arxiv.org/abs/2502.13484v1)|**[link](https://github.com/yu4u/kaggle-czii-4th)**|
 |**2025-01-30**|**Transfer Learning for Keypoint Detection in Low-Resolution Thermal TUG Test Images**|Wei-Lun Chen et.al.|[2501.18453v1](http://arxiv.org/abs/2501.18453v1)|null|
 |**2025-01-30**|**Video-based Surgical Tool-tip and Keypoint Tracking using Multi-frame Context-driven Deep Learning Models**|Bhargav Ghanekar et.al.|[2501.18361v1](http://arxiv.org/abs/2501.18361v1)|null|
 |**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110v1](http://arxiv.org/abs/2501.18110v1)|null|
@@ -2321,7 +2321,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958v1](http://arxiv.org/abs/2108.13958v1)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151v1](http://arxiv.org/abs/2108.12151v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2620,7 +2620,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072v1](http://arxiv.org/abs/2108.12072v1)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911v1](http://arxiv.org/abs/2108.11911v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## NeRF
 
@@ -3676,7 +3676,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455v1](http://arxiv.org/abs/2207.14455v1)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298v1](http://arxiv.org/abs/2207.13298v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## ViTs
 
@@ -4591,7 +4591,7 @@
 |**2023-08-11**|**Experts Weights Averaging: A New General Training Scheme for Vision Transformers**|Yongqi Huang et.al.|[2308.06093v1](http://arxiv.org/abs/2308.06093v1)|null|
 |**2023-08-14**|**Vision Backbone Enhancement via Multi-Stage Cross-Scale Attention**|Liang Shang et.al.|[2308.05872v2](http://arxiv.org/abs/2308.05872v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## 3DGS
 
@@ -5474,7 +5474,7 @@
 |**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111v1](http://arxiv.org/abs/2406.10111v1)|null|
 |**2024-06-14**|**D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video**|Moritz Kappel et.al.|[2406.10078v1](http://arxiv.org/abs/2406.10078v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
