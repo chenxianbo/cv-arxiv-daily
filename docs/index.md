@@ -27,6 +27,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-16**|**Deblur Gaussian Splatting SLAM**|Francesco Girlanda et.al.|[2503.12572v1](http://arxiv.org/abs/2503.12572v1)|null|
+|**2025-03-15**|**FA-BARF: Frequency Adapted Bundle-Adjusting Neural Radiance Fields**|Rui Qian et.al.|[2503.12086v1](http://arxiv.org/abs/2503.12086v1)|null|
+|**2025-03-15**|**DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes**|Runfa Blark Li et.al.|[2503.11979v1](http://arxiv.org/abs/2503.11979v1)|null|
 |**2025-03-14**|**NF-SLAM: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications**|Li Cui et.al.|[2503.11199v1](http://arxiv.org/abs/2503.11199v1)|null|
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112v1](http://arxiv.org/abs/2503.05112v1)|null|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944v1](http://arxiv.org/abs/2503.04944v1)|null|
@@ -688,6 +691,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**|Yiwei Xu et.al.|[2503.13086v1](http://arxiv.org/abs/2503.13086v1)|null|
 |**2025-03-11**|**A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds**|Felix Rydell et.al.|[2503.08142v1](http://arxiv.org/abs/2503.08142v1)|null|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347v2](http://arxiv.org/abs/2503.07347v2)|**[link](https://github.com/parskatt/dad)**|
 |**2025-03-12**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204v2](http://arxiv.org/abs/2503.07204v2)|null|
@@ -991,6 +995,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385v1](http://arxiv.org/abs/2503.13385v1)|null|
+|**2025-03-17**|**Multi-Platform Teach-and-Repeat Navigation by Visual Place Recognition Based on Deep-Learned Local Features**|Václav Truhlařík et.al.|[2503.13090v1](http://arxiv.org/abs/2503.13090v1)|null|
+|**2025-03-17**|**All You Need to Know About Training Image Retrieval Models**|Gabriele Berton et.al.|[2503.13045v1](http://arxiv.org/abs/2503.13045v1)|null|
 |**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692v1](http://arxiv.org/abs/2503.10692v1)|null|
 |**2025-03-13**|**ImageScope: Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166v1](http://arxiv.org/abs/2503.10166v1)|null|
 |**2025-03-12**|**Revisiting Medical Image Retrieval via Knowledge Consolidation**|Yang Nan et.al.|[2503.09370v1](http://arxiv.org/abs/2503.09370v1)|null|
@@ -2059,6 +2066,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-16**|**Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**|Jiadong Zhou et.al.|[2503.12541v1](http://arxiv.org/abs/2503.12541v1)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673v1](http://arxiv.org/abs/2503.08673v1)|null|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413v1](http://arxiv.org/abs/2503.07413v1)|**[link](https://github.com/MacavityT/REF-VLM)**|
 |**2025-03-11**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347v2](http://arxiv.org/abs/2503.07347v2)|**[link](https://github.com/parskatt/dad)**|
@@ -2350,6 +2358,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433v1](http://arxiv.org/abs/2503.13433v1)|null|
+|**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706v1](http://arxiv.org/abs/2503.12706v1)|null|
 |**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148v1](http://arxiv.org/abs/2503.11148v1)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017v1](http://arxiv.org/abs/2503.10017v1)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673v1](http://arxiv.org/abs/2503.08673v1)|null|
@@ -4623,6 +4633,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**TriDF: Triplane-Accelerated Density Fields for Few-Shot Remote Sensing Novel View Synthesis**|Jiaming Kang et.al.|[2503.13347v1](http://arxiv.org/abs/2503.13347v1)|null|
+|**2025-03-17**|**Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors**|Katja Schwarz et.al.|[2503.13272v1](http://arxiv.org/abs/2503.13272v1)|null|
+|**2025-03-17**|**FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis**|Luxi Chen et.al.|[2503.13265v1](http://arxiv.org/abs/2503.13265v1)|null|
+|**2025-03-17**|**DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction**|Rui Wang et.al.|[2503.13176v1](http://arxiv.org/abs/2503.13176v1)|null|
+|**2025-03-17**|**Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization**|Yiwei Xu et.al.|[2503.13086v1](http://arxiv.org/abs/2503.13086v1)|null|
+|**2025-03-17**|**DivCon-NeRF: Generating Augmented Rays with Diversity and Consistency for Few-shot View Synthesis**|Ingyun Lee et.al.|[2503.12947v1](http://arxiv.org/abs/2503.12947v1)|null|
+|**2025-03-17**|**AR-1-to-3: Single Image to Consistent 3D Object Generation via Next-View Prediction**|Xuying Zhang et.al.|[2503.12929v1](http://arxiv.org/abs/2503.12929v1)|null|
+|**2025-03-17**|**CAT-3DGS Pro: A New Benchmark for Efficient 3DGS Compression**|Yu-Ting Zhan et.al.|[2503.12862v1](http://arxiv.org/abs/2503.12862v1)|null|
+|**2025-03-17**|**CompMarkGS: Robust Watermarking for Compression 3D Gaussian Splatting**|Sumin In et.al.|[2503.12836v1](http://arxiv.org/abs/2503.12836v1)|null|
+|**2025-03-17**|**AV-Surf: Surface-Enhanced Geometry-Aware Novel-View Acoustic Synthesis**|Hadam Baek et.al.|[2503.12806v1](http://arxiv.org/abs/2503.12806v1)|null|
 |**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651v1](http://arxiv.org/abs/2503.11651v1)|null|
 |**2025-03-14**|**Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information**|Xuanqi Zhang et.al.|[2503.11601v1](http://arxiv.org/abs/2503.11601v1)|null|
 |**2025-03-14**|**EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting**|Di Li et.al.|[2503.11345v1](http://arxiv.org/abs/2503.11345v1)|null|
