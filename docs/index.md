@@ -1023,6 +1023,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134v1](http://arxiv.org/abs/2504.11134v1)|null|
+|**2025-04-15**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995v1](http://arxiv.org/abs/2504.10995v1)|null|
 |**2025-04-14**|**Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition**|Changwei Wang et.al.|[2504.09881v1](http://arxiv.org/abs/2504.09881v1)|null|
 |**2025-04-12**|**Evolved Hierarchical Masking for Self-Supervised Learning**|Zhanzhou Feng et.al.|[2504.09155v1](http://arxiv.org/abs/2504.09155v1)|null|
 |**2025-04-11**|**HAL-NeRF: High Accuracy Localization Leveraging Neural Radiance Fields**|Asterios Reppas et.al.|[2504.08901v1](http://arxiv.org/abs/2504.08901v1)|null|
@@ -2133,6 +2135,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques**|Pedro Diaz-Garcia et.al.|[2504.11063v1](http://arxiv.org/abs/2504.11063v1)|null|
+|**2025-04-15**|**Acquisition of high-quality images for camera calibration in robotics applications via speech prompts**|Timm Linder et.al.|[2504.11031v1](http://arxiv.org/abs/2504.11031v1)|null|
 |**2025-04-11**|**Stereophotoclinometry Revisited**|Travis Driver et.al.|[2504.08252v1](http://arxiv.org/abs/2504.08252v1)|null|
 |**2025-03-31**|**SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection**|Yannick Burkhardt et.al.|[2504.00139v1](http://arxiv.org/abs/2504.00139v1)|null|
 |**2025-03-29**|**Deep Visual Servoing of an Aerial Robot Using Keypoint Feature Extraction**|Shayan Sepahvand et.al.|[2503.23171v1](http://arxiv.org/abs/2503.23171v1)|null|
@@ -4717,6 +4721,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**|Zeming wei et.al.|[2504.11218v1](http://arxiv.org/abs/2504.11218v1)|null|
+|**2025-04-15**|**Easy3D: A Simple Yet Effective Method for 3D Interactive Segmentation**|Andrea Simonelli et.al.|[2504.11024v1](http://arxiv.org/abs/2504.11024v1)|null|
+|**2025-04-15**|**3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise**|Haato Watanabe et.al.|[2504.11003v1](http://arxiv.org/abs/2504.11003v1)|null|
+|**2025-04-15**|**GaSLight: Gaussian Splats for Spatially-Varying Lighting in HDR**|Christophe Bolduc et.al.|[2504.10809v1](http://arxiv.org/abs/2504.10809v1)|null|
 |**2025-04-14**|**DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting**|Zeren Jiang et.al.|[2504.10486v1](http://arxiv.org/abs/2504.10486v1)|null|
 |**2025-04-15**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331v2](http://arxiv.org/abs/2504.10331v2)|null|
 |**2025-04-14**|**ESCT3D: Efficient and Selectively Controllable Text-Driven 3D Content Generation with Gaussian Splatting**|Huiqi Wu et.al.|[2504.10316v1](http://arxiv.org/abs/2504.10316v1)|null|
