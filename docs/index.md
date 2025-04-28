@@ -1034,6 +1034,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**|Yabing Wang et.al.|[2504.17990v1](http://arxiv.org/abs/2504.17990v1)|null|
 |**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636v1](http://arxiv.org/abs/2504.17636v1)|null|
 |**2025-04-23**|**Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval**|Xin Jiang et.al.|[2504.16691v1](http://arxiv.org/abs/2504.16691v1)|null|
 |**2025-04-22**|**Media Content Atlas: A Pipeline to Explore and Investigate Multidimensional Media Space using Multimodal LLMs**|Merve Cerit et.al.|[2504.16323v1](http://arxiv.org/abs/2504.16323v1)|**[link](https://github.com/mediacontentatlas/mediacontentatlas)**|
@@ -4741,6 +4742,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v1](http://arxiv.org/abs/2504.18468v1)|null|
+|**2025-04-25**|**STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting**|Yunze Deng et.al.|[2504.18318v1](http://arxiv.org/abs/2504.18318v1)|null|
+|**2025-04-25**|**PerfCam: Digital Twinning for Production Lines Using 3D Gaussian Splatting and Vision Models**|Michel Gokan Khan et.al.|[2504.18165v1](http://arxiv.org/abs/2504.18165v1)|null|
+|**2025-04-24**|**iVR-GS: Inverse Volume Rendering for Explorable Visualization via Editable 3D Gaussian Splatting**|Kaiyuan Tang et.al.|[2504.17954v1](http://arxiv.org/abs/2504.17954v1)|null|
 |**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728v1](http://arxiv.org/abs/2504.17728v1)|null|
 |**2025-04-24**|**Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation**|Phillip Y. Lee et.al.|[2504.17207v1](http://arxiv.org/abs/2504.17207v1)|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740v1](http://arxiv.org/abs/2504.16740v1)|null|
