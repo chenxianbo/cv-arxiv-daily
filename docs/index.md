@@ -4804,7 +4804,7 @@ layout: default
 |**2025-04-29**|**Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting**|Hanxi Liu et.al.|[2504.20403v1](http://arxiv.org/abs/2504.20403v1)|null|
 |**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379v2](http://arxiv.org/abs/2504.20379v2)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378v1](http://arxiv.org/abs/2504.20378v1)|null|
-|**2025-04-28**|**Mesh-Learner: Texturing Mesh with Spherical Harmonics**|Yunfei Wan et.al.|[2504.19938v1](http://arxiv.org/abs/2504.19938v1)|null|
+|**2025-04-28**|**Mesh-Learner: Texturing Mesh with Spherical Harmonics**|Yunfei Wan et.al.|[2504.19938v1](http://arxiv.org/abs/2504.19938v1)|**[link](https://github.com/hku-mars/mesh-learner)**|
 |**2025-04-28**|**Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video**|Hoang Chuong Nguyen et.al.|[2504.19819v1](http://arxiv.org/abs/2504.19819v1)|null|
 |**2025-04-28**|**CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes**|Mohammad Altillawi et.al.|[2504.19557v1](http://arxiv.org/abs/2504.19557v1)|null|
 |**2025-04-28**|**GSFF-SLAM: 3D Semantic Gaussian Splatting SLAM via Feature Field**|Zuxing Lu et.al.|[2504.19409v1](http://arxiv.org/abs/2504.19409v1)|null|
@@ -4814,8 +4814,8 @@ layout: default
 |**2025-04-28**|**RGS-DR: Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects**|Georgios Kouros et.al.|[2504.18468v2](http://arxiv.org/abs/2504.18468v2)|null|
 |**2025-04-25**|**STP4D: Spatio-Temporal-Prompt Consistent Modeling for Text-to-4D Gaussian Splatting**|Yunze Deng et.al.|[2504.18318v1](http://arxiv.org/abs/2504.18318v1)|null|
 |**2025-04-25**|**PerfCam: Digital Twinning for Production Lines Using 3D Gaussian Splatting and Vision Models**|Michel Gokan Khan et.al.|[2504.18165v1](http://arxiv.org/abs/2504.18165v1)|null|
-|**2025-04-24**|**iVR-GS: Inverse Volume Rendering for Explorable Visualization via Editable 3D Gaussian Splatting**|Kaiyuan Tang et.al.|[2504.17954v1](http://arxiv.org/abs/2504.17954v1)|null|
-|**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728v1](http://arxiv.org/abs/2504.17728v1)|null|
+|**2025-04-24**|**iVR-GS: Inverse Volume Rendering for Explorable Visualization via Editable 3D Gaussian Splatting**|Kaiyuan Tang et.al.|[2504.17954v1](http://arxiv.org/abs/2504.17954v1)|**[link](https://github.com/toukaienn/ivr-gs)**|
+|**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728v1](http://arxiv.org/abs/2504.17728v1)|**[link](https://github.com/wu-cvgl/casualhdrsplat)**|
 |**2025-04-24**|**Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation**|Phillip Y. Lee et.al.|[2504.17207v1](http://arxiv.org/abs/2504.17207v1)|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740v1](http://arxiv.org/abs/2504.16740v1)|null|
 |**2025-04-23**|**PIN-WM: Learning Physics-INformed World Models for Non-Prehensile Manipulation**|Wenxuan Li et.al.|[2504.16693v1](http://arxiv.org/abs/2504.16693v1)|null|
@@ -4837,11 +4837,11 @@ layout: default
 |**2025-04-17**|**Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering**|Landon Dyken et.al.|[2504.13339v1](http://arxiv.org/abs/2504.13339v1)|null|
 |**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175v1](http://arxiv.org/abs/2504.13175v1)|null|
 |**2025-04-18**|**ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos**|Zetong Zhang et.al.|[2504.13167v2](http://arxiv.org/abs/2504.13167v2)|null|
-|**2025-04-17**|**Digital Twin Generation from Visual Data: A Survey**|Andrew Melnik et.al.|[2504.13159v1](http://arxiv.org/abs/2504.13159v1)|null|
+|**2025-04-17**|**Digital Twin Generation from Visual Data: A Survey**|Andrew Melnik et.al.|[2504.13159v1](http://arxiv.org/abs/2504.13159v1)|**[link](https://github.com/ndrwmlnk/awesome-digital-twins)**|
 |**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157v1](http://arxiv.org/abs/2504.13157v1)|null|
 |**2025-04-17**|**Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs**|Shaohui Dai et.al.|[2504.13153v1](http://arxiv.org/abs/2504.13153v1)|**[link](https://github.com/atrovast/thgs)**|
 |**2025-04-17**|**CompGS++: Compressed Gaussian Splatting for Static and Dynamic Scene Representation**|Xiangrui Liu et.al.|[2504.13022v1](http://arxiv.org/abs/2504.13022v1)|null|
-|**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999v1](http://arxiv.org/abs/2504.12999v1)|null|
+|**2025-04-17**|**GSAC: Leveraging Gaussian Splatting for Photorealistic Avatar Creation with Unity Integration**|Rendong Zhang et.al.|[2504.12999v1](http://arxiv.org/abs/2504.12999v1)|**[link](https://github.com/VU-RASL/GSAC)**|
 |**2025-04-17**|**Second-order Optimization of Gaussian Splats with Importance Sampling**|Hamza Pehlivan et.al.|[2504.12905v1](http://arxiv.org/abs/2504.12905v1)|null|
 |**2025-04-17**|**AAA-Gaussians: Anti-Aliased and Artifact-Free 3D Gaussian Rendering**|Michael Steiner et.al.|[2504.12811v1](http://arxiv.org/abs/2504.12811v1)|null|
 |**2025-04-17**|**CAGE-GS: High-fidelity Cage Based 3D Gaussian Splatting Deformation**|Yifei Tong et.al.|[2504.12800v1](http://arxiv.org/abs/2504.12800v1)|null|
@@ -5605,7 +5605,7 @@ layout: default
 |**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614v1](http://arxiv.org/abs/2410.01614v1)|**[link](https://github.com/rzhevcherkasy/bmvc24-gsim)**|
 |**2024-10-06**|**GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians**|Shuyi Jiang et.al.|[2410.01535v2](http://arxiv.org/abs/2410.01535v2)|null|
 |**2024-10-02**|**MiraGe: Editable 2D Images using Gaussian Splatting**|Joanna Waczyńska et.al.|[2410.01521v1](http://arxiv.org/abs/2410.01521v1)|**[link](https://github.com/waczjoan/mirage)**|
-|**2024-10-02**|**UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction**|Haoran Wang et.al.|[2410.01517v1](http://arxiv.org/abs/2410.01517v1)|null|
+|**2024-10-02**|**UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction**|Haoran Wang et.al.|[2410.01517v1](http://arxiv.org/abs/2410.01517v1)|**[link](https://github.com/wanghaoran16/uw-gs)**|
 |**2024-10-02**|**EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings**|Yingdong Hu et.al.|[2410.01425v1](http://arxiv.org/abs/2410.01425v1)|null|
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404v1](http://arxiv.org/abs/2410.01404v1)|null|
 |**2024-10-02**|**AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction**|Jingnan Gao et.al.|[2410.01202v1](http://arxiv.org/abs/2410.01202v1)|null|
