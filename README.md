@@ -718,7 +718,7 @@
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013v1](http://arxiv.org/abs/2505.08013v1)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373v1](http://arxiv.org/abs/2505.07373v1)|null|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473v1](http://arxiv.org/abs/2505.05473v1)|null|
-|**2025-05-20**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612v2](http://arxiv.org/abs/2505.04612v2)|null|
+|**2025-05-20**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612v2](http://arxiv.org/abs/2505.04612v2)|**[link](https://github.com/pals-ttic/fastmap)**|
 |**2025-05-15**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093v2](http://arxiv.org/abs/2505.03093v2)|null|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799v1](http://arxiv.org/abs/2505.01799v1)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729v1](http://arxiv.org/abs/2505.01729v1)|null|
@@ -1050,6 +1050,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828v1](http://arxiv.org/abs/2505.13828v1)|null|
 |**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254v1](http://arxiv.org/abs/2505.12254v1)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620v1](http://arxiv.org/abs/2505.11620v1)|null|
 |**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121v1](http://arxiv.org/abs/2505.11121v1)|null|
@@ -4788,8 +4789,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image**|Yuxuan Wang et.al.|[2505.14537v1](http://arxiv.org/abs/2505.14537v1)|null|
+|**2025-05-20**|**MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction**|Zhenyu Bao et.al.|[2505.13839v1](http://arxiv.org/abs/2505.13839v1)|**[link](https://github.com/pcl3dv/mgstream)**|
 |**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440v1](http://arxiv.org/abs/2505.13440v1)|**[link](https://github.com/dwawayu/pensieve)**|
-|**2025-05-19**|**Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation**|Seungjun Oh et.al.|[2505.13215v1](http://arxiv.org/abs/2505.13215v1)|null|
+|**2025-05-19**|**Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation**|Seungjun Oh et.al.|[2505.13215v1](http://arxiv.org/abs/2505.13215v1)|**[link](https://github.com/ohsngjun/3D-4DGS)**|
 |**2025-05-19**|**3D Gaussian Adaptive Reconstruction for Fourier Light-Field Microscopy**|Chenyu Xu et.al.|[2505.12875v1](http://arxiv.org/abs/2505.12875v1)|null|
 |**2025-05-19**|**TACOcc:Target-Adaptive Cross-Modal Fusion with Volume Rendering for 3D Semantic Occupancy**|Luyao Lei et.al.|[2505.12693v1](http://arxiv.org/abs/2505.12693v1)|null|
 |**2025-05-18**|**Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey**|Calvin Galagain et.al.|[2505.12384v1](http://arxiv.org/abs/2505.12384v1)|null|
