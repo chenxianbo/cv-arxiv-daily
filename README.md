@@ -23,6 +23,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089v1](http://arxiv.org/abs/2505.22089v1)|null|
 |**2025-05-27**|**ProBA: Probabilistic Bundle Adjustment with the Bhattacharyya Coefficient**|Jason Chui et.al.|[2505.20858v1](http://arxiv.org/abs/2505.20858v1)|null|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|null|
 |**2025-05-18**|**Structureless VIO**|Junlin Song et.al.|[2505.12337v1](http://arxiv.org/abs/2505.12337v1)|null|
@@ -715,6 +716,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089v1](http://arxiv.org/abs/2505.22089v1)|null|
 |**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729v1](http://arxiv.org/abs/2505.20729v1)|null|
 |**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854v1](http://arxiv.org/abs/2505.19854v1)|null|
 |**2025-05-25**|**Improving Novel view synthesis of 360 $^\circ$ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images**|Guangan Chen et.al.|[2505.19264v1](http://arxiv.org/abs/2505.19264v1)|**[link](https://github.com/angchen-dev/hemisparsegs)**|
@@ -1057,6 +1059,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**|Junhuan Liu et.al.|[2505.22098v1](http://arxiv.org/abs/2505.22098v1)|null|
+|**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089v1](http://arxiv.org/abs/2505.22089v1)|null|
+|**2025-05-27**|**Visual Loop Closure Detection Through Deep Graph Consensus**|Martin Büchner et.al.|[2505.21754v1](http://arxiv.org/abs/2505.21754v1)|null|
+|**2025-05-27**|**QuARI: Query Adaptive Retrieval Improvement**|Eric Xing et.al.|[2505.21647v1](http://arxiv.org/abs/2505.21647v1)|null|
 |**2025-05-27**|**ConText-CIR: Learning from Concepts in Text for Composed Image Retrieval**|Eric Xing et.al.|[2505.20764v1](http://arxiv.org/abs/2505.20764v1)|null|
 |**2025-05-26**|**Visualized Text-to-Image Retrieval**|Di Wu et.al.|[2505.20291v1](http://arxiv.org/abs/2505.20291v1)|**[link](https://github.com/xiaowu0162/visualize-then-retrieve)**|
 |**2025-05-26**|**Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19952v1](http://arxiv.org/abs/2505.19952v1)|null|
@@ -2516,6 +2522,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458v1](http://arxiv.org/abs/2505.22458v1)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|null|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264v1](http://arxiv.org/abs/2505.11264v1)|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375v1](http://arxiv.org/abs/2505.07375v1)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
@@ -4813,6 +4820,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**STDR: Spatio-Temporal Decoupling for Real-Time Dynamic Scene Rendering**|Zehao Li et.al.|[2505.22400v1](http://arxiv.org/abs/2505.22400v1)|null|
+|**2025-05-28**|**UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments**|Wancai Zheng et.al.|[2505.22335v1](http://arxiv.org/abs/2505.22335v1)|null|
+|**2025-05-28**|**Learning Fine-Grained Geometry for Sparse-View Splatting via Cascade Depth Loss**|Wenjun Lu et.al.|[2505.22279v1](http://arxiv.org/abs/2505.22279v1)|null|
+|**2025-05-28**|**Hyperspectral Gaussian Splatting**|Sunil Kumar Narayanan et.al.|[2505.21890v1](http://arxiv.org/abs/2505.21890v1)|null|
 |**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502v1](http://arxiv.org/abs/2505.21502v1)|null|
 |**2025-05-27**|**Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility**|Yidi Li et.al.|[2505.21377v1](http://arxiv.org/abs/2505.21377v1)|null|
 |**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335v1](http://arxiv.org/abs/2505.21335v1)|null|
