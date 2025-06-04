@@ -720,6 +720,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-02**|**Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**|Yaroslava Lochman et.al.|[2506.01940v1](http://arxiv.org/abs/2506.01940v1)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756v1](http://arxiv.org/abs/2505.23756v1)|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089v1](http://arxiv.org/abs/2505.22089v1)|null|
 |**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729v1](http://arxiv.org/abs/2505.20729v1)|null|
@@ -1064,6 +1065,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-02**|**Entity Image and Mixed-Modal Image Retrieval Datasets**|Cristian-Ioan Blaga et.al.|[2506.02291v1](http://arxiv.org/abs/2506.02291v1)|null|
+|**2025-06-01**|**Quantization-based Bounds on the Wasserstein Metric**|Jonathan Bobrutsky et.al.|[2506.00976v1](http://arxiv.org/abs/2506.00976v1)|null|
 |**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441v1](http://arxiv.org/abs/2505.24441v1)|null|
 |**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763v1](http://arxiv.org/abs/2505.23763v1)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859v1](http://arxiv.org/abs/2505.22859v1)|null|
@@ -4830,6 +4833,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**DyTact: Capturing Dynamic Contacts in Hand-Object Manipulation**|Xiaoyan Cong et.al.|[2506.03103v1](http://arxiv.org/abs/2506.03103v1)|null|
+|**2025-06-03**|**LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**|Roman Titkov et.al.|[2506.03073v1](http://arxiv.org/abs/2506.03073v1)|null|
+|**2025-06-03**|**Large Processor Chip Model**|Kaiyan Chang et.al.|[2506.02929v1](http://arxiv.org/abs/2506.02929v1)|null|
+|**2025-06-03**|**PhysGaia: A Physics-Aware Dataset of Multi-Body Interactions for Dynamic Novel View Synthesis**|Mijeong Kim et.al.|[2506.02794v1](http://arxiv.org/abs/2506.02794v1)|null|
+|**2025-06-03**|**Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone**|Zheng Liu et.al.|[2506.02774v1](http://arxiv.org/abs/2506.02774v1)|null|
+|**2025-06-03**|**RobustSplat: Decoupling Densification and Dynamics for Transient-Free 3DGS**|Chuanyu Fu et.al.|[2506.02751v1](http://arxiv.org/abs/2506.02751v1)|null|
+|**2025-06-03**|**EyeNavGS: A 6-DoF Navigation Dataset and Record-n-Replay Software for Real-World 3DGS Scenes in VR**|Zihao Ding et.al.|[2506.02380v1](http://arxiv.org/abs/2506.02380v1)|**[link](https://github.com/symmru/EyeNavGS_Software)**|
+|**2025-06-02**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933v1](http://arxiv.org/abs/2506.01933v1)|null|
+|**2025-06-02**|**GSCodec Studio: A Modular Framework for Gaussian Splat Compression**|Sicheng Li et.al.|[2506.01822v1](http://arxiv.org/abs/2506.01822v1)|null|
+|**2025-06-02**|**WorldExplorer: Towards Generating Fully Navigable 3D Scenes**|Manuel-Andreas Schneider et.al.|[2506.01799v1](http://arxiv.org/abs/2506.01799v1)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877v1](http://arxiv.org/abs/2505.24877v1)|null|
 |**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796v1](http://arxiv.org/abs/2505.24796v1)|null|
 |**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746v1](http://arxiv.org/abs/2505.24746v1)|null|
