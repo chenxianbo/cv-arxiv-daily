@@ -3997,7 +3997,7 @@
 |**2024-05-06**|**Class-relevant Patch Embedding Selection for Few-Shot Image Classification**|Weihao Jiang et.al.|[2405.03722v1](http://arxiv.org/abs/2405.03722v1)|null|
 |**2024-05-06**|**Intra-task Mutual Attention based Vision Transformer for Few-Shot Learning**|Weihao Jiang et.al.|[2405.03109v1](http://arxiv.org/abs/2405.03109v1)|null|
 |**2024-05-06**|**Structure-Preserving Network Compression Via Low-Rank Induced Training Through Linear Layers Composition**|Xitong Zhang et.al.|[2405.03089v1](http://arxiv.org/abs/2405.03089v1)|**[link](https://github.com/xitongsystem/lorita)**|
-|**2024-05-05**|**MR-Transformer: Vision Transformer for Total Knee Replacement Prediction Using Magnetic Resonance Imaging**|Chaojie Zhang et.al.|[2405.02784v1](http://arxiv.org/abs/2405.02784v1)|null|
+|**2024-05-05**|**MR-Transformer: Vision Transformer for Total Knee Replacement Prediction Using Magnetic Resonance Imaging**|Chaojie Zhang et.al.|[2405.02784v1](http://arxiv.org/abs/2405.02784v1)|**[link](https://github.com/denizlab/mr-transformer)**|
 |**2024-05-04**|**Boosting 3D Neuron Segmentation with 2D Vision Transformer Pre-trained on Natural Images**|Yik San Cheng et.al.|[2405.02686v1](http://arxiv.org/abs/2405.02686v1)|null|
 |**2024-05-04**|**ViTALS: Vision Transformer for Action Localization in Surgical Nephrectomy**|Soumyadeep Chandra et.al.|[2405.02571v1](http://arxiv.org/abs/2405.02571v1)|null|
 |**2024-05-03**|**What matters when building vision-language models?**|Hugo Laurençon et.al.|[2405.02246v1](http://arxiv.org/abs/2405.02246v1)|null|
@@ -4867,8 +4867,8 @@
 |**2025-06-02**|**GSCodec Studio: A Modular Framework for Gaussian Splat Compression**|Sicheng Li et.al.|[2506.01822v1](http://arxiv.org/abs/2506.01822v1)|null|
 |**2025-06-02**|**WorldExplorer: Towards Generating Fully Navigable 3D Scenes**|Manuel-Andreas Schneider et.al.|[2506.01799v1](http://arxiv.org/abs/2506.01799v1)|null|
 |**2025-05-30**|**AdaHuman: Animatable Detailed 3D Human Generation with Compositional Multiview Diffusion**|Yangyi Huang et.al.|[2505.24877v1](http://arxiv.org/abs/2505.24877v1)|null|
-|**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796v1](http://arxiv.org/abs/2505.24796v1)|null|
-|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746v1](http://arxiv.org/abs/2505.24746v1)|null|
+|**2025-05-30**|**TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores**|Zimu Liao et.al.|[2505.24796v1](http://arxiv.org/abs/2505.24796v1)|**[link](https://github.com/tensorcore3dgs/3dgstensorcore)**|
+|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746v1](http://arxiv.org/abs/2505.24746v1)|**[link](https://github.com/sjtu-deepvisionlab/laga)**|
 |**2025-05-30**|**GARLIC: GAussian Representation LearnIng for spaCe partitioning**|Panagiotis Rigas et.al.|[2505.24608v1](http://arxiv.org/abs/2505.24608v1)|null|
 |**2025-05-30**|**LTM3D: Bridging Token Spaces for Conditional 3D Generation with Auto-Regressive Diffusion Framework**|Xin Kang et.al.|[2505.24245v1](http://arxiv.org/abs/2505.24245v1)|null|
 |**2025-05-29**|**3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians**|Zixun Huang et.al.|[2505.24053v1](http://arxiv.org/abs/2505.24053v1)|**[link](https://github.com/zixunh/3DGEER)**|
@@ -4882,7 +4882,7 @@
 |**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158v1](http://arxiv.org/abs/2505.23158v1)|null|
 |**2025-05-29**|**Pose-free 3D Gaussian splatting via shape-ray estimation**|Youngju Na et.al.|[2505.22978v1](http://arxiv.org/abs/2505.22978v1)|null|
 |**2025-05-28**|**3DGS Compression with Sparsity-guided Hierarchical Transform Coding**|Hao Xu et.al.|[2505.22908v1](http://arxiv.org/abs/2505.22908v1)|null|
-|**2025-05-28**|**CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting**|Kornel Howil et.al.|[2505.22854v1](http://arxiv.org/abs/2505.22854v1)|null|
+|**2025-05-28**|**CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting**|Kornel Howil et.al.|[2505.22854v1](http://arxiv.org/abs/2505.22854v1)|**[link](https://github.com/kornelhowil/clipgaussian)**|
 |**2025-05-28**|**STDR: Spatio-Temporal Decoupling for Real-Time Dynamic Scene Rendering**|Zehao Li et.al.|[2505.22400v1](http://arxiv.org/abs/2505.22400v1)|null|
 |**2025-05-28**|**UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments**|Wancai Zheng et.al.|[2505.22335v1](http://arxiv.org/abs/2505.22335v1)|null|
 |**2025-05-28**|**Learning Fine-Grained Geometry for Sparse-View Splatting via Cascade Depth Loss**|Wenjun Lu et.al.|[2505.22279v1](http://arxiv.org/abs/2505.22279v1)|null|
