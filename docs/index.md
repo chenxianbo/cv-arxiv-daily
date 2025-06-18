@@ -1076,6 +1076,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707v1](http://arxiv.org/abs/2506.14707v1)|null|
+|**2025-06-17**|**TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**|Jeewon Kim et.al.|[2506.14178v1](http://arxiv.org/abs/2506.14178v1)|null|
 |**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509v1](http://arxiv.org/abs/2506.13509v1)|null|
 |**2025-06-16**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496v1](http://arxiv.org/abs/2506.13496v1)|null|
 |**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133v1](http://arxiv.org/abs/2506.13133v1)|null|
@@ -4867,6 +4869,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742v1](http://arxiv.org/abs/2506.14742v1)|null|
+|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642v1](http://arxiv.org/abs/2506.14642v1)|null|
+|**2025-06-17**|**HRGS: Hierarchical Gaussian Splatting for Memory-Efficient High-Resolution 3D Reconstruction**|Changbai Li et.al.|[2506.14229v1](http://arxiv.org/abs/2506.14229v1)|null|
+|**2025-06-17**|**GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation**|Ying Chai et.al.|[2506.14135v1](http://arxiv.org/abs/2506.14135v1)|null|
+|**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2506.14009v1](http://arxiv.org/abs/2506.14009v1)|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|null|
 |**2025-06-16**|**Vid-CamEdit: Video Camera Trajectory Editing with Generative Rendering from Estimated Geometry**|Junyoung Seo et.al.|[2506.13697v1](http://arxiv.org/abs/2506.13697v1)|null|
 |**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516v1](http://arxiv.org/abs/2506.13516v1)|null|
