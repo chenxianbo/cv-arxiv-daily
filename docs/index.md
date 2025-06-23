@@ -93,7 +93,7 @@ layout: default
 |**2025-01-07**|**MAD-BA: 3D LiDAR Bundle Adjustment -- from Uncertainty Modelling to Structure Optimization**|Krzysztof Ćwian et.al.|[2501.03972v1](http://arxiv.org/abs/2501.03972v1)|null|
 |**2025-01-06**|**Targetless Intrinsics and Extrinsic Calibration of Multiple LiDARs and Cameras with IMU using Continuous-Time Estimation**|Yuezhang Lv et.al.|[2501.02821v1](http://arxiv.org/abs/2501.02821v1)|null|
 |**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082v1](http://arxiv.org/abs/2412.20082v1)|null|
-|**2025-01-18**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923v3](http://arxiv.org/abs/2412.16923v3)|null|
+|**2025-01-18**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923v3](http://arxiv.org/abs/2412.16923v3)|**[link](https://github.com/zhaoxingZ/STVO)**|
 |**2024-12-18**|**Event-based Photometric Bundle Adjustment**|Shuang Guo et.al.|[2412.14111v1](http://arxiv.org/abs/2412.14111v1)|**[link](https://github.com/tub-rip/epba)**|
 |**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639v1](http://arxiv.org/abs/2412.13639v1)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
 |**2024-12-17**|**NFL-BA: Improving Endoscopic SLAM with Near-Field Light Bundle Adjustment**|Andrea Dunn Beltran et.al.|[2412.13176v1](http://arxiv.org/abs/2412.13176v1)|null|
@@ -737,7 +737,7 @@ layout: default
 |**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729v1](http://arxiv.org/abs/2505.20729v1)|null|
 |**2025-05-29**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854v2](http://arxiv.org/abs/2505.19854v2)|null|
 |**2025-05-25**|**Improving Novel view synthesis of 360 $^\circ$ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images**|Guangan Chen et.al.|[2505.19264v1](http://arxiv.org/abs/2505.19264v1)|**[link](https://github.com/angchen-dev/hemisparsegs)**|
-|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|null|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-23**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882v2](http://arxiv.org/abs/2505.16882v2)|**[link](https://github.com/neuroinformatics-unit/zebras-stitching)**|
 |**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814v1](http://arxiv.org/abs/2505.15814v1)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751v1](http://arxiv.org/abs/2505.10751v1)|**[link](https://github.com/lrse/sodm)**|
@@ -1086,7 +1086,7 @@ layout: default
 |**2025-06-14**|**Feature Complementation Architecture for Visual Place Recognition**|Weiwei Wang et.al.|[2506.12401v1](http://arxiv.org/abs/2506.12401v1)|null|
 |**2025-06-11**|**Towards a general-purpose foundation model for fMRI analysis**|Cheng Wang et.al.|[2506.11167v1](http://arxiv.org/abs/2506.11167v1)|null|
 |**2025-06-11**|**Improving Personalized Search with Regularized Low-Rank Parameter Updates**|Fiona Ryan et.al.|[2506.10182v1](http://arxiv.org/abs/2506.10182v1)|**[link](https://github.com/adobe-research/polar-vl)**|
-|**2025-06-10**|**Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment**|Tianyu Chen et.al.|[2506.10030v1](http://arxiv.org/abs/2506.10030v1)|null|
+|**2025-06-10**|**Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment**|Tianyu Chen et.al.|[2506.10030v1](http://arxiv.org/abs/2506.10030v1)|**[link](https://github.com/tychenn/aqua)**|
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748v1](http://arxiv.org/abs/2506.09748v1)|null|
 |**2025-06-10**|**Robust Visual Localization via Semantic-Guided Multi-Scale Transformer**|Zhongtao Tian et.al.|[2506.08526v1](http://arxiv.org/abs/2506.08526v1)|null|
 |**2025-06-08**|**Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs**|Yikun Ji et.al.|[2506.07045v1](http://arxiv.org/abs/2506.07045v1)|null|
@@ -1113,7 +1113,7 @@ layout: default
 |**2025-05-24**|**TNG-CLIP:Training-Time Negation Data Generation for Negation Awareness of CLIP**|Yuliang Cai et.al.|[2505.18434v1](http://arxiv.org/abs/2505.18434v1)|null|
 |**2025-05-23**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364v1](http://arxiv.org/abs/2505.18364v1)|null|
 |**2025-05-23**|**DART $^3$ : Leveraging Distance for Test Time Adaptation in Person Re-Identification**|Rajarshi Bhattacharya et.al.|[2505.18337v1](http://arxiv.org/abs/2505.18337v1)|null|
-|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|null|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796v1](http://arxiv.org/abs/2505.17796v1)|null|
 |**2025-05-23**|**CU-Multi: A Dataset for Multi-Robot Data Association**|Doncey Albin et.al.|[2505.17576v1](http://arxiv.org/abs/2505.17576v1)|null|
 |**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447v1](http://arxiv.org/abs/2505.16447v1)|null|
@@ -4881,9 +4881,9 @@ layout: default
 |**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2506.14009v1](http://arxiv.org/abs/2506.14009v1)|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|null|
 |**2025-06-16**|**Vid-CamEdit: Video Camera Trajectory Editing with Generative Rendering from Estimated Geometry**|Junyoung Seo et.al.|[2506.13697v1](http://arxiv.org/abs/2506.13697v1)|null|
-|**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516v1](http://arxiv.org/abs/2506.13516v1)|null|
+|**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516v1](http://arxiv.org/abs/2506.13516v1)|**[link](https://github.com/kidleyh/smw-gs)**|
 |**2025-06-16**|**Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields**|Jungeon Kim et.al.|[2506.13508v1](http://arxiv.org/abs/2506.13508v1)|null|
-|**2025-06-16**|**TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting**|Mae Younes et.al.|[2506.13348v1](http://arxiv.org/abs/2506.13348v1)|null|
+|**2025-06-16**|**TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting**|Mae Younes et.al.|[2506.13348v1](http://arxiv.org/abs/2506.13348v1)|**[link](https://github.com/maeyounes/texturesplat)**|
 |**2025-06-16**|**GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction**|Jinguang Tong et.al.|[2506.13110v1](http://arxiv.org/abs/2506.13110v1)|null|
 |**2025-06-16**|**WildCAT3D: Appearance-Aware Multi-View Diffusion in the Wild**|Morris Alper et.al.|[2506.13030v1](http://arxiv.org/abs/2506.13030v1)|null|
 |**2025-06-15**|**Metropolis-Hastings Sampling for 3D Gaussian Reconstruction**|Hyunjin Kim et.al.|[2506.12945v1](http://arxiv.org/abs/2506.12945v1)|null|
@@ -4891,7 +4891,7 @@ layout: default
 |**2025-06-17**|**Efficient multi-view training for 3D Gaussian Splatting**|Minhyuk Choi et.al.|[2506.12727v2](http://arxiv.org/abs/2506.12727v2)|null|
 |**2025-06-13**|**Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation**|Min-Seop Kwak et.al.|[2506.11924v1](http://arxiv.org/abs/2506.11924v1)|null|
 |**2025-06-13**|**CGVQM+D: Computer Graphics Video Quality Metric and Dataset**|Akshay Jindal et.al.|[2506.11546v1](http://arxiv.org/abs/2506.11546v1)|null|
-|**2025-06-12**|**Anti-Aliased 2D Gaussian Splatting**|Mae Younes et.al.|[2506.11252v1](http://arxiv.org/abs/2506.11252v1)|null|
+|**2025-06-12**|**Anti-Aliased 2D Gaussian Splatting**|Mae Younes et.al.|[2506.11252v1](http://arxiv.org/abs/2506.11252v1)|**[link](https://github.com/maeyounes/aa-2dgs)**|
 |**2025-06-12**|**SceneCompleter: Dense 3D Scene Completion for Generative Novel View Synthesis**|Weiliang Chen et.al.|[2506.10981v1](http://arxiv.org/abs/2506.10981v1)|null|
 |**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335v1](http://arxiv.org/abs/2506.10335v1)|null|
 |**2025-06-11**|**DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**|Chieh Hubert Lin et.al.|[2506.09997v1](http://arxiv.org/abs/2506.09997v1)|null|
@@ -4904,13 +4904,13 @@ layout: default
 |**2025-06-11**|**TinySplat: Feedforward Approach for Generating Compact 3D Scene Representation**|Zetian Song et.al.|[2506.09479v1](http://arxiv.org/abs/2506.09479v1)|null|
 |**2025-06-11**|**UniForward: Unified 3D Scene and Semantic Field Reconstruction via Feed-Forward Gaussian Splatting from Only Sparse-View Images**|Qijian Tian et.al.|[2506.09378v1](http://arxiv.org/abs/2506.09378v1)|null|
 |**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan et.al.|[2506.09035v1](http://arxiv.org/abs/2506.09035v1)|null|
-|**2025-06-10**|**StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams**|Zike Wu et.al.|[2506.08862v1](http://arxiv.org/abs/2506.08862v1)|null|
+|**2025-06-10**|**StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams**|Zike Wu et.al.|[2506.08862v1](http://arxiv.org/abs/2506.08862v1)|**[link](https://github.com/nickwzk/streamsplat)**|
 |**2025-06-10**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777v1](http://arxiv.org/abs/2506.08777v1)|null|
 |**2025-06-10**|**SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting**|Mengjiao Ma et.al.|[2506.08710v1](http://arxiv.org/abs/2506.08710v1)|null|
 |**2025-06-10**|**TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering**|Xiaohan Zhang et.al.|[2506.08704v1](http://arxiv.org/abs/2506.08704v1)|null|
 |**2025-06-10**|**Complex-Valued Holographic Radiance Fields**|Yicheng Zhan et.al.|[2506.08350v1](http://arxiv.org/abs/2506.08350v1)|null|
 |**2025-06-09**|**Dynamic View Synthesis as an Inverse Problem**|Hidir Yesiltepe et.al.|[2506.08004v1](http://arxiv.org/abs/2506.08004v1)|null|
-|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917v1](http://arxiv.org/abs/2506.07917v1)|null|
+|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917v1](http://arxiv.org/abs/2506.07917v1)|**[link](https://github.com/tuallen/speede3dgs)**|
 |**2025-06-09**|**GaussianVAE: Adaptive Learning Dynamics of 3D Gaussians for High-Fidelity Super-Resolution**|Shuja Khalid et.al.|[2506.07897v1](http://arxiv.org/abs/2506.07897v1)|null|
 |**2025-06-09**|**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**|William Ljungbergh et.al.|[2506.07826v1](http://arxiv.org/abs/2506.07826v1)|null|
 |**2025-06-09**|**OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting**|Jens Piekenbrinck et.al.|[2506.07697v1](http://arxiv.org/abs/2506.07697v1)|null|
@@ -5070,7 +5070,7 @@ layout: default
 |**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383v1](http://arxiv.org/abs/2505.01383v1)|null|
 |**2025-05-02**|**Compensating Spatiotemporally Inconsistent Observations for Online Dynamic 3D Gaussian Splatting**|Youngsik Yun et.al.|[2505.01235v1](http://arxiv.org/abs/2505.01235v1)|null|
 |**2025-05-02**|**High Dynamic Range Novel View Synthesis with Single Exposure**|Kaixuan Zhang et.al.|[2505.01212v1](http://arxiv.org/abs/2505.01212v1)|**[link](https://github.com/prinasi/mono-hdr-3d)**|
-|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737v1](http://arxiv.org/abs/2505.00737v1)|null|
+|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737v1](http://arxiv.org/abs/2505.00737v1)|**[link](https://github.com/jiajiali04/3d-reconstruction-plants)**|
 |**2025-04-29**|**Unconstrained Large-scale 3D Reconstruction and Rendering across Altitudes**|Neil Joshi et.al.|[2505.00734v1](http://arxiv.org/abs/2505.00734v1)|null|
 |**2025-05-01**|**RayZer: A Self-supervised Large View Synthesis Model**|Hanwen Jiang et.al.|[2505.00702v1](http://arxiv.org/abs/2505.00702v1)|null|
 |**2025-05-01**|**Real-Time Animatable 2DGS-Avatars with Detail Enhancement from Monocular Videos**|Xia Yuan et.al.|[2505.00421v1](http://arxiv.org/abs/2505.00421v1)|null|
