@@ -27,6 +27,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Uncertainty Quantification Framework for Aerial and UAV Photogrammetry through Error Propagation**|Debao Huang et.al.|[2507.13486v1](http://arxiv.org/abs/2507.13486v1)|null|
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145v1](http://arxiv.org/abs/2507.13145v1)|null|
 |**2025-07-12**|**DLBAcalib: Robust Extrinsic Calibration for Non-Overlapping LiDARs Based on Dual LBA**|Han Ye et.al.|[2507.09176v1](http://arxiv.org/abs/2507.09176v1)|null|
 |**2025-07-10**|**Hardware-Aware Feature Extraction Quantisation for Real-Time Visual Odometry on FPGA Platforms**|Mateusz Wasala et.al.|[2507.07903v1](http://arxiv.org/abs/2507.07903v1)|null|
@@ -736,6 +737,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Uncertainty Quantification Framework for Aerial and UAV Photogrammetry through Error Propagation**|Debao Huang et.al.|[2507.13486v1](http://arxiv.org/abs/2507.13486v1)|null|
 |**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095v1](http://arxiv.org/abs/2507.12095v1)|null|
 |**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[2507.08448v1](http://arxiv.org/abs/2507.08448v1)|null|
 |**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao et.al.|[2507.03306v1](http://arxiv.org/abs/2507.03306v1)|null|
@@ -4947,6 +4949,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Neural-GASh: A CGA-based neural radiance prediction pipeline for real-time shading**|Efstratios Geronikolakis et.al.|[2507.13917v1](http://arxiv.org/abs/2507.13917v1)|null|
+|**2025-07-18**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891v1](http://arxiv.org/abs/2507.13891v1)|null|
+|**2025-07-18**|**TexGS-VolVis: Expressive Scene Editing for Volume Visualization via Textured Gaussian Splatting**|Kaiyuan Tang et.al.|[2507.13586v1](http://arxiv.org/abs/2507.13586v1)|null|
 |**2025-07-17**|**Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models**|Yudong Jin et.al.|[2507.13344v1](http://arxiv.org/abs/2507.13344v1)|null|
 |**2025-07-16**|**VolSegGS: Segmentation and Tracking in Dynamic Volumetric Scenes via Deformable 3D Gaussians**|Siyuan Yao et.al.|[2507.12667v1](http://arxiv.org/abs/2507.12667v1)|null|
 |**2025-07-16**|**Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos**|Kaihua Chen et.al.|[2507.12646v1](http://arxiv.org/abs/2507.12646v1)|null|
